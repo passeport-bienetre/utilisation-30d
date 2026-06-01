@@ -1,18 +1,18 @@
 {
-  "carte": "36741",
-  "name": "Laeticia",
+  "carte": "35726",
+  "name": "Neda",
   "last_visit": {
-    "etab_name": "BL Institut",
-    "etab_slug": "bl-institut-2",
-    "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/bl-institut-2/",
-    "category": "Epilation",
+    "etab_name": "Thaiotop",
+    "etab_slug": "thaiotop-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
+    "category": "Soins Duo",
     "canton": "Genève",
-    "visites": 212,
+    "visites": 706,
     "note": "4.5/5",
-    "blurb": "L'institut éco-responsable trois-en-un : boutique cosmétique en vrac, soins cabine et ateliers. Le bien-être avec impact mesuré.",
-    "date_iso": "2026-04-28",
-    "date_pretty": "le 28 avril"
+    "blurb": "Thaiotop, massage relaxant ou revigorant. Une pause onctueuse pour oublier le stress du quotidien.",
+    "date_iso": "2026-05-02",
+    "date_pretty": "le 2 mai"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Genève",
@@ -20,7 +20,7 @@
     {
       "etab_name": "BEAUTY B",
       "etab_slug": "bv-institut",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "category": "Soins Hommes",
       "canton": "Genève",
@@ -32,7 +32,7 @@
     {
       "etab_name": "Blossom Institut",
       "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "category": "Soins Hommes",
       "canton": "Genève",
@@ -44,7 +44,7 @@
     {
       "etab_name": "HÔTEL BORSARI",
       "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
       "category": "Hôtels",
       "canton": "Valais",

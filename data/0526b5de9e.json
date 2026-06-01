@@ -1,18 +1,18 @@
 {
-  "carte": "34981",
-  "name": "Sandrine",
+  "carte": "39156",
+  "name": "Mireille",
   "last_visit": {
-    "etab_name": "Arte Beauty Lutry",
-    "etab_slug": "arte-beauty-lutry",
-    "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+    "etab_name": "Salon Privé Ecublens",
+    "etab_slug": "salon-prive-ecublens",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
     "category": "Soins Hommes",
     "canton": "Vaud",
-    "visites": 1090,
-    "note": "4/5",
-    "blurb": "L'antenne Arte Beauty à Lutry. Mêmes marques de référence (OPI, LPG, Kérastase, Fillmed) en version riveraine du Léman.",
-    "date_iso": "2026-04-28",
-    "date_pretty": "le 28 avril"
+    "visites": 73,
+    "note": "4.5/5",
+    "blurb": "Salon Privé à proximité de la gare de Lausanne. Coiffeurs formés à l'international et expertise reconnue pour une prestation à la hauteur de la beauté naturelle.",
+    "date_iso": "2026-05-02",
+    "date_pretty": "le 2 mai"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Vaud",
@@ -20,7 +20,7 @@
     {
       "etab_name": "1er Acte Coiffure",
       "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "category": "Soins Hommes",
       "canton": "Vaud",
@@ -32,7 +32,7 @@
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "category": "Soins Hommes",
       "canton": "Vaud",
@@ -44,7 +44,7 @@
     {
       "etab_name": "HÔTEL BORSARI",
       "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
       "category": "Hôtels",
       "canton": "Valais",

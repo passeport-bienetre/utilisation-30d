@@ -1,18 +1,18 @@
 {
-  "carte": "34585",
-  "name": "Auriane",
+  "carte": "34273",
+  "name": "TATIANA",
   "last_visit": {
-    "etab_name": "Salon Privé Gare",
-    "etab_slug": "salon-prive",
-    "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/salon-prive.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
-    "category": "Soins Hommes",
+    "etab_name": "LA MAISON VALMONT – BONGENIE",
+    "etab_slug": "la-maison-valmont-lausanne",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
+    "category": "Lausanne région",
     "canton": "Vaud",
-    "visites": 484,
-    "note": "4.5/5",
-    "blurb": "Salon Privé près de la gare de Lausanne. L'Oréal Professionnel, Kérastase, Davines et équipe formée à New York et Sydney : la couleur comme signature.",
-    "date_iso": "2026-04-28",
-    "date_pretty": "le 28 avril"
+    "visites": 41,
+    "note": "5/5",
+    "blurb": "La Maison Valmont sur la Place St-François. Anti-âge Valmont, Elixir des Glaciers, Storie Veneziane et collection d'art Didier Guillon : le must beauté lausannois.",
+    "date_iso": "2026-05-02",
+    "date_pretty": "le 2 mai"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Vaud",
@@ -20,7 +20,7 @@
     {
       "etab_name": "1er Acte Coiffure",
       "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "category": "Soins Hommes",
       "canton": "Vaud",
@@ -32,7 +32,7 @@
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "category": "Soins Hommes",
       "canton": "Vaud",
@@ -44,7 +44,7 @@
     {
       "etab_name": "HÔTEL BORSARI",
       "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
       "category": "Hôtels",
       "canton": "Valais",

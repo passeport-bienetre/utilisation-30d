@@ -1,18 +1,18 @@
 {
-  "carte": "32292",
-  "name": "Patricia",
+  "carte": "36557",
+  "name": "Frédéric",
   "last_visit": {
-    "etab_name": "Bains d'Ovronnaz",
-    "etab_slug": "bains-dovronnaz",
-    "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bains-dovronnaz.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
+    "etab_name": "Lumen Spa & Wellness",
+    "etab_slug": "lumen-spa-wellness",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/",
     "category": "Massage",
     "canton": "Valais",
-    "visites": 125,
-    "note": "4/5",
-    "blurb": "Les bains thermaux d'Ovronnaz, perchés à 1350m en Valais, abritent 3 bassins intérieurs et extérieurs et un Panoramic Alpine SPA de 1000 m². L'altitude à l'horizon.",
-    "date_iso": "2026-04-28",
-    "date_pretty": "le 28 avril"
+    "visites": 10,
+    "note": "5/5",
+    "blurb": "Le Lumen Spa. Massages enveloppants, pressions profondes, pierres chaudes, réflexologie et soin signature holistique. Accès réservé aux 16 ans et plus pour préserver la sérénité.",
+    "date_iso": "2026-05-02",
+    "date_pretty": "le 2 mai"
   },
   "top_category": "Massage",
   "top_canton": "Valais",
@@ -20,7 +20,7 @@
     {
       "etab_name": "Chandolin Boutique Hôtel",
       "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "category": "Massage",
       "canton": "Valais",
@@ -32,7 +32,7 @@
     {
       "etab_name": "Flocoon Spa Cinq Mondes",
       "etab_slug": "flocoon-spa-cinq-mondes",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "category": "Massage",
       "canton": "Valais",
@@ -44,7 +44,7 @@
     {
       "etab_name": "HÔTEL BORSARI",
       "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
       "category": "Hôtels",
       "canton": "Valais",
