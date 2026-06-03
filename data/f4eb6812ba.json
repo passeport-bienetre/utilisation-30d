@@ -1,20 +1,20 @@
 {
-  "carte": "31615",
-  "name": "Claire",
+  "carte": "36228",
+  "name": "Chantal",
   "last_visit": {
-    "etab_name": "Nueva Luna Yoga",
-    "etab_slug": "nueva-luna-yoga",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
-    "category": "Soins Hommes",
+    "etab_name": "Maison Perle",
+    "etab_slug": "maison-perle",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+    "category": "Lausanne région",
     "canton": "Vaud",
-    "visites": 133,
+    "visites": 155,
     "note": "5/5",
-    "blurb": "Nueva Luna Yoga, au cœur de Lausanne. Plus qu'un studio, une communauté en mouvement, avec une énergie de renouveau ouverte à tous les niveaux.",
-    "date_iso": "2026-05-03",
-    "date_pretty": "le 3 mai"
+    "blurb": "Maison Perle à Crissier, entièrement rénovée. Fatma propose des soins exigeants : Microblading, plasma, laser, avec la maîtrise technique au service du résultat.",
+    "date_iso": "2026-05-04",
+    "date_pretty": "le 4 mai"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -22,19 +22,19 @@
       "etab_slug": "1er-acte-coiffure",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "category": "Lausanne région",
+      "category": "Soins Hommes",
       "canton": "Vaud",
-      "visites": 707,
+      "visites": 711,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Parce que vous aimez Lausanne région"
+      "reason": "Parce que vous aimez Soins Hommes"
     },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "category": "Lausanne région",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "visites": 175,
       "note": "5/5",
