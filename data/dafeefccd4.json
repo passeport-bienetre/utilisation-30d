@@ -1,0 +1,57 @@
+{
+  "carte": "34932",
+  "name": "Silvia",
+  "last_visit": {
+    "etab_name": "SUBLIMEYES",
+    "etab_slug": "institut-sublimeyes",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+    "category": "Soins Hommes",
+    "canton": "Genève",
+    "visites": 81,
+    "note": "5/5",
+    "blurb": "SublimEyes au cœur de Genève, spécialiste du regard. Épilation au fil, teinture, rehaussement de cils et Microblading : la beauté pensée à hauteur d'œil.",
+    "date_iso": "2026-05-04",
+    "date_pretty": "le 4 mai"
+  },
+  "top_category": "Soins Hommes",
+  "top_canton": "Genève",
+  "suggestions": [
+    {
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visites": 145,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "reason": "Parce que vous aimez Soins Hommes"
+    },
+    {
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visites": 8,
+      "note": "5/5",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
