@@ -1,20 +1,20 @@
 {
-  "carte": "32701",
-  "name": "Virginie",
+  "carte": "34949",
+  "name": "Anne",
   "last_visit": {
-    "etab_name": "Swiss Aesthetica",
-    "etab_slug": "swiss-aesthetica",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
-    "category": "Lausanne région",
+    "etab_name": "Royal Savoy Hôtel & Spa",
+    "etab_slug": "royal-savoy-hotel-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+    "category": "Future Maman",
     "canton": "Vaud",
-    "visites": 626,
-    "note": "4.5/5",
-    "blurb": "Swiss Aesthetica à Lausanne. Hammam traditionnel, cabines de soins et philosophie alliant technicité et relaxation profonde : la sérénité au service du résultat.",
-    "date_iso": "2026-05-05",
-    "date_pretty": "le 5 mai"
+    "visites": 2910,
+    "note": "5/5",
+    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
+    "date_iso": "2026-05-06",
+    "date_pretty": "le 6 mai"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -22,19 +22,19 @@
       "etab_slug": "1er-acte-coiffure",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "category": "Lausanne région",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "visites": 712,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Parce que vous aimez Lausanne région"
+      "reason": "Parce que vous aimez Soins Hommes"
     },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "category": "Lausanne région",
+      "category": "Soins Hommes",
       "canton": "Vaud",
       "visites": 175,
       "note": "5/5",

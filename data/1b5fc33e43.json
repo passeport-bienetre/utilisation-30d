@@ -1,20 +1,20 @@
 {
-  "carte": "36647",
-  "name": "SOPHIE",
+  "carte": "36944",
+  "name": "Eva",
   "last_visit": {
-    "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-    "etab_slug": "lavalleespa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
-    "category": "Soins Hommes",
+    "etab_name": "GLOW IN GENEVA",
+    "etab_slug": "glow-in-geneva",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
+    "category": "Soins du Visage",
     "canton": "Genève",
-    "visites": 136,
-    "note": "5/5",
-    "blurb": "Les La Vallée SPA Suites du Ritz-Carlton Hotel de la Paix Genève. Soins du visage et du corps signés Beauty Experts aux ingrédients naturels suisses, entre Alpes et Léman.",
-    "date_iso": "2026-05-05",
-    "date_pretty": "le 5 mai"
+    "visites": 59,
+    "note": "4.5/5",
+    "blurb": "Glow, la pause beauté revisitée à Genève. Soin visage high-tech en open space, matcha à siroter, atmosphère feel good : l'éclat intérieur autant qu'extérieur.",
+    "date_iso": "2026-05-06",
+    "date_pretty": "le 6 mai"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins du Visage",
   "top_canton": "Genève",
   "suggestions": [
     {
@@ -22,21 +22,21 @@
       "etab_slug": "bv-institut",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
-      "category": "Soins Hommes",
+      "category": "Soins du Visage",
       "canton": "Genève",
       "visites": 145,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "reason": "Parce que vous aimez Soins Hommes"
+      "reason": "Parce que vous aimez Soins du Visage"
     },
     {
       "etab_name": "Blossom Institut",
       "etab_slug": "blossom-institut",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
-      "category": "Soins Hommes",
+      "category": "Soins du Visage",
       "canton": "Genève",
-      "visites": 519,
+      "visites": 521,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"

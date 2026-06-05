@@ -1,18 +1,18 @@
 {
-  "carte": "39036",
-  "name": "Sophie",
+  "carte": "38940",
+  "name": "Cécile",
   "last_visit": {
-    "etab_name": "Studio Beauté",
-    "etab_slug": "studio-beaute",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/studio-beaute.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/studio-beaute/",
-    "category": "Soins Hommes",
+    "etab_name": "Parallèles Coiffure",
+    "etab_slug": "paralleles-coiffure",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+    "category": "Coiffure",
     "canton": "Genève",
-    "visites": 189,
-    "note": "4.5/5",
-    "blurb": "Studio Beauté sur la rive droite. Soins Sothy's, produits Alessandro et OPI, spécialisé microdermabrasion et DermaPod anti-âge : l'attention personnalisée signée Rosemary.",
-    "date_iso": "2026-05-05",
-    "date_pretty": "le 5 mai"
+    "visites": 214,
+    "note": "5/5",
+    "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+    "date_iso": "2026-05-06",
+    "date_pretty": "le 6 mai"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Genève",
@@ -30,15 +30,15 @@
       "reason": "Parce que vous aimez Soins Hommes"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "category": "Soins Hommes",
       "canton": "Genève",
-      "visites": 519,
+      "visites": 8,
       "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

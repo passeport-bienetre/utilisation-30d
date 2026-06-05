@@ -1,6 +1,6 @@
 {
-  "carte": "34990",
-  "name": "christiane",
+  "carte": "31724",
+  "name": "Annick",
   "last_visit": {
     "etab_name": "LAURA COIFFEUSE PRIVÉE",
     "etab_slug": "laura-coiffeuse-privee",
@@ -11,34 +11,34 @@
     "visites": 77,
     "note": "4.5/5",
     "blurb": "Laura, coiffeuse privée face à l'Opéra de Lausanne, vingt ans de pratique. Spécialiste mèches, balayage et ombré, sur-mesure en salon ou à domicile.",
-    "date_iso": "2026-05-05",
-    "date_pretty": "le 5 mai"
+    "date_iso": "2026-05-06",
+    "date_pretty": "le 6 mai"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-      "category": "Lausanne région",
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "category": "Soins Hommes",
       "canton": "Vaud",
-      "visites": 298,
+      "visites": 712,
       "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "Parce que vous aimez Lausanne région"
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "reason": "Parce que vous aimez Soins Hommes"
     },
     {
-      "etab_name": "CJ Coiffure",
-      "etab_slug": "cj-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
-      "category": "Lausanne région",
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "category": "Soins Hommes",
       "canton": "Vaud",
-      "visites": 570,
+      "visites": 175,
       "note": "5/5",
-      "blurb": "Le salon de deux amies, Caroline et Jenny. Convivialité, tendance et formation continue auprès des partenaires : le salon comme deuxième salon.",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

@@ -1,0 +1,57 @@
+{
+  "carte": "31080",
+  "name": "Simone",
+  "last_visit": {
+    "etab_name": "INSTITUT NATURALPE",
+    "etab_slug": "institut-naturalpe",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-naturalpe.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-naturalpe/",
+    "category": "Soins Bio",
+    "canton": "Valais",
+    "visites": 25,
+    "note": "5/5",
+    "blurb": "L'Institut Naturalpe de la famille Salamin, à la croisée de l'esthétique et de la naturopathie. Une bulle où santé et beauté avancent ensemble.",
+    "date_iso": "2026-05-06",
+    "date_pretty": "le 6 mai"
+  },
+  "top_category": "Epilation",
+  "top_canton": "Neuchâtel",
+  "suggestions": [
+    {
+      "etab_name": "Institut M&Vous",
+      "etab_slug": "institut-mvous",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/",
+      "category": "Epilation",
+      "canton": "Neuchâtel",
+      "visites": 12,
+      "note": "4.5/5",
+      "blurb": "M&Vous, un espace de douceur sur-mesure. Aménagement et soins sélectionnés minutieusement, décoration distinctive : un cabinet de soin qui ne ressemble à aucun autre.",
+      "reason": "Parce que vous aimez Epilation"
+    },
+    {
+      "etab_name": "Eunoia institut",
+      "etab_slug": "eunoia-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eunoia-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eunoia-institut/",
+      "category": "Epilation",
+      "canton": "Neuchâtel",
+      "visites": 1,
+      "note": null,
+      "blurb": "L'institut Eunoia dans le canton de Neuchâtel. Atmosphère méditerranéenne et design élaboré pour un goût d'ailleurs sous nos latitudes.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
