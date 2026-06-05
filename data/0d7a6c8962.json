@@ -1,0 +1,57 @@
+{
+  "carte": "31026",
+  "name": "Faiza",
+  "last_visit": {
+    "etab_name": "Vogue La Coiffure",
+    "etab_slug": "vogue-la-coiffure",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vogue-la-coiffure.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/",
+    "category": "Coiffeur",
+    "canton": null,
+    "visites": 84,
+    "note": "4.5/5",
+    "blurb": "Vogue La Coiffure. Écoute attentive et conseil personnalisé, pour une coiffure pensée comme une véritable pause.",
+    "date_iso": "2026-05-05",
+    "date_pretty": "le 5 mai"
+  },
+  "top_category": "Vevey Montreux",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "category": "Vevey Montreux",
+      "canton": "Vaud",
+      "visites": 556,
+      "note": "5/5",
+      "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
+      "reason": "Parce que vous aimez Vevey Montreux"
+    },
+    {
+      "etab_name": "Institut Sirène",
+      "etab_slug": "institut-sirene",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sirene.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sirene/",
+      "category": "Vevey Montreux",
+      "canton": "Vaud",
+      "visites": 95,
+      "note": "5/5",
+      "blurb": "Le centre Sirène, soins haute gamme avec produits Decléor et aromathérapies. Une atmosphère reposante au service d'une philosophie : l'esthétique comme art.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

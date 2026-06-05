@@ -1,0 +1,57 @@
+{
+  "carte": "35919",
+  "name": "Romain",
+  "last_visit": {
+    "etab_name": "LA MAISON VALMONT – BONGENIE",
+    "etab_slug": "la-maison-valmont-lausanne",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
+    "category": "Lausanne région",
+    "canton": "Vaud",
+    "visites": 42,
+    "note": "5/5",
+    "blurb": "La Maison Valmont sur la Place St-François. Anti-âge Valmont, Elixir des Glaciers, Storie Veneziane et collection d'art Didier Guillon : le must beauté lausannois.",
+    "date_iso": "2026-05-05",
+    "date_pretty": "le 5 mai"
+  },
+  "top_category": "Soins Hommes",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visites": 175,
+      "note": "5/5",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "Parce que vous aimez Soins Hommes"
+    },
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visites": 913,
+      "note": "5/5",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
