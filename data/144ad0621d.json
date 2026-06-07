@@ -1,0 +1,57 @@
+{
+  "carte": "35378",
+  "name": "Anouchka",
+  "last_visit": {
+    "etab_name": "Serenityblue",
+    "etab_slug": "serenityblue",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
+    "category": "Future Maman",
+    "canton": "Neuchâtel",
+    "visites": 224,
+    "note": "4.5/5",
+    "blurb": "Serenityblue, dix ans d'expérience. Deux espaces : un dédié au corps et à la détente, un autre à l'esthétique, pour combiner bien-être et beauté.",
+    "date_iso": "2026-05-08",
+    "date_pretty": "le 8 mai"
+  },
+  "top_category": "Future Maman",
+  "top_canton": "Neuchâtel",
+  "suggestions": [
+    {
+      "etab_name": "COMME SUR UN NUAGE",
+      "etab_slug": "comme-sur-un-nuage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
+      "category": "Future Maman",
+      "canton": "Neuchâtel",
+      "visites": 51,
+      "note": "5/5",
+      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Chandolin Boutique Hôtel",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "category": "Future Maman",
+      "canton": "Valais",
+      "visites": 171,
+      "note": "5/5",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
