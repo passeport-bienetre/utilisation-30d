@@ -1,0 +1,53 @@
+{
+  "carte": "34316",
+  "name": "Brigitte",
+  "last_visit": {
+    "etab_name": "Urban Spa",
+    "etab_slug": "urban-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/urban-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/urban-spa/",
+    "canton": "Fribourg",
+    "visites": 45,
+    "note": "3.5/5",
+    "blurb": "URBANSPA au centre de Fribourg. Architecture inspirée de la montagne, parcours hammams, saunas et jacuzzi : le havre de tranquillité où le temps suspend son cours.",
+    "date_iso": "2026-05-10",
+    "date_pretty": "le 10 mai"
+  },
+  "top_category": "Massage",
+  "top_canton": "Fribourg",
+  "suggestions": [
+    {
+      "etab_name": "EssenCiel Institut",
+      "etab_slug": "essenciel-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/essenciel-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/essenciel-institut/",
+      "canton": "Fribourg",
+      "visites": 60,
+      "note": "5/5",
+      "blurb": "L'institut EssenCiel travaille autour des huiles essentielles et de la gamme Yon-Ka. Soins ressourçants pour un moment rien qu'à soi.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "canton": "Genève",
+      "visites": 145,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
