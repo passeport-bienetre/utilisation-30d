@@ -1,0 +1,53 @@
+{
+  "carte": "36668",
+  "name": "Johana",
+  "last_visit": {
+    "etab_name": "CJ Coiffure",
+    "etab_slug": "cj-coiffure",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+    "canton": "Vaud",
+    "visites": 573,
+    "note": "5/5",
+    "blurb": "Le salon de deux amies, Caroline et Jenny. Convivialité, tendance et formation continue auprès des partenaires : le salon comme deuxième salon.",
+    "date_iso": "2026-05-13",
+    "date_pretty": "le 13 mai"
+  },
+  "top_category": "Coiffeur",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 713,
+      "note": "5/5",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visites": 175,
+      "note": "5/5",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
