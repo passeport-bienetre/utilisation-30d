@@ -1,0 +1,53 @@
+{
+  "carte": "32314",
+  "name": "Mathilde",
+  "last_visit": {
+    "etab_name": "Hairstudio",
+    "etab_slug": "hairstudio",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairstudio.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/hairstudio/",
+    "canton": "Genève",
+    "visites": 15,
+    "note": null,
+    "blurb": "En plein cœur de Genève, au premier étage. Caractère urbain et contemporain, service personnalisé dans une atmosphère conviviale.",
+    "date_iso": "2026-05-15",
+    "date_pretty": "le 15 mai"
+  },
+  "top_category": "Coiffure",
+  "top_canton": "Genève",
+  "suggestions": [
+    {
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+      "canton": "Genève",
+      "visites": 215,
+      "note": "5/5",
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
+      "canton": "Genève",
+      "visites": 377,
+      "note": "5/5",
+      "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
