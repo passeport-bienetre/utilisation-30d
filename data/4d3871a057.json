@@ -1,0 +1,53 @@
+{
+  "carte": "39022",
+  "name": "Philippe",
+  "last_visit": {
+    "etab_name": "Le St-Gervais Hôtel & Spa",
+    "etab_slug": "le-st-gervais-hotel-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+    "canton": null,
+    "visites": 79,
+    "note": "4/5",
+    "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
+    "date_iso": "2026-05-16",
+    "date_pretty": "le 16 mai"
+  },
+  "top_category": "Hôtels",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "HÔTEL ROYAL SAVOY",
+      "etab_slug": "bpnight-hotel-royal-savoy",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-royal-savoy.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-royal-savoy/",
+      "canton": "Vaud",
+      "visites": 3,
+      "note": null,
+      "blurb": "Le Royal Savoy 5 étoiles sur les rives du Léman mêle architecture historique et touche contemporaine. Skylounge sur le toit et Brasserie reconnue, signature lausannoise.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "LAUSANNE PALACE",
+      "etab_slug": "bpnight-hotel-lausanne-palace",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-lausanne-palace.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-lausanne-palace/",
+      "canton": "Vaud",
+      "visites": 8,
+      "note": null,
+      "blurb": "Inauguré en 1915, le Lausanne Palace fait face au lac et aux Alpes. Belle Époque vivante, table doublement étoilée et spa intérieur dans une institution lausannoise.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
