@@ -1,0 +1,53 @@
+{
+  "carte": "34501",
+  "name": "Olivia",
+  "last_visit": {
+    "etab_name": "LES BAINS PUBLICS",
+    "etab_slug": "les-bains-publics",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/",
+    "canton": "Valais",
+    "visites": 75,
+    "note": "4.5/5",
+    "blurb": "Les Bains Publics, espace souterrain inspiré du rituel romain. Eau chaude, baignade et sérénité, pour une pause vraiment réparatrice.",
+    "date_iso": "2026-05-17",
+    "date_pretty": "le 17 mai"
+  },
+  "top_category": "Soins Hommes",
+  "top_canton": "Berne",
+  "suggestions": [
+    {
+      "etab_name": "Centre Sattva",
+      "etab_slug": "centre-sattva",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-sattva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-sattva/",
+      "canton": "Berne",
+      "visites": 5,
+      "note": "5/5",
+      "blurb": "Le centre dédié à l'Ayurveda et au yoga, à Orvin (Berne). À 10 min de Bienne, 25 min de Neuchâtel, la sagesse millénaire pose ses valises au plateau de Diesse.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Hôtel de Rougemont & Spa",
+      "etab_slug": "hotel-de-rougemont-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
+      "canton": "Berne",
+      "visites": 245,
+      "note": "4.5/5",
+      "blurb": "Le spa de l'Hôtel de Rougemont, ouvert aux clients comme aux habitants. Une beauté responsable, ancrée dans la nature, où l'engagement passe avant le geste.",
+      "reason": "À découvrir dans le canton de Berne"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
