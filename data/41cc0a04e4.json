@@ -1,0 +1,53 @@
+{
+  "carte": "39401",
+  "name": "Sylvie",
+  "last_visit": {
+    "etab_name": "Luna aesthetic",
+    "etab_slug": "luna-aesthetic",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
+    "canton": "Vaud",
+    "visites": 173,
+    "note": "5/5",
+    "blurb": "Luna Aesthetic, spécialiste des soins Head Spa japonais. Sérénité, relaxation et expertise pour la beauté du cuir chevelu au cœur du soin.",
+    "date_iso": "2026-05-18",
+    "date_pretty": "le 18 mai"
+  },
+  "top_category": "Hôtels",
+  "top_canton": "Valais",
+  "suggestions": [
+    {
+      "etab_name": "Dent Blanche Resort & Lumen Spa",
+      "etab_slug": "bpnight-dent-blanche-resort-lumen-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-dent-blanche-resort-lumen-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-dent-blanche-resort-lumen-spa/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "Le complexe Dent-Blanche Resort à Hérémence, vue Cervin. 69 appartements en résidence hôtelière au pied des pistes des 4 Vallées : l'Alpe brute en version hôtel.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "ERINGER HÔTEL",
+      "etab_slug": "bpnight-eringer-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-eringer-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-eringer-hotel/",
+      "canton": "Valais",
+      "visites": 4,
+      "note": null,
+      "blurb": "L'Eringer Hotel au cœur des 4 Vallées, à 20 minutes de Sion. Matériaux locaux, empreinte carbone faible et vue 180° sur le Val d'Hérens. L'authenticité valaisanne.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

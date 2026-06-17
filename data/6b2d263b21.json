@@ -1,0 +1,53 @@
+{
+  "carte": "38794",
+  "name": "Emilie",
+  "last_visit": {
+    "etab_name": "EUPHORIA & BEAUTY STUDIO",
+    "etab_slug": "euphoria-beauty-studio",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+    "canton": "Genève",
+    "visites": 165,
+    "note": "5/5",
+    "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
+    "date_iso": "2026-05-18",
+    "date_pretty": "le 18 mai"
+  },
+  "top_category": "Fitness",
+  "top_canton": " ",
+  "suggestions": [
+    {
+      "etab_name": "FITNESS HARMONY - BLANDONNET",
+      "etab_slug": "les-fitness-harmony/blandonnet",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/blandonnet/",
+      "canton": "Genève",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Blandonnet, face au centre commercial. Aménagement résolument contemporain et conditions d'entraînement pensées : le club nouvelle génération.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "FITNESS HARMONY - DENGES",
+      "etab_slug": "les-fitness-harmony/denges",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--denges.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/denges/",
+      "canton": "Vaud",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Denges, dans un cadre de verdure et de calme. Loft sportif lumineux et appareils performants pour bouger au naturel.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
