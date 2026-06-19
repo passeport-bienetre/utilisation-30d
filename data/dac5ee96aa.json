@@ -1,0 +1,53 @@
+{
+  "carte": "39227",
+  "name": "Tatiana",
+  "last_visit": {
+    "etab_name": "EUROPE ZERMATT HÔTEL",
+    "etab_slug": "bpnight-europe-zermatt-hotel",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-europe-zermatt-hotel.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-europe-zermatt-hotel/",
+    "canton": "Valais",
+    "visites": 4,
+    "note": null,
+    "blurb": "L'hôtel familial Julen à Zermatt depuis 1962. 37 chambres dont 14 vue Cervin, architecture alpine moderne et espace spa, à 10 minutes des remontées.",
+    "date_iso": "2026-05-20",
+    "date_pretty": "le 20 mai"
+  },
+  "top_category": "Hôtels",
+  "top_canton": "Valais",
+  "suggestions": [
+    {
+      "etab_name": "Dent Blanche Resort & Lumen Spa",
+      "etab_slug": "bpnight-dent-blanche-resort-lumen-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-dent-blanche-resort-lumen-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-dent-blanche-resort-lumen-spa/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "Le complexe Dent-Blanche Resort à Hérémence, vue Cervin. 69 appartements en résidence hôtelière au pied des pistes des 4 Vallées : l'Alpe brute en version hôtel.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "ERINGER HÔTEL",
+      "etab_slug": "bpnight-eringer-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-eringer-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-eringer-hotel/",
+      "canton": "Valais",
+      "visites": 4,
+      "note": null,
+      "blurb": "L'Eringer Hotel au cœur des 4 Vallées, à 20 minutes de Sion. Matériaux locaux, empreinte carbone faible et vue 180° sur le Val d'Hérens. L'authenticité valaisanne.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
+      "visites": null,
+      "note": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
