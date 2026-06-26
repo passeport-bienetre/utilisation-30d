@@ -1,19 +1,19 @@
 {
-  "carte": "35381",
-  "name": "Romina",
+  "carte": "38787",
+  "name": "Carla",
   "last_visit": {
-    "etab_name": "Bains d'Ovronnaz",
-    "etab_slug": "bains-dovronnaz",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bains-dovronnaz.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
-    "canton": "Valais",
-    "visites": 125,
-    "note": "4/5",
-    "blurb": "Les bains thermaux d'Ovronnaz, perchés à 1350m en Valais, abritent 3 bassins intérieurs et extérieurs et un Panoramic Alpine SPA de 1000 m². L'altitude à l'horizon.",
-    "date_iso": "2026-05-25",
-    "date_pretty": "le 25 mai"
+    "etab_name": "Espace Beauté Sarah",
+    "etab_slug": "espace-beaute-sarah",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
+    "canton": "Vaud",
+    "visites": 273,
+    "note": "5/5",
+    "blurb": "Au cœur de Lausanne, le cocon sobre et élégant de Sarah. Vingt ans d'expérience en esthétique et soins sur-mesure dans la confidence d'une cabine.",
+    "date_iso": "2026-05-27",
+    "date_pretty": "le 27 mai"
   },
-  "top_category": "Soins Bio",
+  "top_category": "Epilation",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Institut Biotiful",
-      "etab_slug": "institut-biotiful-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-biotiful-2.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
+      "etab_name": "Espace Beauté Harmonie",
+      "etab_slug": "espace-beaute-harmonie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "canton": "Vaud",
-      "visites": 123,
-      "note": "4.5/5",
-      "blurb": "L'institut Bio'tiful de Margaux Nussbaumer et Marion Gudit. Soins avec gammes certifiées biologiques, ambiance zen et décoration naturelle. L'arrêt dans le temps.",
+      "visites": 83,
+      "note": "5/5",
+      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

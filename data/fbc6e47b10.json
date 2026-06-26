@@ -1,21 +1,32 @@
 {
-  "carte": "36410",
-  "name": "Yassine",
+  "carte": "35162",
+  "name": "Sandra",
   "last_visit": {
-    "etab_name": "1er Acte Coiffure",
-    "etab_slug": "1er-acte-coiffure",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+    "etab_name": "Les Vagabondes",
+    "etab_slug": "les-vagabondes",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/",
     "canton": "Vaud",
-    "visites": 706,
-    "note": "5/5",
-    "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-    "date_iso": "2026-05-26",
-    "date_pretty": "le 26 mai"
+    "visites": 365,
+    "note": "4.5/5",
+    "blurb": "Les Vagabondes, le style coiffé-décoiffé maîtrisé. Volume, brushing, chignons sophistiqués et extensions naturelles : une élégance ni sage ni audacieuse.",
+    "date_iso": "2026-05-27",
+    "date_pretty": "le 27 mai"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 706,
+      "note": "5/5",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
@@ -25,17 +36,6 @@
       "visites": 174,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
-      "canton": "Vaud",
-      "visites": 909,
-      "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

@@ -1,17 +1,17 @@
 {
-  "carte": "36184",
-  "name": "Julien",
+  "carte": "38295",
+  "name": "Stephanie",
   "last_visit": {
-    "etab_name": "Lausanne Palace & Spa",
-    "etab_slug": "lausanne-palace-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+    "etab_name": "EVERNESS <br>Hôtel & Resort",
+    "etab_slug": "everness-resort",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
     "canton": "Vaud",
-    "visites": 708,
+    "visites": 469,
     "note": "4.5/5",
-    "blurb": "L'institution lausannoise. Le CBE Concept Spa s'étend sur 1 800 m², avec les soins Cinq Mondes et une piscine art déco.",
-    "date_iso": "2026-05-25",
-    "date_pretty": "le 25 mai"
+    "blurb": "Niché entre Genève et Lausanne, au cœur des vignes. Hôtel 4 étoiles, wellness nordique, sauna extérieur vue lac, piscine extérieure chauffée : un voyage des 5 sens en bord de Léman.",
+    "date_iso": "2026-05-27",
+    "date_pretty": "le 27 mai"
   },
   "top_category": "Future Maman",
   "top_canton": "Vaud",

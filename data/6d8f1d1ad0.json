@@ -1,32 +1,21 @@
 {
-  "carte": "39894",
-  "name": "Karin",
+  "carte": "32218",
+  "name": "Caroline",
   "last_visit": {
-    "etab_name": "Sawatdee Delices",
-    "etab_slug": "sawatdee-delices",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
-    "canton": "Genève",
-    "visites": 456,
-    "note": "4.5/5",
-    "blurb": "Sawatdee Délices, le massage thaï traditionnel. Cadre unique et reposant pour la thérapie naturelle qui relâche tensions et circulation.",
-    "date_iso": "2026-05-26",
-    "date_pretty": "le 26 mai"
+    "etab_name": "Royal Savoy Hôtel & Spa",
+    "etab_slug": "royal-savoy-hotel-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+    "canton": "Vaud",
+    "visites": 2890,
+    "note": "5/5",
+    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
+    "date_iso": "2026-05-27",
+    "date_pretty": "le 27 mai"
   },
   "top_category": "Soins Duo",
   "top_canton": "Genève",
   "suggestions": [
-    {
-      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
-      "etab_slug": "hotel-intercontinental-spa-5-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
-      "canton": "Genève",
-      "visites": 394,
-      "note": "4.5/5",
-      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "INTUITIVE JESS",
       "etab_slug": "intuitive-jess",
@@ -36,6 +25,17 @@
       "visites": 13,
       "note": "4.5/5",
       "blurb": "Jessica Rizzo, thérapeute corporelle d'origine suisse et italienne, de retour à Genève après dix ans à Berlin. Approche holistique et intuitive au service du corps.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "canton": "Genève",
+      "visites": 201,
+      "note": "4.5/5",
+      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
