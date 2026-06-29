@@ -1,0 +1,54 @@
+{
+  "carte": "34317",
+  "name": "Ljiljana",
+  "last_visit": {
+    "etab_name": "LES FITNESS HARMONY",
+    "etab_slug": null,
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+    "etab_url_public": null,
+    "category": null,
+    "canton": null,
+    "visites": null,
+    "note": null,
+    "blurb": null,
+    "date_iso": "2026-05-30",
+    "date_pretty": "le 30 mai"
+  },
+  "top_category": "Fitness",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "FITNESS HARMONY - DENGES",
+      "etab_slug": "les-fitness-harmony/denges",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--denges.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/denges/",
+      "canton": "Vaud",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Denges, dans un cadre de verdure et de calme. Loft sportif lumineux et appareils performants pour bouger au naturel.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "FITNESS HARMONY - SIGNY",
+      "etab_slug": "les-fitness-harmony/signy",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--signy.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/signy/",
+      "canton": "Vaud",
+      "visites": 0,
+      "note": null,
+      "blurb": null,
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
+      "visites": null,
+      "note": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
