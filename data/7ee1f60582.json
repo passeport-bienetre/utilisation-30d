@@ -1,0 +1,53 @@
+{
+  "carte": "38585",
+  "name": "Léa",
+  "last_visit": {
+    "etab_name": "SUBLIMEYES",
+    "etab_slug": "institut-sublimeyes",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+    "canton": "Genève",
+    "visites": 99,
+    "note": "4.5/5",
+    "blurb": "SublimEyes au cœur de Genève, spécialiste du regard. Épilation au fil, teinture, rehaussement de cils et Microblading : la beauté pensée à hauteur d'œil.",
+    "date_iso": "2026-06-03",
+    "date_pretty": "le 3 juin"
+  },
+  "top_category": "Soins Hommes",
+  "top_canton": "Genève",
+  "suggestions": [
+    {
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "canton": "Genève",
+      "visites": 147,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "canton": "Genève",
+      "visites": 525,
+      "note": "5/5",
+      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
+      "visites": null,
+      "note": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

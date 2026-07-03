@@ -1,0 +1,53 @@
+{
+  "carte": "34980",
+  "name": "Olivier",
+  "last_visit": {
+    "etab_name": "L'Atelier du Visage",
+    "etab_slug": "latelier-du-visage",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/latelier-du-visage.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
+    "canton": "Vaud",
+    "visites": 131,
+    "note": "4/5",
+    "blurb": "L'Atelier du Visage au vieux bourg de Pully. Cils, sourcils, maquillage permanent, détatouage sans laser : l'équilibre du visage, geste à geste.",
+    "date_iso": "2026-06-03",
+    "date_pretty": "le 3 juin"
+  },
+  "top_category": "Soins du Visage",
+  "top_canton": "Valais",
+  "suggestions": [
+    {
+      "etab_name": "Chandolin Boutique Hôtel",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": "Valais",
+      "visites": 171,
+      "note": "5/5",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Chanelle and Co.",
+      "etab_slug": "chanelle-and-co",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/",
+      "canton": "Valais",
+      "visites": 15,
+      "note": "5/5",
+      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
