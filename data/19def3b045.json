@@ -1,19 +1,19 @@
 {
-  "carte": "36351",
-  "name": "Lea",
+  "carte": "36385",
+  "name": "Mariuccia",
   "last_visit": {
-    "etab_name": "Swiss Aesthetica",
-    "etab_slug": "swiss-aesthetica",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+    "etab_name": "Signature Coiffure",
+    "etab_slug": "signature-coiffure",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/signature-coiffure.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/",
     "canton": "Vaud",
-    "visites": 643,
+    "visites": 229,
     "note": "4.5/5",
-    "blurb": "Swiss Aesthetica à Lausanne. Hammam traditionnel, cabines de soins et philosophie alliant technicité et relaxation profonde : la sérénité au service du résultat.",
+    "blurb": "Signature Coiffure.",
     "date_iso": "2026-06-05",
     "date_pretty": "le 5 juin"
   },
-  "top_category": "Massage",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 303,
+      "visites": 178,
       "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

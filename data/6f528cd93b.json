@@ -1,19 +1,19 @@
 {
-  "carte": "36944",
-  "name": "Eva",
+  "carte": "34246",
+  "name": "Séverine",
   "last_visit": {
-    "etab_name": "Blossom Institut",
-    "etab_slug": "blossom-institut",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+    "etab_name": "La Coifferie",
+    "etab_slug": "la-coifferie-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
     "canton": "Genève",
-    "visites": 526,
-    "note": "5/5",
-    "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+    "visites": 301,
+    "note": "4.5/5",
+    "blurb": "La Coifferie, le salon pensé comme une parenthèse de bien-être. L'âme d'un authentique barbier sous le soleil, pour des coupes affirmées et élégantes sans artifice.",
     "date_iso": "2026-06-05",
     "date_pretty": "le 5 juin"
   },
-  "top_category": "Soins du Visage",
+  "top_category": "Soins du Corps",
   "top_canton": "Genève",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "etab_slug": "clinique-la-jouvence-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 8,
+      "visites": 526,
       "note": "5/5",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
