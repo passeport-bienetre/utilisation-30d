@@ -1,0 +1,53 @@
+{
+  "carte": "34421",
+  "name": "Ersin",
+  "last_visit": {
+    "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
+    "etab_slug": "spa-by-clarins",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
+    "canton": null,
+    "visites": 161,
+    "note": "4.5/5",
+    "blurb": "Spa by Clarins. Soin du visage ou du corps comme une nécessité plus que comme un luxe : la mission Clarins au cœur du bien-être contemporain.",
+    "date_iso": "2026-06-07",
+    "date_pretty": "le 7 juin"
+  },
+  "top_category": "Soins Duo",
+  "top_canton": "Valais",
+  "suggestions": [
+    {
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "etab_slug": "flocoon-spa-cinq-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
+      "canton": "Valais",
+      "visites": 338,
+      "note": "5/5",
+      "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "ERINGER INSTITUT",
+      "etab_slug": "eringer-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eringer-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eringer-institut/",
+      "canton": "Valais",
+      "visites": 70,
+      "note": "4.5/5",
+      "blurb": "L'Institut Eringer Beauty & SPA, au 2ème étage des Bains d'Hérémence. Soins visage, massages relaxants et technologies amincissantes prolongent le bain valaisan.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
+      "visites": null,
+      "note": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
