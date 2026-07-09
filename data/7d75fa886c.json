@@ -1,21 +1,32 @@
 {
-  "carte": "39021",
-  "name": "Athanasia",
+  "carte": "39003",
+  "name": "Claire",
   "last_visit": {
-    "etab_name": "Salon Privé Ecublens",
-    "etab_slug": "salon-prive-ecublens",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+    "etab_name": "Le Mirador Resort & Spa",
+    "etab_slug": "le-mirador-resort-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
     "canton": "Vaud",
-    "visites": 93,
+    "visites": 2023,
     "note": "4.5/5",
-    "blurb": "Salon Privé à proximité de la gare de Lausanne. Coiffeurs formés à l'international et expertise reconnue pour une prestation à la hauteur de la beauté naturelle.",
+    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
     "date_iso": "2026-06-09",
     "date_pretty": "le 9 juin"
   },
-  "top_category": "Soins du Visage",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 722,
+      "note": "5/5",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Altitude by Garance",
       "etab_slug": "altitude-by-garance",
@@ -25,17 +36,6 @@
       "visites": 43,
       "note": "5/5",
       "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-      "canton": "Vaud",
-      "visites": 303,
-      "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

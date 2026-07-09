@@ -1,15 +1,15 @@
 {
-  "carte": "36804",
-  "name": "Soukayna",
+  "carte": "35899",
+  "name": "Alienor",
   "last_visit": {
-    "etab_name": "Ipanema Beauté",
-    "etab_slug": "ipanema-beaute",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
+    "etab_name": "Wulan Studio",
+    "etab_slug": "wulan-studio",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
     "canton": "Genève",
-    "visites": 366,
-    "note": "4/5",
-    "blurb": "Le duo brésilien d'Ipanema Beauté à Genève, présent depuis 16 ans. Spécialistes mains, pieds et épilation : l'accueil chaleureux version Rio.",
+    "visites": 72,
+    "note": "5/5",
+    "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
     "date_iso": "2026-06-09",
     "date_pretty": "le 9 juin"
   },
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "canton": "Genève",
-      "visites": 528,
+      "visites": 8,
       "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
