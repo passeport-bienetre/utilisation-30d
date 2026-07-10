@@ -1,21 +1,32 @@
 {
-  "carte": "39222",
-  "name": "Vanessa",
+  "carte": "31139",
+  "name": "Yves",
   "last_visit": {
-    "etab_name": "Espace Beauté Sarah",
-    "etab_slug": "espace-beaute-sarah",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
+    "etab_name": "Grand Hôtel du Lac",
+    "etab_slug": "grand-hotel-du-lac",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
     "canton": "Vaud",
-    "visites": 286,
+    "visites": 566,
     "note": "5/5",
-    "blurb": "Au cœur de Lausanne, le cocon sobre et élégant de Sarah. Vingt ans d'expérience en esthétique et soins sur-mesure dans la confidence d'une cabine.",
+    "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
     "date_iso": "2026-06-10",
     "date_pretty": "le 10 juin"
   },
-  "top_category": "Epilation",
+  "top_category": "Massage",
   "top_canton": "Vaud",
   "suggestions": [
+    {
+      "etab_name": "Altitude by Garance",
+      "etab_slug": "altitude-by-garance",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
+      "canton": "Vaud",
+      "visites": 43,
+      "note": "5/5",
+      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Bhumi",
       "etab_slug": "biotonique-institut",
@@ -25,17 +36,6 @@
       "visites": 303,
       "note": "5/5",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Espace Beauté Harmonie",
-      "etab_slug": "espace-beaute-harmonie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
-      "canton": "Vaud",
-      "visites": 83,
-      "note": "5/5",
-      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
