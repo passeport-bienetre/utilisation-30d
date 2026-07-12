@@ -1,15 +1,15 @@
 {
-  "carte": "35147",
-  "name": "Carole",
+  "carte": "38729",
+  "name": "Delphine",
   "last_visit": {
-    "etab_name": "Guess What",
-    "etab_slug": "guess-what-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guess-what-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/guess-what-3/",
+    "etab_name": "Atmosp'hair",
+    "etab_slug": "atmosphair",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
     "canton": "Vaud",
-    "visites": 229,
+    "visites": 178,
     "note": "5/5",
-    "blurb": "Le salon de Roxane, coiffeuse depuis dix ans. Lissage japonais, colorations, conseil visagisme et espace dédié aux enfants : la coiffure version famille.",
+    "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
     "date_iso": "2026-06-12",
     "date_pretty": "le 12 juin"
   },
@@ -17,14 +17,14 @@
   "top_canton": "Vaud",
   "suggestions": [
     {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 178,
+      "visites": 722,
       "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
