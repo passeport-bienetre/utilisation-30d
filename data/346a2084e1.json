@@ -1,19 +1,19 @@
 {
-  "carte": "39416",
-  "name": "Nancy",
+  "carte": "35038",
+  "name": "Muna",
   "last_visit": {
-    "etab_name": "19th AVENUE - Versonnex",
-    "etab_slug": "versonnex",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/versonnex/",
+    "etab_name": "GLOW IN GENEVA",
+    "etab_slug": "glow-in-geneva",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
     "canton": "Genève",
-    "visites": 33,
+    "visites": 67,
     "note": "4.5/5",
-    "blurb": "19th Avenue, ligne genevoise imaginée par Pascale Combettes et Andreas Gleichweit en 2001. Quatre salons et quatre équipes : coloristes spécialisés, lissage, extensions et botox capillaire.",
+    "blurb": "Glow, la pause beauté revisitée à Genève. Soin visage high-tech en open space, matcha à siroter, atmosphère feel good : l'éclat intérieur autant qu'extérieur.",
     "date_iso": "2026-06-13",
     "date_pretty": "le 13 juin"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins du Corps",
   "top_canton": "Genève",
   "suggestions": [
     {

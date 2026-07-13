@@ -1,15 +1,15 @@
 {
-  "carte": "39416",
-  "name": "Nancy",
+  "carte": "34830",
+  "name": "Morgann",
   "last_visit": {
-    "etab_name": "19th AVENUE - Versonnex",
-    "etab_slug": "versonnex",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/versonnex/",
+    "etab_name": "Thai Corner",
+    "etab_slug": "thai-corner-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
     "canton": "Genève",
-    "visites": 33,
+    "visites": 833,
     "note": "4.5/5",
-    "blurb": "19th Avenue, ligne genevoise imaginée par Pascale Combettes et Andreas Gleichweit en 2001. Quatre salons et quatre équipes : coloristes spécialisés, lissage, extensions et botox capillaire.",
+    "blurb": "Thai Corner à Plainpalais. Décor thaï traditionnel et contemporain, masseuses formées aux meilleures écoles dont le Wat Pho : le massage comme art de vivre.",
     "date_iso": "2026-06-13",
     "date_pretty": "le 13 juin"
   },
