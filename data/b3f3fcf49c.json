@@ -1,15 +1,15 @@
 {
-  "carte": "35795",
-  "name": "Meryem",
+  "carte": "36176",
+  "name": "Melanie",
   "last_visit": {
-    "etab_name": "Institut ZenSkin",
-    "etab_slug": "institut-fs",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
+    "etab_name": "Le Mirador Resort & Spa",
+    "etab_slug": "le-mirador-resort-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
     "canton": "Vaud",
-    "visites": 410,
+    "visites": 2033,
     "note": "4.5/5",
-    "blurb": "L'institut FS, chic et chaleureux. Prestations multiples et personnalisées avec un conseil avisé, pour une beauté qui rend rayonnante.",
+    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
     "date_iso": "2026-06-15",
     "date_pretty": "le 15 juin"
   },
