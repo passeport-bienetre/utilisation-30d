@@ -1,19 +1,19 @@
 {
-  "carte": "38766",
-  "name": "Marie",
+  "carte": "32217",
+  "name": "Brigitte",
   "last_visit": {
-    "etab_name": "Arte Beauty EPFL",
-    "etab_slug": "arte-beauty-epfl",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+    "etab_name": "Nail Café",
+    "etab_slug": "nail-cafe",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
     "canton": "Vaud",
-    "visites": 829,
-    "note": "4/5",
-    "blurb": "L'antenne Arte Beauty côté EPFL réunit Wella, Sebastian, Clarins, OPI et LPG. La coiffure et la beauté sous le même toit, sur le campus.",
+    "visites": 585,
+    "note": "4.5/5",
+    "blurb": "Nail Café à la gare de Renens. Soins mains et pieds, Nail Art, cils, sourcils, visage, épilations et pressothérapie, avec ou sans rendez-vous, café à siroter.",
     "date_iso": "2026-06-17",
     "date_pretty": "le 17 juin"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
