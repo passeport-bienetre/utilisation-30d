@@ -1,19 +1,19 @@
 {
-  "carte": "39373",
-  "name": "Mélanie",
+  "carte": "38691",
+  "name": "Laurence",
   "last_visit": {
-    "etab_name": "Swiss Aesthetica",
-    "etab_slug": "swiss-aesthetica",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+    "etab_name": "LAURA COIFFEUSE PRIVÉE",
+    "etab_slug": "laura-coiffeuse-privee",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
     "canton": "Vaud",
-    "visites": 646,
+    "visites": 91,
     "note": "4.5/5",
-    "blurb": "Swiss Aesthetica à Lausanne. Hammam traditionnel, cabines de soins et philosophie alliant technicité et relaxation profonde : la sérénité au service du résultat.",
+    "blurb": "Laura, coiffeuse privée face à l'Opéra de Lausanne, vingt ans de pratique. Spécialiste mèches, balayage et ombré, sur-mesure en salon ou à domicile.",
     "date_iso": "2026-06-18",
     "date_pretty": "le 18 juin"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {

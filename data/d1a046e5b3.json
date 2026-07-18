@@ -1,20 +1,20 @@
 {
-  "carte": "39373",
-  "name": "Mélanie",
+  "carte": "36335",
+  "name": "Emilio",
   "last_visit": {
-    "etab_name": "Swiss Aesthetica",
-    "etab_slug": "swiss-aesthetica",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
-    "canton": "Vaud",
-    "visites": 646,
+    "etab_name": "SUBLIMEYES",
+    "etab_slug": "institut-sublimeyes",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+    "canton": "Genève",
+    "visites": 107,
     "note": "4.5/5",
-    "blurb": "Swiss Aesthetica à Lausanne. Hammam traditionnel, cabines de soins et philosophie alliant technicité et relaxation profonde : la sérénité au service du résultat.",
+    "blurb": "SublimEyes au cœur de Genève, spécialiste du regard. Épilation au fil, teinture, rehaussement de cils et Microblading : la beauté pensée à hauteur d'œil.",
     "date_iso": "2026-06-18",
     "date_pretty": "le 18 juin"
   },
-  "top_category": "Lausanne région",
-  "top_canton": "Vaud",
+  "top_category": "Soins Hommes",
+  "top_canton": " ",
   "suggestions": [
     {
       "etab_name": "1er Acte Coiffure",

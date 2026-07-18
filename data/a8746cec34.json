@@ -1,15 +1,15 @@
 {
-  "carte": "32660",
-  "name": "Nathalie",
+  "carte": "35653",
+  "name": "Caroline",
   "last_visit": {
-    "etab_name": "FLEUR D’EPIDERME",
-    "etab_slug": "fleur-depiderme",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+    "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+    "etab_slug": "institut-valmont-chez-globus-geneve",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
     "canton": "Genève",
-    "visites": 99,
+    "visites": 26,
     "note": "5/5",
-    "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+    "blurb": "L'Institut Valmont chez Globus Genève, rue du Rhône. Cosmétique cellulaire signature et gestuelle Valmont pour une régénération profonde côté shopping de luxe.",
     "date_iso": "2026-06-18",
     "date_pretty": "le 18 juin"
   },
