@@ -1,21 +1,32 @@
 {
-  "carte": "36960",
-  "name": "Julia",
+  "carte": "35401",
+  "name": "Christine",
   "last_visit": {
-    "etab_name": "Skin Solution",
-    "etab_slug": "skin-solution",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
-    "canton": "Genève",
-    "visites": 683,
-    "note": "4/5",
-    "blurb": "Skin Solution, resurfacing cutané et anti-âge. Iyashi Dôme sauna japonais et massages divers pour le bien-être corps, âme et esprit.",
+    "etab_name": "Amiia Clinique",
+    "etab_slug": "amiia-clinique",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
+    "canton": null,
+    "visites": 295,
+    "note": "4.5/5",
+    "blurb": "La clinique esthétique qui refuse le canon unique. Soins du visage, du corps et expertise médicale au service d'une beauté qui se révèle au lieu de s'imposer.",
     "date_iso": "2026-06-19",
     "date_pretty": "le 19 juin"
   },
-  "top_category": "Soins Hommes",
-  "top_canton": "Genève",
+  "top_category": "Soins du Corps",
+  "top_canton": " ",
   "suggestions": [
+    {
+      "etab_name": "ALEX COIFFURE SARL",
+      "etab_slug": "a-lex-coiffure-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
+      "canton": "Fribourg",
+      "visites": 74,
+      "note": "5/5",
+      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "BEAUTY B",
       "etab_slug": "bv-institut",
@@ -25,17 +36,6 @@
       "visites": 148,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
-      "canton": "Genève",
-      "visites": 530,
-      "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

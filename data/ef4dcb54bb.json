@@ -1,19 +1,19 @@
 {
-  "carte": "35595",
-  "name": "Lorraine",
+  "carte": "30267",
+  "name": "sabine",
   "last_visit": {
-    "etab_name": "Nail Café",
-    "etab_slug": "nail-cafe",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+    "etab_name": "Tempête de Calme",
+    "etab_slug": "tempete-de-calme",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
     "canton": "Vaud",
-    "visites": 585,
+    "visites": 196,
     "note": "4.5/5",
-    "blurb": "Nail Café à la gare de Renens. Soins mains et pieds, Nail Art, cils, sourcils, visage, épilations et pressothérapie, avec ou sans rendez-vous, café à siroter.",
+    "blurb": "Spa Tempête de Calme, wellness privatif sur réservation. Hammam, sauna, bassin d'eau froide, fontaine à neige, banc chauffant et divers bains : le refuge des cinq sens en privatif.",
     "date_iso": "2026-06-19",
     "date_pretty": "le 19 juin"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {

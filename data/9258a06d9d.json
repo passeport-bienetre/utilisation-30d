@@ -2,18 +2,18 @@
   "carte": "36851",
   "name": "Karine",
   "last_visit": {
-    "etab_name": "NUTRITION BY AURELIA",
-    "etab_slug": "nutrition-by-aurelia",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nutrition-by-aurelia.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/nutrition-by-aurelia/",
+    "etab_name": "Les Vagabondes",
+    "etab_slug": "les-vagabondes",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/",
     "canton": "Vaud",
-    "visites": 38,
-    "note": null,
-    "blurb": "Aurélia, l'alimentation comme terrain de jeu. Goût, santé, plaisir des yeux et de l'estomac : la nutrition sans régime, autour de la notion de plaisir.",
-    "date_iso": "2026-05-20",
-    "date_pretty": "le 20 mai"
+    "visites": 379,
+    "note": "4.5/5",
+    "blurb": "Les Vagabondes, le style coiffé-décoiffé maîtrisé. Volume, brushing, chignons sophistiqués et extensions naturelles : une élégance ni sage ni audacieuse.",
+    "date_iso": "2026-06-19",
+    "date_pretty": "le 19 juin"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -22,20 +22,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 716,
+      "visites": 723,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Altitude by Garance",
-      "etab_slug": "altitude-by-garance",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 41,
+      "visites": 178,
       "note": "5/5",
-      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

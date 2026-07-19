@@ -1,19 +1,19 @@
 {
-  "carte": "35595",
-  "name": "Lorraine",
+  "carte": "35539",
+  "name": "Marie",
   "last_visit": {
-    "etab_name": "Nail Café",
-    "etab_slug": "nail-cafe",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+    "etab_name": "Odyssée Santé & Beauté",
+    "etab_slug": "odyssee-sante-beaute",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/odyssee-sante-beaute.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
     "canton": "Vaud",
-    "visites": 585,
+    "visites": 189,
     "note": "4.5/5",
-    "blurb": "Nail Café à la gare de Renens. Soins mains et pieds, Nail Art, cils, sourcils, visage, épilations et pressothérapie, avec ou sans rendez-vous, café à siroter.",
+    "blurb": "Odyssée Santé, spa moderne tout confort. Soins corps et visage haut de gamme, équipement dernière génération et solutions minceur éprouvées : la palette complète sous un toit.",
     "date_iso": "2026-06-19",
     "date_pretty": "le 19 juin"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {
