@@ -1,32 +1,21 @@
 {
-  "carte": "35518",
-  "name": "Lucy",
+  "carte": "39554",
+  "name": "Barbara",
   "last_visit": {
-    "etab_name": "Maison Perle",
-    "etab_slug": "maison-perle",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+    "etab_name": "Arte Beauty EPFL",
+    "etab_slug": "arte-beauty-epfl",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
     "canton": "Vaud",
-    "visites": 188,
-    "note": "5/5",
-    "blurb": "Maison Perle à Crissier, entièrement rénovée. Fatma propose des soins exigeants : Microblading, plasma, laser, avec la maîtrise technique au service du résultat.",
+    "visites": 829,
+    "note": "4/5",
+    "blurb": "L'antenne Arte Beauty côté EPFL réunit Wella, Sebastian, Clarins, OPI et LPG. La coiffure et la beauté sous le même toit, sur le campus.",
     "date_iso": "2026-06-20",
     "date_pretty": "le 20 juin"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
-    {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "canton": "Vaud",
-      "visites": 723,
-      "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
@@ -36,6 +25,17 @@
       "visites": 178,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": 928,
+      "note": "5/5",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

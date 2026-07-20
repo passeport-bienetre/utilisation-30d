@@ -1,19 +1,19 @@
 {
-  "carte": "35518",
-  "name": "Lucy",
+  "carte": "36885",
+  "name": "Malika",
   "last_visit": {
-    "etab_name": "Maison Perle",
-    "etab_slug": "maison-perle",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+    "etab_name": "Salon Privé Chailly",
+    "etab_slug": "salon-prive-chailly",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
     "canton": "Vaud",
-    "visites": 188,
-    "note": "5/5",
-    "blurb": "Maison Perle à Crissier, entièrement rénovée. Fatma propose des soins exigeants : Microblading, plasma, laser, avec la maîtrise technique au service du résultat.",
+    "visites": 334,
+    "note": "4.5/5",
+    "blurb": "Salon Privé Chailly à Lausanne. Équipe multilingue avec L'Oréal Professionnel, Kérastase, Davines et Marcapar pour la couleur végétale : la coiffure du quartier.",
     "date_iso": "2026-06-20",
     "date_pretty": "le 20 juin"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {

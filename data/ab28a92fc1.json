@@ -1,19 +1,19 @@
 {
-  "carte": "35518",
-  "name": "Lucy",
+  "carte": "37079",
+  "name": "Melanie",
   "last_visit": {
-    "etab_name": "Maison Perle",
-    "etab_slug": "maison-perle",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+    "etab_name": "Arte Beauty EPFL",
+    "etab_slug": "arte-beauty-epfl",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
     "canton": "Vaud",
-    "visites": 188,
-    "note": "5/5",
-    "blurb": "Maison Perle à Crissier, entièrement rénovée. Fatma propose des soins exigeants : Microblading, plasma, laser, avec la maîtrise technique au service du résultat.",
+    "visites": 829,
+    "note": "4/5",
+    "blurb": "L'antenne Arte Beauty côté EPFL réunit Wella, Sebastian, Clarins, OPI et LPG. La coiffure et la beauté sous le même toit, sur le campus.",
     "date_iso": "2026-06-20",
     "date_pretty": "le 20 juin"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {

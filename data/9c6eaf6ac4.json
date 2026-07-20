@@ -1,0 +1,53 @@
+{
+  "carte": "36303",
+  "name": "Valérie",
+  "last_visit": {
+    "etab_name": "COMME SUR UN NUAGE",
+    "etab_slug": "comme-sur-un-nuage",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
+    "canton": "Neuchâtel",
+    "visites": 55,
+    "note": "5/5",
+    "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
+    "date_iso": "2026-06-20",
+    "date_pretty": "le 20 juin"
+  },
+  "top_category": "Soins Hommes",
+  "top_canton": "Neuchâtel",
+  "suggestions": [
+    {
+      "etab_name": "Institut Sabaidee",
+      "etab_slug": "institut-sabaidee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sabaidee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sabaidee/",
+      "canton": "Neuchâtel",
+      "visites": 33,
+      "note": "5/5",
+      "blurb": "L'institut Sabaidee, dont le nom signifie \"bonjour\" en laotien. Soins inspirés des traditions asiatiques, masseuse thaïlandaise, cosmétiques naturels : le dépaysement sans sortir du canton.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "CLINIQUE MATIGNON NEUCHÂTEL",
+      "etab_slug": "les-cliniques-matignon/neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-cliniques-matignon/neuchatel/",
+      "canton": "Neuchâtel",
+      "visites": 0,
+      "note": null,
+      "blurb": "La clinique Matignon Neuchâtel, leader suisse en médecine esthétique non-invasive. Dermatologie, médecine esthétique et chirurgie plastique sous un même toit.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
+    },
+    {
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
+      "visites": null,
+      "note": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

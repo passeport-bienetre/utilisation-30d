@@ -1,20 +1,20 @@
 {
-  "carte": "35518",
-  "name": "Lucy",
+  "carte": "35569",
+  "name": "Magali",
   "last_visit": {
-    "etab_name": "Maison Perle",
-    "etab_slug": "maison-perle",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+    "etab_name": "Nail Café",
+    "etab_slug": "nail-cafe",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
     "canton": "Vaud",
-    "visites": 188,
-    "note": "5/5",
-    "blurb": "Maison Perle à Crissier, entièrement rénovée. Fatma propose des soins exigeants : Microblading, plasma, laser, avec la maîtrise technique au service du résultat.",
+    "visites": 585,
+    "note": "4.5/5",
+    "blurb": "Nail Café à la gare de Renens. Soins mains et pieds, Nail Art, cils, sourcils, visage, épilations et pressothérapie, avec ou sans rendez-vous, café à siroter.",
     "date_iso": "2026-06-20",
     "date_pretty": "le 20 juin"
   },
   "top_category": "Lausanne région",
-  "top_canton": "Vaud",
+  "top_canton": null,
   "suggestions": [
     {
       "etab_name": "1er Acte Coiffure",
