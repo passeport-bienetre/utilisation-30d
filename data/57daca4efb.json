@@ -1,19 +1,19 @@
 {
-  "carte": "36676",
-  "name": "Jamie",
+  "carte": "35774",
+  "name": "Dominique",
   "last_visit": {
-    "etab_name": "Lausanne Palace & Spa",
-    "etab_slug": "lausanne-palace-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+    "etab_name": "Institut Kaori",
+    "etab_slug": "institut-kaori",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
     "canton": "Vaud",
-    "visites": 742,
+    "visites": 297,
     "note": "4.5/5",
-    "blurb": "L'institution lausannoise. Le CBE Concept Spa s'étend sur 1 800 m², avec les soins Cinq Mondes et une piscine art déco.",
+    "blurb": "L'institut Kaori, soins corps et bassin chauffé à 32° toute l'année. Aquabiking, aquagym et soins d'exception : l'invitation au voyage à hauteur d'eau.",
     "date_iso": "2026-06-22",
     "date_pretty": "le 22 juin"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {
