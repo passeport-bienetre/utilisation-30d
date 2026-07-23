@@ -1,0 +1,53 @@
+{
+  "carte": "34526",
+  "name": "Benedicte",
+  "last_visit": {
+    "etab_name": "Skin Solution",
+    "etab_slug": "skin-solution",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+    "canton": "Genève",
+    "visites": 684,
+    "note": "4/5",
+    "blurb": "Skin Solution, resurfacing cutané et anti-âge. Iyashi Dôme sauna japonais et massages divers pour le bien-être corps, âme et esprit.",
+    "date_iso": "2026-06-23",
+    "date_pretty": "le 23 juin"
+  },
+  "top_category": "Fitness",
+  "top_canton": " ",
+  "suggestions": [
+    {
+      "etab_name": "FITNESS HARMONY - BLANDONNET",
+      "etab_slug": "les-fitness-harmony/blandonnet",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/blandonnet/",
+      "canton": "Genève",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Blandonnet, face au centre commercial. Aménagement résolument contemporain et conditions d'entraînement pensées : le club nouvelle génération.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "FITNESS HARMONY - DENGES",
+      "etab_slug": "les-fitness-harmony/denges",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--denges.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/denges/",
+      "canton": "Vaud",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Denges, dans un cadre de verdure et de calme. Loft sportif lumineux et appareils performants pour bouger au naturel.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
+      "visites": null,
+      "note": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

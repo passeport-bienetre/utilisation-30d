@@ -1,0 +1,53 @@
+{
+  "carte": "32247",
+  "name": "Louis-Adrien",
+  "last_visit": {
+    "etab_name": "Le Mirador Resort & Spa",
+    "etab_slug": "le-mirador-resort-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+    "canton": "Vaud",
+    "visites": 2039,
+    "note": "4.5/5",
+    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
+    "date_iso": "2026-06-23",
+    "date_pretty": "le 23 juin"
+  },
+  "top_category": "Massage",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 303,
+      "note": "5/5",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": 928,
+      "note": "5/5",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
+      "visites": null,
+      "note": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

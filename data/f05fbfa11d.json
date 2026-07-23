@@ -1,0 +1,53 @@
+{
+  "carte": "39113",
+  "name": "Cléo",
+  "last_visit": {
+    "etab_name": "CS Caro Création Studio",
+    "etab_slug": "cs-caro-creation-studio",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cs-caro-creation-studio.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/",
+    "canton": "Neuchâtel",
+    "visites": 55,
+    "note": "5/5",
+    "blurb": "Le studio mains et pieds de Caroline. Pose de gel, décorations classiques ou originales, produits de qualité : la précision du détail.",
+    "date_iso": "2026-06-23",
+    "date_pretty": "le 23 juin"
+  },
+  "top_category": "Soins Hommes",
+  "top_canton": "Neuchâtel",
+  "suggestions": [
+    {
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "etab_slug": "clinique-la-jouvence-neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/",
+      "canton": "Neuchâtel",
+      "visites": 12,
+      "note": "5/5",
+      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "CLINIQUE MATIGNON NEUCHÂTEL",
+      "etab_slug": "les-cliniques-matignon/neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-cliniques-matignon/neuchatel/",
+      "canton": "Neuchâtel",
+      "visites": 0,
+      "note": null,
+      "blurb": "La clinique Matignon Neuchâtel, leader suisse en médecine esthétique non-invasive. Dermatologie, médecine esthétique et chirurgie plastique sous un même toit.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
+    },
+    {
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
+      "visites": null,
+      "note": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
