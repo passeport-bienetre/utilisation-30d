@@ -1,19 +1,19 @@
 {
-  "carte": "35708",
-  "name": "Lucile",
+  "carte": "36753",
+  "name": "Johanna",
   "last_visit": {
-    "etab_name": "Le Bal des Créateurs",
-    "etab_slug": "le-bal-des-createurs-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
-    "canton": "Genève",
-    "visites": 864,
+    "etab_name": "Salon Privé Gare",
+    "etab_slug": "salon-prive",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+    "canton": "Vaud",
+    "visites": 503,
     "note": "4.5/5",
-    "blurb": "Le Bal des Créateurs à Genève, signé Christophe Durand. Salon, librairie, galerie, espace massage et bar de jour : la coiffure comme acte créatif.",
+    "blurb": "Salon Privé près de la gare de Lausanne. L'Oréal Professionnel, Kérastase, Davines et équipe formée à New York et Sydney : la couleur comme signature.",
     "date_iso": "2026-06-25",
     "date_pretty": "le 25 juin"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {

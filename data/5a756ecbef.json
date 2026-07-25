@@ -1,20 +1,20 @@
 {
-  "carte": "35708",
-  "name": "Lucile",
+  "carte": "35057",
+  "name": "Elsa",
   "last_visit": {
-    "etab_name": "Le Bal des Créateurs",
-    "etab_slug": "le-bal-des-createurs-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
-    "canton": "Genève",
-    "visites": 864,
-    "note": "4.5/5",
-    "blurb": "Le Bal des Créateurs à Genève, signé Christophe Durand. Salon, librairie, galerie, espace massage et bar de jour : la coiffure comme acte créatif.",
+    "etab_name": "Maison B",
+    "etab_slug": "maison-b",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
+    "canton": null,
+    "visites": 39,
+    "note": "5/5",
+    "blurb": "Maison B, héritage Dr Burgener Switzerland et Lynell (1955). Tests épigénétiques, bio-impédance et analyses de peau : la beauté qui se comprend avant de se révéler.",
     "date_iso": "2026-06-25",
     "date_pretty": "le 25 juin"
   },
   "top_category": "Lausanne région",
-  "top_canton": "Vaud",
+  "top_canton": null,
   "suggestions": [
     {
       "etab_name": "1er Acte Coiffure",

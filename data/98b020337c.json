@@ -1,19 +1,19 @@
 {
-  "carte": "30621",
-  "name": "Ana",
+  "carte": "31190",
+  "name": "Debora",
   "last_visit": {
-    "etab_name": "EUPHORIA & BEAUTY STUDIO",
-    "etab_slug": "euphoria-beauty-studio",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+    "etab_name": "SAKURA LAB",
+    "etab_slug": "sakura-lab",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
     "canton": "Genève",
-    "visites": 194,
-    "note": "5/5",
-    "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
+    "visites": 171,
+    "note": "4.5/5",
+    "blurb": "Sakura Lab, espace de douceur sur-mesure. Spécialistes diplômées et soins variés sous un même toit : chaque rendez-vous, une expérience unique.",
     "date_iso": "2026-06-25",
     "date_pretty": "le 25 juin"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins du Corps",
   "top_canton": "Genève",
   "suggestions": [
     {

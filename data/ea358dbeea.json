@@ -1,19 +1,19 @@
 {
-  "carte": "35708",
-  "name": "Lucile",
+  "carte": "35423",
+  "name": "Sandra",
   "last_visit": {
-    "etab_name": "Le Bal des Créateurs",
-    "etab_slug": "le-bal-des-createurs-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
-    "canton": "Genève",
-    "visites": 864,
+    "etab_name": "Le Mirador Resort & Spa",
+    "etab_slug": "le-mirador-resort-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+    "canton": "Vaud",
+    "visites": 2046,
     "note": "4.5/5",
-    "blurb": "Le Bal des Créateurs à Genève, signé Christophe Durand. Salon, librairie, galerie, espace massage et bar de jour : la coiffure comme acte créatif.",
+    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
     "date_iso": "2026-06-25",
     "date_pretty": "le 25 juin"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
