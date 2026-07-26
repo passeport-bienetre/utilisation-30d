@@ -1,19 +1,19 @@
 {
-  "carte": "35551",
-  "name": "zelia",
+  "carte": "33999",
+  "name": "Chloé",
   "last_visit": {
-    "etab_name": "Le Mirador Resort & Spa",
-    "etab_slug": "le-mirador-resort-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+    "etab_name": "Institut Guinot",
+    "etab_slug": "institut-guinot-2",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
     "canton": "Vaud",
-    "visites": 2048,
+    "visites": 819,
     "note": "4.5/5",
-    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
+    "blurb": "L'Institut Guinot à Lausanne, près de la place Pépinet. Éline et son équipe diplômées du certificat Guinot, deux cabines et un espace maquillage Masters Colors. La méthode brevetée appliquée à la lettre.",
     "date_iso": "2026-06-26",
     "date_pretty": "le 26 juin"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 932,
+      "visites": 179,
       "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
