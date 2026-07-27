@@ -1,15 +1,15 @@
 {
-  "carte": "36301",
-  "name": "Domenica",
+  "carte": "36793",
+  "name": "Annika",
   "last_visit": {
-    "etab_name": "Karré Long",
-    "etab_slug": "karre-long-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/",
+    "etab_name": "Salon Privé Ecublens",
+    "etab_slug": "salon-prive-ecublens",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
     "canton": "Vaud",
-    "visites": 365,
+    "visites": 93,
     "note": "4.5/5",
-    "blurb": "Karré Long, l'espace de Kelly et son équipe. Coupes, couleurs, mèches, extensions, chignons et maquillage, accessible en voiture, bus et LEB.",
+    "blurb": "Salon Privé à proximité de la gare de Lausanne. Coiffeurs formés à l'international et expertise reconnue pour une prestation à la hauteur de la beauté naturelle.",
     "date_iso": "2026-06-27",
     "date_pretty": "le 27 juin"
   },

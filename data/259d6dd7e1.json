@@ -2,16 +2,16 @@
   "carte": "35310",
   "name": "Solange",
   "last_visit": {
-    "etab_name": "NUANCES NATURE",
-    "etab_slug": "nuances-nature",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
+    "etab_name": "GLOW IN GENEVA",
+    "etab_slug": "glow-in-geneva",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
     "canton": "Genève",
-    "visites": 94,
-    "note": "5/5",
-    "blurb": "Ki Nuances Nature à Carouge. Esthéticienne depuis vingt ans et formatrice en cosmétiques bio pendant douze ans, elle propose soins visage, corps et Signature dans un cocon de sérénité.",
-    "date_iso": "2026-05-12",
-    "date_pretty": "le 12 mai"
+    "visites": 69,
+    "note": "4.5/5",
+    "blurb": "Glow, la pause beauté revisitée à Genève. Soin visage high-tech en open space, matcha à siroter, atmosphère feel good : l'éclat intérieur autant qu'extérieur.",
+    "date_iso": "2026-06-27",
+    "date_pretty": "le 27 juin"
   },
   "top_category": "Soins Bio",
   "top_canton": "Genève",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "canton": "Genève",
-      "visites": 359,
+      "visites": 365,
       "note": "5/5",
       "blurb": "Le Cabinet de Beauté, ambiance boisée et soins Dr Hauschka. Bio-esthéticienne spécialiste du visage et plantes médicinales biologiques : la cosmétique \"autrement\" à Genève.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
       "canton": "Genève",
-      "visites": 72,
+      "visites": 74,
       "note": "5/5",
       "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "HÔTEL BORSARI",
-      "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
-      "canton": "Valais",
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
       "visites": null,
       "note": null,
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]
