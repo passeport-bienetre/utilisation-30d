@@ -2,16 +2,16 @@
   "carte": "36873",
   "name": "Ingeborg",
   "last_visit": {
-    "etab_name": "Arte Beauty EPFL",
-    "etab_slug": "arte-beauty-epfl",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+    "etab_name": "Salon Privé Ecublens",
+    "etab_slug": "salon-prive-ecublens",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
     "canton": "Vaud",
-    "visites": 814,
-    "note": "4/5",
-    "blurb": "L'antenne Arte Beauty côté EPFL réunit Wella, Sebastian, Clarins, OPI et LPG. La coiffure et la beauté sous le même toit, sur le campus.",
-    "date_iso": "2026-05-11",
-    "date_pretty": "le 11 mai"
+    "visites": 94,
+    "note": "4.5/5",
+    "blurb": "Salon Privé à proximité de la gare de Lausanne. Coiffeurs formés à l'international et expertise reconnue pour une prestation à la hauteur de la beauté naturelle.",
+    "date_iso": "2026-06-30",
+    "date_pretty": "le 30 juin"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Vaud",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 713,
+      "visites": 723,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 175,
+      "visites": 179,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "HÔTEL BORSARI",
-      "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
-      "canton": "Valais",
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
       "visites": null,
       "note": null,
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "carte": "38671",
-  "name": "Alexandra",
+  "carte": "36197",
+  "name": "Lauren",
   "last_visit": {
     "etab_name": "Le Mirador Resort & Spa",
     "etab_slug": "le-mirador-resort-spa",
@@ -13,18 +13,18 @@
     "date_iso": "2026-06-30",
     "date_pretty": "le 30 juin"
   },
-  "top_category": "Soins du Corps",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 303,
+      "visites": 179,
       "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {

@@ -1,19 +1,19 @@
 {
-  "carte": "33045",
-  "name": "Isabelle",
+  "carte": "30207",
+  "name": "Léa",
   "last_visit": {
-    "etab_name": "Maison Perle",
-    "etab_slug": "maison-perle",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+    "etab_name": "Le Passage",
+    "etab_slug": "le-passage",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-passage/",
     "canton": "Vaud",
-    "visites": 190,
+    "visites": 192,
     "note": "5/5",
-    "blurb": "Maison Perle à Crissier, entièrement rénovée. Fatma propose des soins exigeants : Microblading, plasma, laser, avec la maîtrise technique au service du résultat.",
+    "blurb": "Le salon de Valérie et Chloé à la Rue du Midi 1, Lausanne, ouvert en 2021. Atmosphère épurée pensée par une amie architecte, pour une coiffure dépoussiérée.",
     "date_iso": "2026-06-30",
     "date_pretty": "le 30 juin"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {
