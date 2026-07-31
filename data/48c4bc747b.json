@@ -1,15 +1,15 @@
 {
-  "carte": "35660",
-  "name": "Roberta",
+  "carte": "35796",
+  "name": "Aurélie",
   "last_visit": {
-    "etab_name": "SAKURA LAB",
-    "etab_slug": "sakura-lab",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+    "etab_name": "Sawatdee Delices",
+    "etab_slug": "sawatdee-delices",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
     "canton": "Genève",
-    "visites": 171,
+    "visites": 462,
     "note": "4.5/5",
-    "blurb": "Sakura Lab, espace de douceur sur-mesure. Spécialistes diplômées et soins variés sous un même toit : chaque rendez-vous, une expérience unique.",
+    "blurb": "Sawatdee Délices, le massage thaï traditionnel. Cadre unique et reposant pour la thérapie naturelle qui relâche tensions et circulation.",
     "date_iso": "2026-07-01",
     "date_pretty": "le 1 juillet"
   },

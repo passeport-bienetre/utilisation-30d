@@ -1,19 +1,19 @@
 {
-  "carte": "35660",
-  "name": "Roberta",
+  "carte": "39143",
+  "name": "Jérôme",
   "last_visit": {
-    "etab_name": "SAKURA LAB",
-    "etab_slug": "sakura-lab",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+    "etab_name": "BL Institut",
+    "etab_slug": "bl-institut-2",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/bl-institut-2/",
     "canton": "Genève",
-    "visites": 171,
+    "visites": 217,
     "note": "4.5/5",
-    "blurb": "Sakura Lab, espace de douceur sur-mesure. Spécialistes diplômées et soins variés sous un même toit : chaque rendez-vous, une expérience unique.",
+    "blurb": "L'institut éco-responsable trois-en-un : boutique cosmétique en vrac, soins cabine et ateliers. Le bien-être avec impact mesuré.",
     "date_iso": "2026-07-01",
     "date_pretty": "le 1 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Epilation",
   "top_canton": "Genève",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 531,
+      "visites": 104,
       "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

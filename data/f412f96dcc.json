@@ -1,0 +1,53 @@
+{
+  "carte": "38183",
+  "name": "Gaetan",
+  "last_visit": {
+    "etab_name": "Institut Guinot",
+    "etab_slug": "institut-guinot-2",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+    "canton": "Vaud",
+    "visites": 824,
+    "note": "4.5/5",
+    "blurb": "L'Institut Guinot à Lausanne, près de la place Pépinet. Éline et son équipe diplômées du certificat Guinot, deux cabines et un espace maquillage Masters Colors. La méthode brevetée appliquée à la lettre.",
+    "date_iso": "2026-07-01",
+    "date_pretty": "le 1 juillet"
+  },
+  "top_category": "Soins Duo",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": 937,
+      "note": "5/5",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "MK PILATES",
+      "etab_slug": "mk-pilates",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mk-pilates.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/mk-pilates/",
+      "canton": "Vaud",
+      "visites": 5,
+      "note": "5/5",
+      "blurb": "MK Pilates, studio privé équipé Gratz : Reformer, Cadillac, wunda chair, ladder barrel et pedipole. Méthode authentique et pédagogie précise pour un Pilates classique sans concession.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 0,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

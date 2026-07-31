@@ -1,0 +1,53 @@
+{
+  "carte": "31024",
+  "name": "Eliane",
+  "last_visit": {
+    "etab_name": "Swiss Aesthetica",
+    "etab_slug": "swiss-aesthetica",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+    "canton": "Vaud",
+    "visites": 648,
+    "note": "4.5/5",
+    "blurb": "Swiss Aesthetica à Lausanne. Hammam traditionnel, cabines de soins et philosophie alliant technicité et relaxation profonde : la sérénité au service du résultat.",
+    "date_iso": "2026-07-01",
+    "date_pretty": "le 1 juillet"
+  },
+  "top_category": "Soins Hommes",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 724,
+      "note": "5/5",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visites": 179,
+      "note": "5/5",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 0,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
