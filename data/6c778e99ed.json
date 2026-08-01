@@ -1,0 +1,53 @@
+{
+  "carte": "39002",
+  "name": "Soalie",
+  "last_visit": {
+    "etab_name": "SUBLIMEYES",
+    "etab_slug": "institut-sublimeyes",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+    "canton": "Genève",
+    "visites": 112,
+    "note": "4.5/5",
+    "blurb": "SublimEyes au cœur de Genève, spécialiste du regard. Épilation au fil, teinture, rehaussement de cils et Microblading : la beauté pensée à hauteur d'œil.",
+    "date_iso": "2026-07-02",
+    "date_pretty": "le 2 juillet"
+  },
+  "top_category": "Soins Hommes",
+  "top_canton": "Genève",
+  "suggestions": [
+    {
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "canton": "Genève",
+      "visites": 148,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "canton": "Genève",
+      "visites": 531,
+      "note": "5/5",
+      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 0,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

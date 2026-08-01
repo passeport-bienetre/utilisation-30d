@@ -1,19 +1,19 @@
 {
-  "carte": "38705",
-  "name": "Suzanne",
+  "carte": "36518",
+  "name": "Ritsuko",
   "last_visit": {
-    "etab_name": "Maison B",
-    "etab_slug": "maison-b",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
-    "canton": null,
-    "visites": 40,
+    "etab_name": "Royal Savoy Hôtel & Spa",
+    "etab_slug": "royal-savoy-hotel-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+    "canton": "Vaud",
+    "visites": 3000,
     "note": "5/5",
-    "blurb": "Maison B, héritage Dr Burgener Switzerland et Lynell (1955). Tests épigénétiques, bio-impédance et analyses de peau : la beauté qui se comprend avant de se révéler.",
+    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
     "date_iso": "2026-07-02",
     "date_pretty": "le 2 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {

@@ -1,20 +1,20 @@
 {
-  "carte": "38705",
-  "name": "Suzanne",
+  "carte": "35754",
+  "name": "Céline",
   "last_visit": {
-    "etab_name": "Maison B",
-    "etab_slug": "maison-b",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
+    "etab_name": "Hairmania",
+    "etab_slug": "hairmania",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairmania.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/hairmania/",
     "canton": null,
-    "visites": 40,
-    "note": "5/5",
-    "blurb": "Maison B, héritage Dr Burgener Switzerland et Lynell (1955). Tests épigénétiques, bio-impédance et analyses de peau : la beauté qui se comprend avant de se révéler.",
+    "visites": 282,
+    "note": "4.5/5",
+    "blurb": "Au cœur de Montreux, le salon Hairmania. Décor sobre et lumineux, conseil personnalisé et marques Wella, Sebastian et ghd : le service haute couture pour les cheveux.",
     "date_iso": "2026-07-02",
     "date_pretty": "le 2 juillet"
   },
   "top_category": "Soins Hommes",
-  "top_canton": "Vaud",
+  "top_canton": null,
   "suggestions": [
     {
       "etab_name": "1er Acte Coiffure",
