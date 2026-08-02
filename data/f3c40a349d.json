@@ -1,0 +1,54 @@
+{
+  "carte": "36657",
+  "name": "Lucia",
+  "last_visit": {
+    "etab_name": "Les Cliniques Matignon",
+    "etab_slug": null,
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+    "etab_url_public": null,
+    "category": null,
+    "canton": null,
+    "visites": null,
+    "note": null,
+    "blurb": null,
+    "date_iso": "2026-07-03",
+    "date_pretty": "le 3 juillet"
+  },
+  "top_category": "Soins Hommes",
+  "top_canton": "Neuchâtel",
+  "suggestions": [
+    {
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "etab_slug": "clinique-la-jouvence-neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/",
+      "canton": "Neuchâtel",
+      "visites": 12,
+      "note": "5/5",
+      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Institut Sabaidee",
+      "etab_slug": "institut-sabaidee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sabaidee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sabaidee/",
+      "canton": "Neuchâtel",
+      "visites": 33,
+      "note": "5/5",
+      "blurb": "L'institut Sabaidee, dont le nom signifie \"bonjour\" en laotien. Soins inspirés des traditions asiatiques, masseuse thaïlandaise, cosmétiques naturels : le dépaysement sans sortir du canton.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 0,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

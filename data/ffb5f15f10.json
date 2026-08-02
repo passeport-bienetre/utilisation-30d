@@ -1,19 +1,19 @@
 {
-  "carte": "32351",
-  "name": "Dounia",
+  "carte": "32234",
+  "name": "Benjamin",
   "last_visit": {
-    "etab_name": "Studio Beauté",
-    "etab_slug": "studio-beaute",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/studio-beaute.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/studio-beaute/",
+    "etab_name": "Origin Float Spa",
+    "etab_slug": "origin-float-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
     "canton": "Genève",
-    "visites": 199,
+    "visites": 205,
     "note": "4.5/5",
-    "blurb": "Studio Beauté sur la rive droite. Soins Sothy's, produits Alessandro et OPI, spécialisé microdermabrasion et DermaPod anti-âge : l'attention personnalisée signée Rosemary.",
+    "blurb": "ORIGIN, espace de flottaison et de boutique éthique. Tisane, lecture en repos et produits locaux engagés pour la sérénité avant et après la séance.",
     "date_iso": "2026-07-03",
     "date_pretty": "le 3 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Massage",
   "top_canton": "Genève",
   "suggestions": [
     {

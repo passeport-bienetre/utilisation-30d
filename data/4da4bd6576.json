@@ -1,15 +1,15 @@
 {
-  "carte": "38212",
-  "name": "Sonia",
+  "carte": "36900",
+  "name": "Rebecca",
   "last_visit": {
-    "etab_name": "Le Mirador Resort & Spa",
-    "etab_slug": "le-mirador-resort-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+    "etab_name": "KASA AMO",
+    "etab_slug": "kasa-amo",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
     "canton": "Vaud",
-    "visites": 2063,
+    "visites": 199,
     "note": "4.5/5",
-    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
+    "blurb": "Kasa Amo, le duo mère-fille Claudine et Priscilla. Anti-âge, minceur, beauté du regard et maquillage permanent, plus de 40 ans d'expérience cumulée.",
     "date_iso": "2026-07-03",
     "date_pretty": "le 3 juillet"
   },
