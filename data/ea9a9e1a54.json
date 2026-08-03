@@ -1,32 +1,21 @@
 {
-  "carte": "35289",
-  "name": "Aurore",
+  "carte": "36672",
+  "name": "Jeromine",
   "last_visit": {
-    "etab_name": "RUBIS SPA",
-    "etab_slug": "rubis-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
+    "etab_name": "Maison Perle",
+    "etab_slug": "maison-perle",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
     "canton": "Vaud",
-    "visites": 129,
+    "visites": 190,
     "note": "5/5",
-    "blurb": "Rubis Spa sur les hauteurs de Corseaux (Vaud), à quelques minutes de Vevey. Pierre et bois naturels, lumière tamisée, loin du tumulte.",
+    "blurb": "Maison Perle à Crissier, entièrement rénovée. Fatma propose des soins exigeants : Microblading, plasma, laser, avec la maîtrise technique au service du résultat.",
     "date_iso": "2026-07-04",
     "date_pretty": "le 4 juillet"
   },
   "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
-    {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "canton": "Vaud",
-      "visites": 724,
-      "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
@@ -36,6 +25,17 @@
       "visites": 179,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 303,
+      "note": "5/5",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

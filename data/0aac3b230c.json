@@ -1,6 +1,6 @@
 {
-  "carte": "36219",
-  "name": "Félicie",
+  "carte": "36218",
+  "name": "Lelo",
   "last_visit": {
     "etab_name": "SAKURA LAB",
     "etab_slug": "sakura-lab",
@@ -13,29 +13,29 @@
     "date_iso": "2026-07-04",
     "date_pretty": "le 4 juillet"
   },
-  "top_category": "Soins du Corps",
+  "top_category": "Onglerie",
   "top_canton": "Genève",
   "suggestions": [
     {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "canton": "Genève",
-      "visites": 148,
+      "visites": 198,
       "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "etab_slug": "clinique-la-jouvence-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 8,
+      "visites": 105,
       "note": "5/5",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
