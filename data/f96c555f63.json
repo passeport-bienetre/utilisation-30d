@@ -1,19 +1,19 @@
 {
-  "carte": "39277",
-  "name": "Arminda",
+  "carte": "38586",
+  "name": "Marceline",
   "last_visit": {
-    "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-    "etab_slug": "le-centre-geneve-by-charline",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+    "etab_name": "SUBLIMEYES",
+    "etab_slug": "institut-sublimeyes",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
     "canton": "Genève",
-    "visites": 109,
+    "visites": 112,
     "note": "5/5",
-    "blurb": "Le Centre Genève by Charline. Soins corps, esthétique, thérapies douces et accompagnement émotionnel sous un même toit, pour une beauté pensée comme équilibre intérieur.",
+    "blurb": "SublimEyes au cœur de Genève, spécialiste du regard. Épilation au fil, teinture, rehaussement de cils et Microblading : la beauté pensée à hauteur d'œil.",
     "date_iso": "2026-07-06",
     "date_pretty": "le 6 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins du Visage",
   "top_canton": "Genève",
   "suggestions": [
     {
