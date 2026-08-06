@@ -1,0 +1,53 @@
+{
+  "carte": "36485",
+  "name": "Camille",
+  "last_visit": {
+    "etab_name": "CS Caro Création Studio",
+    "etab_slug": "cs-caro-creation-studio",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cs-caro-creation-studio.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/",
+    "canton": "Neuchâtel",
+    "visites": 58,
+    "note": "5/5",
+    "blurb": "Le studio mains et pieds de Caroline. Pose de gel, décorations classiques ou originales, produits de qualité : la précision du détail.",
+    "date_iso": "2026-07-07",
+    "date_pretty": "le 7 juillet"
+  },
+  "top_category": "Onglerie",
+  "top_canton": "Neuchâtel",
+  "suggestions": [
+    {
+      "etab_name": "Institut M&Vous",
+      "etab_slug": "institut-mvous",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/",
+      "canton": "Neuchâtel",
+      "visites": 13,
+      "note": "4.5/5",
+      "blurb": "M&Vous, un espace de douceur sur-mesure. Aménagement et soins sélectionnés minutieusement, décoration distinctive : un cabinet de soin qui ne ressemble à aucun autre.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Serenityblue",
+      "etab_slug": "serenityblue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
+      "canton": "Neuchâtel",
+      "visites": 235,
+      "note": "4.5/5",
+      "blurb": "Serenityblue, dix ans d'expérience. Deux espaces : un dédié au corps et à la détente, un autre à l'esthétique, pour combiner bien-être et beauté.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 1,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

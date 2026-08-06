@@ -1,0 +1,53 @@
+{
+  "carte": "35145",
+  "name": "Karin",
+  "last_visit": {
+    "etab_name": "Institut M&Vous",
+    "etab_slug": "institut-mvous",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/",
+    "canton": "Neuchâtel",
+    "visites": 13,
+    "note": "4.5/5",
+    "blurb": "M&Vous, un espace de douceur sur-mesure. Aménagement et soins sélectionnés minutieusement, décoration distinctive : un cabinet de soin qui ne ressemble à aucun autre.",
+    "date_iso": "2026-07-07",
+    "date_pretty": "le 7 juillet"
+  },
+  "top_category": "Soins du Corps",
+  "top_canton": "Neuchâtel",
+  "suggestions": [
+    {
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "etab_slug": "clinique-la-jouvence-neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/",
+      "canton": "Neuchâtel",
+      "visites": 12,
+      "note": "5/5",
+      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "COMME SUR UN NUAGE",
+      "etab_slug": "comme-sur-un-nuage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
+      "canton": "Neuchâtel",
+      "visites": 55,
+      "note": "5/5",
+      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 1,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

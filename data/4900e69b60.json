@@ -1,19 +1,19 @@
 {
-  "carte": "30743",
-  "name": "Sandra",
+  "carte": "34962",
+  "name": "Manuela",
   "last_visit": {
-    "etab_name": "Chalet Royalp Hôtel & Spa",
-    "etab_slug": "chalet-royalp-hotel-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+    "etab_name": "CJ Coiffure",
+    "etab_slug": "cj-coiffure",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
     "canton": "Vaud",
-    "visites": 939,
+    "visites": 588,
     "note": "5/5",
-    "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+    "blurb": "Le salon de deux amies, Caroline et Jenny. Convivialité, tendance et formation continue auprès des partenaires : le salon comme deuxième salon.",
     "date_iso": "2026-07-07",
     "date_pretty": "le 7 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {
