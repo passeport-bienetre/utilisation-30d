@@ -1,15 +1,15 @@
 {
-  "carte": "36224",
-  "name": "Damon",
+  "carte": "38985",
+  "name": "Jacqueline",
   "last_visit": {
-    "etab_name": "Le Beausquet Genève",
-    "etab_slug": "le-beausquet-geneve",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
+    "etab_name": "BLISS",
+    "etab_slug": "bliss",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
     "canton": "Genève",
-    "visites": 84,
+    "visites": 146,
     "note": "4/5",
-    "blurb": "Le Beausquet au cœur de Genève, quartier du Rhône. Proche des boutiques de luxe, soins haute qualité des pieds à la tête.",
+    "blurb": null,
     "date_iso": "2026-07-08",
     "date_pretty": "le 8 juillet"
   },

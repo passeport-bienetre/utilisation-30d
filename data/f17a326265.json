@@ -2,16 +2,16 @@
   "carte": "35791",
   "name": "Rachel",
   "last_visit": {
-    "etab_name": "L'Atelier du Visage",
-    "etab_slug": "latelier-du-visage",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/latelier-du-visage.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
+    "etab_name": "Institut Guinot",
+    "etab_slug": "institut-guinot-2",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
     "canton": "Vaud",
-    "visites": 128,
-    "note": "4/5",
-    "blurb": "L'Atelier du Visage au vieux bourg de Pully. Cils, sourcils, maquillage permanent, détatouage sans laser : l'équilibre du visage, geste à geste.",
-    "date_iso": "2026-05-13",
-    "date_pretty": "le 13 mai"
+    "visites": 828,
+    "note": "4.5/5",
+    "blurb": "L'Institut Guinot à Lausanne, près de la place Pépinet. Éline et son équipe diplômées du certificat Guinot, deux cabines et un espace maquillage Masters Colors. La méthode brevetée appliquée à la lettre.",
+    "date_iso": "2026-07-08",
+    "date_pretty": "le 8 juillet"
   },
   "top_category": "Lausanne région",
   "top_canton": "Vaud",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 713,
+      "visites": 727,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 175,
+      "visites": 179,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "HÔTEL BORSARI",
-      "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": null,
+      "visites": 1,
       "note": null,
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]

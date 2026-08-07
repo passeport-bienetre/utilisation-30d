@@ -1,19 +1,19 @@
 {
-  "carte": "36723",
-  "name": "Aubane",
+  "carte": "35958",
+  "name": "Eddie",
   "last_visit": {
-    "etab_name": "Arte Beauty Lutry",
-    "etab_slug": "arte-beauty-lutry",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+    "etab_name": "Institut Guinot",
+    "etab_slug": "institut-guinot-2",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
     "canton": "Vaud",
-    "visites": 1143,
-    "note": "4/5",
-    "blurb": "L'antenne Arte Beauty à Lutry. Mêmes marques de référence (OPI, LPG, Kérastase, Fillmed) en version riveraine du Léman.",
+    "visites": 828,
+    "note": "4.5/5",
+    "blurb": "L'Institut Guinot à Lausanne, près de la place Pépinet. Éline et son équipe diplômées du certificat Guinot, deux cabines et un espace maquillage Masters Colors. La méthode brevetée appliquée à la lettre.",
     "date_iso": "2026-07-08",
     "date_pretty": "le 8 juillet"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
