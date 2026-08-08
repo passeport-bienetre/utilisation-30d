@@ -2,16 +2,16 @@
   "carte": "39317",
   "name": "Inglina",
   "last_visit": {
-    "etab_name": "Bhumi",
-    "etab_slug": "biotonique-institut",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-    "canton": "Vaud",
-    "visites": 302,
+    "etab_name": "SUBLIMEYES",
+    "etab_slug": "institut-sublimeyes",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+    "canton": "Genève",
+    "visites": 112,
     "note": "5/5",
-    "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-    "date_iso": "2026-05-21",
-    "date_pretty": "le 21 mai"
+    "blurb": "SublimEyes au cœur de Genève, spécialiste du regard. Épilation au fil, teinture, rehaussement de cils et Microblading : la beauté pensée à hauteur d'œil.",
+    "date_iso": "2026-07-09",
+    "date_pretty": "le 9 juillet"
   },
   "top_category": "Soins Bio",
   "top_canton": "Vaud",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-biotiful-2.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "canton": "Vaud",
-      "visites": 124,
+      "visites": 127,
       "note": "4.5/5",
       "blurb": "L'institut Bio'tiful de Margaux Nussbaumer et Marion Gudit. Soins avec gammes certifiées biologiques, ambiance zen et décoration naturelle. L'arrêt dans le temps.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "canton": "Vaud",
-      "visites": 593,
+      "visites": 595,
       "note": "4.5/5",
       "blurb": "Organik Beauty, réconciliation entre composants et efficacité. Prendre soin de soi et de la planète, la beauté en mode développement durable.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
-      "visites": null,
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 2,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]

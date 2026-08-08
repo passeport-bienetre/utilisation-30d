@@ -1,0 +1,53 @@
+{
+  "carte": "34943",
+  "name": "Oscar",
+  "last_visit": {
+    "etab_name": "Le Mirador Resort & Spa",
+    "etab_slug": "le-mirador-resort-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+    "canton": "Vaud",
+    "visites": 2069,
+    "note": "4.5/5",
+    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
+    "date_iso": "2026-07-09",
+    "date_pretty": "le 9 juillet"
+  },
+  "top_category": "Soins Hommes",
+  "top_canton": "Berne",
+  "suggestions": [
+    {
+      "etab_name": "Centre Sattva",
+      "etab_slug": "centre-sattva",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-sattva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-sattva/",
+      "canton": "Berne",
+      "visites": 5,
+      "note": "5/5",
+      "blurb": "Le centre dédié à l'Ayurveda et au yoga, à Orvin (Berne). À 10 min de Bienne, 25 min de Neuchâtel, la sagesse millénaire pose ses valises au plateau de Diesse.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Hôtel de Rougemont & Spa",
+      "etab_slug": "hotel-de-rougemont-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
+      "canton": "Berne",
+      "visites": 254,
+      "note": "4.5/5",
+      "blurb": "Le spa de l'Hôtel de Rougemont, ouvert aux clients comme aux habitants. Une beauté responsable, ancrée dans la nature, où l'engagement passe avant le geste.",
+      "reason": "À découvrir dans le canton de Berne"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 2,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

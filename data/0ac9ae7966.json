@@ -1,15 +1,15 @@
 {
-  "carte": "36377",
-  "name": "Catherine",
+  "carte": "35574",
+  "name": "Margot",
   "last_visit": {
-    "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
-    "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
-    "canton": null,
-    "visites": 320,
-    "note": "4.5/5",
-    "blurb": "À Évian-les-Bains, le Spa Quatre Terres de l'Hôtel Ermitage. Soins inspirés du processus naturel de l'eau d'evian, sérénité minérale en cabine.",
+    "etab_name": "Corps Sains",
+    "etab_slug": "corps-sains",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+    "canton": "Genève",
+    "visites": 145,
+    "note": "5/5",
+    "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
     "date_iso": "2026-07-09",
     "date_pretty": "le 9 juillet"
   },
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
-      "visites": 532,
+      "visites": 431,
       "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
