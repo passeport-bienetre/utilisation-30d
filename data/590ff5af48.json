@@ -1,15 +1,15 @@
 {
-  "carte": "35140",
-  "name": "Laurianne",
+  "carte": "33957",
+  "name": "Alexandre",
   "last_visit": {
-    "etab_name": "FLEUR D’EPIDERME",
-    "etab_slug": "fleur-depiderme",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+    "etab_name": "So Beauty Home",
+    "etab_slug": "so-beauty-home",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/",
     "canton": "Genève",
-    "visites": 110,
+    "visites": 184,
     "note": "5/5",
-    "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+    "blurb": "SoBeauty's Home, signé Soraya. Soins du visage, art du maquillage, Head Spa et masterclass : la beauté authentique et personnalisée.",
     "date_iso": "2026-07-10",
     "date_pretty": "le 10 juillet"
   },

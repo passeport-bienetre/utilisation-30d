@@ -1,15 +1,15 @@
 {
-  "carte": "35140",
-  "name": "Laurianne",
+  "carte": "36799",
+  "name": "laura",
   "last_visit": {
-    "etab_name": "FLEUR D’EPIDERME",
-    "etab_slug": "fleur-depiderme",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+    "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+    "etab_slug": "lavalleespa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
     "canton": "Genève",
-    "visites": 110,
+    "visites": 155,
     "note": "5/5",
-    "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+    "blurb": "Les La Vallée SPA Suites du Ritz-Carlton Hotel de la Paix Genève. Soins du visage et du corps signés Beauty Experts aux ingrédients naturels suisses, entre Alpes et Léman.",
     "date_iso": "2026-07-10",
     "date_pretty": "le 10 juillet"
   },

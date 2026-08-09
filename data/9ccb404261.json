@@ -1,0 +1,53 @@
+{
+  "carte": "33507",
+  "name": "Alexia",
+  "last_visit": {
+    "etab_name": "Le Cabinet de Beauté",
+    "etab_slug": "le-cabinet-de-beaute",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
+    "canton": "Genève",
+    "visites": 365,
+    "note": "5/5",
+    "blurb": "Le Cabinet de Beauté, ambiance boisée et soins Dr Hauschka. Bio-esthéticienne spécialiste du visage et plantes médicinales biologiques : la cosmétique \"autrement\" à Genève.",
+    "date_iso": "2026-07-10",
+    "date_pretty": "le 10 juillet"
+  },
+  "top_category": "Soins Bio",
+  "top_canton": "Genève",
+  "suggestions": [
+    {
+      "etab_name": "NUANCES NATURE",
+      "etab_slug": "nuances-nature",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
+      "canton": "Genève",
+      "visites": 102,
+      "note": "5/5",
+      "blurb": "Ki Nuances Nature à Carouge. Esthéticienne depuis vingt ans et formatrice en cosmétiques bio pendant douze ans, elle propose soins visage, corps et Signature dans un cocon de sérénité.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Wulan Studio",
+      "etab_slug": "wulan-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
+      "canton": "Genève",
+      "visites": 74,
+      "note": "5/5",
+      "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 5,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

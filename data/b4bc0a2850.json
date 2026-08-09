@@ -1,0 +1,53 @@
+{
+  "carte": "35228",
+  "name": "Danielle",
+  "last_visit": {
+    "etab_name": "Vogue La Coiffure",
+    "etab_slug": "vogue-la-coiffure",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vogue-la-coiffure.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/",
+    "canton": null,
+    "visites": 87,
+    "note": "4.5/5",
+    "blurb": "Vogue La Coiffure. Écoute attentive et conseil personnalisé, pour une coiffure pensée comme une véritable pause.",
+    "date_iso": "2026-07-10",
+    "date_pretty": "le 10 juillet"
+  },
+  "top_category": "Coiffeur",
+  "top_canton": null,
+  "suggestions": [
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 728,
+      "note": "5/5",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "ALEX COIFFURE SARL",
+      "etab_slug": "a-lex-coiffure-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
+      "canton": "Fribourg",
+      "visites": 76,
+      "note": "5/5",
+      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
+      "reason": "À découvrir dans le canton de Fribourg"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 5,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

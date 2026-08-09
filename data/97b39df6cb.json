@@ -1,19 +1,19 @@
 {
-  "carte": "35140",
-  "name": "Laurianne",
+  "carte": "35531",
+  "name": "Elodie",
   "last_visit": {
-    "etab_name": "FLEUR D’EPIDERME",
-    "etab_slug": "fleur-depiderme",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+    "etab_name": "Le Cabinet de Beauté",
+    "etab_slug": "le-cabinet-de-beaute",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
     "canton": "Genève",
-    "visites": 110,
+    "visites": 365,
     "note": "5/5",
-    "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+    "blurb": "Le Cabinet de Beauté, ambiance boisée et soins Dr Hauschka. Bio-esthéticienne spécialiste du visage et plantes médicinales biologiques : la cosmétique \"autrement\" à Genève.",
     "date_iso": "2026-07-10",
     "date_pretty": "le 10 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins du Corps",
   "top_canton": "Genève",
   "suggestions": [
     {
