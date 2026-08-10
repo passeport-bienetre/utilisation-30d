@@ -1,19 +1,19 @@
 {
-  "carte": "39151",
-  "name": "Anne-Sophie",
+  "carte": "31463",
+  "name": "Liana",
   "last_visit": {
-    "etab_name": "AVEDA VIEILLE-VILLE",
-    "etab_slug": "aveda-vieille-ville",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
-    "canton": "Genève",
-    "visites": 72,
-    "note": "4.5/5",
-    "blurb": "Le premier salon Aveda officiel de Genève, en plein cœur de la vieille ville. Coiffure, couleur et esthétique avec vue sur la cathédrale.",
+    "etab_name": "Maison Perle",
+    "etab_slug": "maison-perle",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+    "canton": "Vaud",
+    "visites": 195,
+    "note": "5/5",
+    "blurb": "Maison Perle à Crissier, entièrement rénovée. Fatma propose des soins exigeants : Microblading, plasma, laser, avec la maîtrise technique au service du résultat.",
     "date_iso": "2026-07-11",
     "date_pretty": "le 11 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {

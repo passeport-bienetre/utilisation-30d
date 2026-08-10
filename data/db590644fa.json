@@ -2,51 +2,51 @@
   "carte": "36012",
   "name": "Magali",
   "last_visit": {
-    "etab_name": "So Hair",
-    "etab_slug": "so-hair",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
+    "etab_name": "EUPHORIA & BEAUTY STUDIO",
+    "etab_slug": "euphoria-beauty-studio",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
     "canton": "Genève",
-    "visites": 373,
+    "visites": 202,
     "note": "5/5",
-    "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
-    "date_iso": "2026-05-09",
-    "date_pretty": "le 9 mai"
+    "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
+    "date_iso": "2026-07-11",
+    "date_pretty": "le 11 juillet"
   },
   "top_category": "Coiffure",
   "top_canton": "Genève",
   "suggestions": [
-    {
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "etab_slug": "euphoria-beauty-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
-      "canton": "Genève",
-      "visites": 156,
-      "note": "5/5",
-      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Parallèles Coiffure",
       "etab_slug": "paralleles-coiffure",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "canton": "Genève",
-      "visites": 215,
+      "visites": 226,
       "note": "5/5",
       "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Wulan Studio",
+      "etab_slug": "wulan-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
+      "canton": "Genève",
+      "visites": 74,
+      "note": "5/5",
+      "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "HÔTEL BORSARI",
-      "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": null,
+      "visites": 5,
       "note": null,
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]
