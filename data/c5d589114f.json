@@ -1,0 +1,53 @@
+{
+  "carte": "39013",
+  "name": "Anne-Claude",
+  "last_visit": {
+    "etab_name": "Naïda Massothérapie",
+    "etab_slug": "naida-massotherapie",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/naida-massotherapie/",
+    "canton": "Vaud",
+    "visites": 43,
+    "note": "5/5",
+    "blurb": "Naïda Borgeat, massothérapeute. Massage classique, drainage lymphatique, Sculpt&Flow, ventouses : des techniques manuelles ajustées à chaque besoin.",
+    "date_iso": "2026-07-13",
+    "date_pretty": "le 13 juillet"
+  },
+  "top_category": "Soins Duo",
+  "top_canton": "Genève",
+  "suggestions": [
+    {
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "canton": "Genève",
+      "visites": 203,
+      "note": "4.5/5",
+      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Origin Float Spa",
+      "etab_slug": "origin-float-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
+      "canton": "Genève",
+      "visites": 206,
+      "note": "4.5/5",
+      "blurb": "ORIGIN, espace de flottaison et de boutique éthique. Tisane, lecture en repos et produits locaux engagés pour la sérénité avant et après la séance.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 5,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

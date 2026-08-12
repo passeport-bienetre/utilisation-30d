@@ -1,19 +1,19 @@
 {
-  "carte": "39441",
-  "name": "Cindy",
+  "carte": "36810",
+  "name": "Susanne",
   "last_visit": {
-    "etab_name": "Saai Nam Massage - Manor",
-    "etab_slug": "saai-nam-massage-manor",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
+    "etab_name": "Studio Beauté",
+    "etab_slug": "studio-beaute",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/studio-beaute.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/studio-beaute/",
     "canton": "Genève",
-    "visites": 1029,
-    "note": "4/5",
-    "blurb": "Saai Nam Massage. Matelas spéciaux confortables, pièce éclairée à la bougie et tasse de thé ou café en clôture, la tradition thaïe avec ses gestes.",
+    "visites": 199,
+    "note": "4.5/5",
+    "blurb": "Studio Beauté sur la rive droite. Soins Sothy's, produits Alessandro et OPI, spécialisé microdermabrasion et DermaPod anti-âge : l'attention personnalisée signée Rosemary.",
     "date_iso": "2026-07-13",
     "date_pretty": "le 13 juillet"
   },
-  "top_category": "Massage",
+  "top_category": "Epilation",
   "top_canton": "Genève",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 532,
+      "visites": 110,
       "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
