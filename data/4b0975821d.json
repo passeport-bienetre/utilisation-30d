@@ -1,20 +1,20 @@
 {
-  "carte": "38489",
-  "name": "Cynthia",
+  "carte": "35714",
+  "name": "Anahid",
   "last_visit": {
-    "etab_name": "Le Beausquet Genève",
-    "etab_slug": "le-beausquet-geneve",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
-    "canton": "Genève",
-    "visites": 86,
-    "note": "4/5",
-    "blurb": "Le Beausquet au cœur de Genève, quartier du Rhône. Proche des boutiques de luxe, soins haute qualité des pieds à la tête.",
+    "etab_name": "LES TRESOMS",
+    "etab_slug": "les-tresoms-2",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
+    "canton": null,
+    "visites": 105,
+    "note": "5/5",
+    "blurb": "MontSpa Les Trésoms, labellisé Spa de France, vue lac d'Annecy. 200 m², bassin de balnéothérapie, sauna, hammam, 7 cabines, Thalgo et Douceur du Lac.",
     "date_iso": "2026-07-14",
     "date_pretty": "le 14 juillet"
   },
-  "top_category": "Epilation",
-  "top_canton": "Genève",
+  "top_category": "Massage",
+  "top_canton": null,
   "suggestions": [
     {
       "etab_name": "BEAUTY B",
@@ -28,15 +28,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
-      "canton": "Genève",
-      "visites": 110,
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 303,
       "note": "5/5",
-      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
-      "reason": "À découvrir dans le canton de Genève"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "SPA DES BISSES 4 VALLÉES",
