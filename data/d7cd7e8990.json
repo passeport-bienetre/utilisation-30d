@@ -1,15 +1,15 @@
 {
-  "carte": "36481",
-  "name": "Jasmina",
+  "carte": "35961",
+  "name": "Armela",
   "last_visit": {
-    "etab_name": "Royal Savoy Hôtel & Spa",
-    "etab_slug": "royal-savoy-hotel-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+    "etab_name": "Maison Perle",
+    "etab_slug": "maison-perle",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
     "canton": "Vaud",
-    "visites": 3016,
+    "visites": 197,
     "note": "5/5",
-    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
+    "blurb": "Maison Perle à Crissier, entièrement rénovée. Fatma propose des soins exigeants : Microblading, plasma, laser, avec la maîtrise technique au service du résultat.",
     "date_iso": "2026-07-15",
     "date_pretty": "le 15 juillet"
   },

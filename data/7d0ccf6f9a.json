@@ -1,15 +1,15 @@
 {
-  "carte": "36145",
-  "name": "Angélique",
+  "carte": "26909",
+  "name": "Catherine",
   "last_visit": {
-    "etab_name": "Skin Solution",
-    "etab_slug": "skin-solution",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+    "etab_name": "Le Beausquet Genève",
+    "etab_slug": "le-beausquet-geneve",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
     "canton": "Genève",
-    "visites": 688,
+    "visites": 86,
     "note": "4/5",
-    "blurb": "Skin Solution, resurfacing cutané et anti-âge. Iyashi Dôme sauna japonais et massages divers pour le bien-être corps, âme et esprit.",
+    "blurb": "Le Beausquet au cœur de Genève, quartier du Rhône. Proche des boutiques de luxe, soins haute qualité des pieds à la tête.",
     "date_iso": "2026-07-15",
     "date_pretty": "le 15 juillet"
   },

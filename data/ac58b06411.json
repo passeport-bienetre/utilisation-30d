@@ -1,0 +1,53 @@
+{
+  "carte": "35837",
+  "name": "Daphné",
+  "last_visit": {
+    "etab_name": "EUPHORIA & BEAUTY STUDIO",
+    "etab_slug": "euphoria-beauty-studio",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+    "canton": "Genève",
+    "visites": 203,
+    "note": "5/5",
+    "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
+    "date_iso": "2026-07-15",
+    "date_pretty": "le 15 juillet"
+  },
+  "top_category": "Soins du Visage",
+  "top_canton": "Valais",
+  "suggestions": [
+    {
+      "etab_name": "Chandolin Boutique Hôtel",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": "Valais",
+      "visites": 172,
+      "note": "5/5",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Chanelle and Co.",
+      "etab_slug": "chanelle-and-co",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/",
+      "canton": "Valais",
+      "visites": 15,
+      "note": "5/5",
+      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 8,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

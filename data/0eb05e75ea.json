@@ -1,19 +1,19 @@
 {
-  "carte": "36481",
-  "name": "Jasmina",
+  "carte": "37087",
+  "name": "Sandra",
   "last_visit": {
-    "etab_name": "Royal Savoy Hôtel & Spa",
-    "etab_slug": "royal-savoy-hotel-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+    "etab_name": "Grand Hôtel du Lac",
+    "etab_slug": "grand-hotel-du-lac",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
     "canton": "Vaud",
-    "visites": 3016,
+    "visites": 577,
     "note": "5/5",
-    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
+    "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
     "date_iso": "2026-07-15",
     "date_pretty": "le 15 juillet"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {

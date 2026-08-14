@@ -1,6 +1,6 @@
 {
-  "carte": "36481",
-  "name": "Jasmina",
+  "carte": "30405",
+  "name": "Gabriela",
   "last_visit": {
     "etab_name": "Royal Savoy Hôtel & Spa",
     "etab_slug": "royal-savoy-hotel-spa",
@@ -13,29 +13,29 @@
     "date_iso": "2026-07-15",
     "date_pretty": "le 15 juillet"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Future Maman",
   "top_canton": "Vaud",
   "suggestions": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "canton": "Vaud",
-      "visites": 729,
+      "visites": 83,
       "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "etab_name": "La VILLA Kobido et Massage",
+      "etab_slug": "la-villa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
       "canton": "Vaud",
-      "visites": 180,
+      "visites": 228,
       "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

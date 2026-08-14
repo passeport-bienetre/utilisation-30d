@@ -1,15 +1,15 @@
 {
-  "carte": "36481",
-  "name": "Jasmina",
+  "carte": "30692",
+  "name": "Claudia",
   "last_visit": {
-    "etab_name": "Royal Savoy Hôtel & Spa",
-    "etab_slug": "royal-savoy-hotel-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+    "etab_name": "CJ Coiffure",
+    "etab_slug": "cj-coiffure",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
     "canton": "Vaud",
-    "visites": 3016,
+    "visites": 590,
     "note": "5/5",
-    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
+    "blurb": "Le salon de deux amies, Caroline et Jenny. Convivialité, tendance et formation continue auprès des partenaires : le salon comme deuxième salon.",
     "date_iso": "2026-07-15",
     "date_pretty": "le 15 juillet"
   },

@@ -1,19 +1,19 @@
 {
-  "carte": "36481",
-  "name": "Jasmina",
+  "carte": "29389",
+  "name": "Chantal",
   "last_visit": {
-    "etab_name": "Royal Savoy Hôtel & Spa",
-    "etab_slug": "royal-savoy-hotel-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
-    "canton": "Vaud",
-    "visites": 3016,
+    "etab_name": "Lumen Spa & Wellness",
+    "etab_slug": "lumen-spa-wellness",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/",
+    "canton": "Valais",
+    "visites": 36,
     "note": "5/5",
-    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
+    "blurb": "Le Lumen Spa. Massages enveloppants, pressions profondes, pierres chaudes, réflexologie et soin signature holistique. Accès réservé aux 16 ans et plus pour préserver la sérénité.",
     "date_iso": "2026-07-15",
     "date_pretty": "le 15 juillet"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {

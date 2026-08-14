@@ -1,19 +1,19 @@
 {
-  "carte": "36481",
-  "name": "Jasmina",
+  "carte": "30720",
+  "name": "Yvonne",
   "last_visit": {
-    "etab_name": "Royal Savoy Hôtel & Spa",
-    "etab_slug": "royal-savoy-hotel-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+    "etab_name": "La VILLA Kobido et Massage",
+    "etab_slug": "la-villa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
     "canton": "Vaud",
-    "visites": 3016,
+    "visites": 228,
     "note": "5/5",
-    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
+    "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
     "date_iso": "2026-07-15",
     "date_pretty": "le 15 juillet"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
