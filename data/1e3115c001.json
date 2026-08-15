@@ -1,19 +1,19 @@
 {
-  "carte": "39226",
-  "name": "Sonia",
+  "carte": "39018",
+  "name": "Julie",
   "last_visit": {
-    "etab_name": "Ipanema Beauté",
-    "etab_slug": "ipanema-beaute",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
+    "etab_name": "Thai Corner",
+    "etab_slug": "thai-corner-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
     "canton": "Genève",
-    "visites": 368,
-    "note": "4/5",
-    "blurb": "Le duo brésilien d'Ipanema Beauté à Genève, présent depuis 16 ans. Spécialistes mains, pieds et épilation : l'accueil chaleureux version Rio.",
+    "visites": 847,
+    "note": "4.5/5",
+    "blurb": "Thai Corner à Plainpalais. Décor thaï traditionnel et contemporain, masseuses formées aux meilleures écoles dont le Wat Pho : le massage comme art de vivre.",
     "date_iso": "2026-07-16",
     "date_pretty": "le 16 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Massage",
   "top_canton": "Genève",
   "suggestions": [
     {

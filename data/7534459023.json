@@ -1,0 +1,53 @@
+{
+  "carte": "35365",
+  "name": "Déborah",
+  "last_visit": {
+    "etab_name": "EVERNESS <br>Hôtel & Resort",
+    "etab_slug": "everness-resort",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
+    "canton": "Vaud",
+    "visites": 490,
+    "note": "4.5/5",
+    "blurb": "Niché entre Genève et Lausanne, au cœur des vignes. Hôtel 4 étoiles, wellness nordique, sauna extérieur vue lac, piscine extérieure chauffée : un voyage des 5 sens en bord de Léman.",
+    "date_iso": "2026-07-16",
+    "date_pretty": "le 16 juillet"
+  },
+  "top_category": "Soins du Visage",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 303,
+      "note": "5/5",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": 940,
+      "note": "5/5",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 9,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

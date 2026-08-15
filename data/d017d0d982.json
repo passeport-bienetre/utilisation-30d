@@ -1,19 +1,19 @@
 {
-  "carte": "35011",
-  "name": "Sophie",
+  "carte": "35605",
+  "name": "Gregory",
   "last_visit": {
-    "etab_name": "Maison B",
-    "etab_slug": "maison-b",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
-    "canton": null,
-    "visites": 47,
-    "note": "5/5",
-    "blurb": "Maison B, héritage Dr Burgener Switzerland et Lynell (1955). Tests épigénétiques, bio-impédance et analyses de peau : la beauté qui se comprend avant de se révéler.",
+    "etab_name": "Institut Osmose",
+    "etab_slug": "institut-osmose",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-osmose/",
+    "canton": "Vaud",
+    "visites": 206,
+    "note": "4.5/5",
+    "blurb": "L'Institut Osmose à Gland, fondé par Morgane et Cécile après plusieurs années en spas 4 et 5 étoiles. Massages du monde et soins visage l'Alpage Suisse, la botanique alpine en cabine.",
     "date_iso": "2026-07-16",
     "date_pretty": "le 16 juillet"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {

@@ -1,19 +1,19 @@
 {
-  "carte": "39226",
-  "name": "Sonia",
+  "carte": "37184",
+  "name": "Anouck",
   "last_visit": {
-    "etab_name": "Ipanema Beauté",
-    "etab_slug": "ipanema-beaute",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
+    "etab_name": "INTUITIVE JESS",
+    "etab_slug": "intuitive-jess",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/intuitive-jess/",
     "canton": "Genève",
-    "visites": 368,
+    "visites": 27,
     "note": "4/5",
-    "blurb": "Le duo brésilien d'Ipanema Beauté à Genève, présent depuis 16 ans. Spécialistes mains, pieds et épilation : l'accueil chaleureux version Rio.",
+    "blurb": "Jessica Rizzo, thérapeute corporelle d'origine suisse et italienne, de retour à Genève après dix ans à Berlin. Approche holistique et intuitive au service du corps.",
     "date_iso": "2026-07-16",
     "date_pretty": "le 16 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Massage",
   "top_canton": "Genève",
   "suggestions": [
     {
