@@ -1,19 +1,19 @@
 {
-  "carte": "39301",
-  "name": "Geoffroy",
+  "carte": "35959",
+  "name": "Lea",
   "last_visit": {
-    "etab_name": "LES BAINS PUBLICS",
-    "etab_slug": "les-bains-publics",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/",
-    "canton": "Valais",
-    "visites": 82,
-    "note": "4.5/5",
-    "blurb": "Les Bains Publics, espace souterrain inspiré du rituel romain. Eau chaude, baignade et sérénité, pour une pause vraiment réparatrice.",
+    "etab_name": "MAISON DU TEMPS",
+    "etab_slug": "maison-du-temps",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+    "canton": "Genève",
+    "visites": 41,
+    "note": null,
+    "blurb": null,
     "date_iso": "2026-07-17",
     "date_pretty": "le 17 juillet"
   },
-  "top_category": "Massage",
+  "top_category": "Soins Hommes",
   "top_canton": "Genève",
   "suggestions": [
     {

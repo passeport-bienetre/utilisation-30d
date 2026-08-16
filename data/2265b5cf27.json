@@ -1,32 +1,21 @@
 {
-  "carte": "36135",
-  "name": "Erin",
+  "carte": "32329",
+  "name": "Chloe",
   "last_visit": {
-    "etab_name": "AVEDA VIEILLE-VILLE",
-    "etab_slug": "aveda-vieille-ville",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
+    "etab_name": "Thai Corner",
+    "etab_slug": "thai-corner-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
     "canton": "Genève",
-    "visites": 72,
+    "visites": 847,
     "note": "4.5/5",
-    "blurb": "Le premier salon Aveda officiel de Genève, en plein cœur de la vieille ville. Coiffure, couleur et esthétique avec vue sur la cathédrale.",
+    "blurb": "Thai Corner à Plainpalais. Décor thaï traditionnel et contemporain, masseuses formées aux meilleures écoles dont le Wat Pho : le massage comme art de vivre.",
     "date_iso": "2026-07-17",
     "date_pretty": "le 17 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins Duo",
   "top_canton": "Genève",
   "suggestions": [
-    {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
-      "canton": "Genève",
-      "visites": 148,
-      "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
       "etab_slug": "hotel-intercontinental-spa-5-mondes",
@@ -36,6 +25,17 @@
       "visites": 434,
       "note": "5/5",
       "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "canton": "Genève",
+      "visites": 203,
+      "note": "4.5/5",
+      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
