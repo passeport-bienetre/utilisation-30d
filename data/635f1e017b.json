@@ -1,19 +1,19 @@
 {
-  "carte": "35911",
-  "name": "Clea",
+  "carte": "39421",
+  "name": "Aurélia",
   "last_visit": {
-    "etab_name": "MAISON DU TEMPS",
-    "etab_slug": "maison-du-temps",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+    "etab_name": "Le Beausquet Genève",
+    "etab_slug": "le-beausquet-geneve",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
     "canton": "Genève",
-    "visites": 41,
-    "note": null,
-    "blurb": null,
+    "visites": 90,
+    "note": "4/5",
+    "blurb": "Le Beausquet au cœur de Genève, quartier du Rhône. Proche des boutiques de luxe, soins haute qualité des pieds à la tête.",
     "date_iso": "2026-07-18",
     "date_pretty": "le 18 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins du Corps",
   "top_canton": "Genève",
   "suggestions": [
     {

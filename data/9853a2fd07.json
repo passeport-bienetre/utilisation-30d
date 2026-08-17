@@ -1,20 +1,20 @@
 {
-  "carte": "35911",
-  "name": "Clea",
+  "carte": "38594",
+  "name": "Joanna",
   "last_visit": {
-    "etab_name": "MAISON DU TEMPS",
-    "etab_slug": "maison-du-temps",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
-    "canton": "Genève",
-    "visites": 41,
-    "note": null,
-    "blurb": null,
+    "etab_name": "EssenCiel Institut",
+    "etab_slug": "essenciel-institut",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/essenciel-institut.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/essenciel-institut/",
+    "canton": "Fribourg",
+    "visites": 61,
+    "note": "5/5",
+    "blurb": "L'institut EssenCiel travaille autour des huiles essentielles et de la gamme Yon-Ka. Soins ressourçants pour un moment rien qu'à soi.",
     "date_iso": "2026-07-18",
     "date_pretty": "le 18 juillet"
   },
-  "top_category": "Soins Hommes",
-  "top_canton": "Genève",
+  "top_category": "Epilation",
+  "top_canton": "Fribourg",
   "suggestions": [
     {
       "etab_name": "BEAUTY B",
@@ -28,15 +28,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
-      "canton": "Genève",
-      "visites": 535,
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 303,
       "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
-      "reason": "À découvrir dans le canton de Genève"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

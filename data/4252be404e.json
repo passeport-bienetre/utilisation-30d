@@ -1,19 +1,20 @@
 {
-  "carte": "39874",
-  "name": "Sandrine",
+  "carte": "37009",
+  "name": "Audrey",
   "last_visit": {
-    "etab_name": "Hôtel & Spa Le National",
-    "etab_slug": "hotel-spa-le-national",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
-    "canton": "Valais",
-    "visites": 273,
-    "note": "4.5/5",
-    "blurb": "L'Hôtel National Resort à Champéry. Un spa où pierre, bois et eau habitent le lieu, soins ComfortZone et la montagne comme cadre du voyage sensoriel.",
+    "etab_name": "VAGHEGGI Phyto Space Crans-Montana",
+    "etab_slug": null,
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+    "etab_url_public": null,
+    "category": null,
+    "canton": null,
+    "visites": null,
+    "note": null,
+    "blurb": null,
     "date_iso": "2026-07-18",
     "date_pretty": "le 18 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {
