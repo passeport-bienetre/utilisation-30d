@@ -1,6 +1,6 @@
 {
-  "carte": "34608",
-  "name": "Catherine",
+  "carte": "34793",
+  "name": "Isabelle",
   "last_visit": {
     "etab_name": "LAURA COIFFEUSE PRIVÉE",
     "etab_slug": "laura-coiffeuse-privee",
@@ -13,7 +13,7 @@
     "date_iso": "2026-07-21",
     "date_pretty": "le 21 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Coiffeur",
   "top_canton": "Vaud",
   "suggestions": [
     {

@@ -1,19 +1,19 @@
 {
-  "carte": "31805",
-  "name": "Ariane",
+  "carte": "37059",
+  "name": "Myriam",
   "last_visit": {
-    "etab_name": "Thaiotop",
-    "etab_slug": "thaiotop-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
+    "etab_name": "SAKURA LAB",
+    "etab_slug": "sakura-lab",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
     "canton": "Genève",
-    "visites": 732,
+    "visites": 176,
     "note": "4.5/5",
-    "blurb": "Thaiotop, massage relaxant ou revigorant. Une pause onctueuse pour oublier le stress du quotidien.",
+    "blurb": "Sakura Lab, espace de douceur sur-mesure. Spécialistes diplômées et soins variés sous un même toit : chaque rendez-vous, une expérience unique.",
     "date_iso": "2026-07-21",
     "date_pretty": "le 21 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Epilation",
   "top_canton": "Genève",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "etab_slug": "clinique-la-jouvence-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 9,
+      "visites": 110,
       "note": "5/5",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
