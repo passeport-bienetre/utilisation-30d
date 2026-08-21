@@ -1,21 +1,32 @@
 {
-  "carte": "34643",
-  "name": "Rachel",
+  "carte": "36398",
+  "name": "Lizi",
   "last_visit": {
-    "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
-    "etab_slug": "spa-by-clarins",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
-    "canton": null,
-    "visites": 171,
-    "note": "4.5/5",
-    "blurb": "Spa by Clarins. Soin du visage ou du corps comme une nécessité plus que comme un luxe : la mission Clarins au cœur du bien-être contemporain.",
+    "etab_name": "Royal Savoy Hôtel & Spa",
+    "etab_slug": "royal-savoy-hotel-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+    "canton": "Vaud",
+    "visites": 3024,
+    "note": "5/5",
+    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
     "date_iso": "2026-07-22",
     "date_pretty": "le 22 juillet"
   },
-  "top_category": "Soins Duo",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
+    {
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visites": 180,
+      "note": "5/5",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
       "etab_slug": "chalet-royalp-hotel-spa",
@@ -25,17 +36,6 @@
       "visites": 942,
       "note": "5/5",
       "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "MK PILATES",
-      "etab_slug": "mk-pilates",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mk-pilates.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/mk-pilates/",
-      "canton": "Vaud",
-      "visites": 5,
-      "note": "5/5",
-      "blurb": "MK Pilates, studio privé équipé Gratz : Reformer, Cadillac, wunda chair, ladder barrel et pedipole. Méthode authentique et pédagogie précise pour un Pilates classique sans concession.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
