@@ -1,20 +1,20 @@
 {
-  "carte": "35313",
-  "name": "Cecily",
+  "carte": "32794",
+  "name": "Margot",
   "last_visit": {
-    "etab_name": "Le St-Gervais Hôtel & Spa",
-    "etab_slug": "le-st-gervais-hotel-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
-    "canton": null,
-    "visites": 86,
-    "note": "4/5",
-    "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
+    "etab_name": "Guinot Art of Beauty",
+    "etab_slug": "guinot-art-of-beauty",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guinot-art-of-beauty.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/",
+    "canton": "Genève",
+    "visites": 107,
+    "note": "4.5/5",
+    "blurb": "L'Institut Art Of Beauty signé Guinot. Soins visage et corps, photo-réjuvénisation et épilation permanente SPL : l'expertise Guinot à la carte.",
     "date_iso": "2026-07-23",
     "date_pretty": "le 23 juillet"
   },
-  "top_category": "Massage",
-  "top_canton": null,
+  "top_category": "Epilation",
+  "top_canton": "Genève",
   "suggestions": [
     {
       "etab_name": "BEAUTY B",
@@ -28,15 +28,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-      "canton": "Vaud",
-      "visites": 304,
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "canton": "Genève",
+      "visites": 110,
       "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "À découvrir dans le canton de Vaud"
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+      "reason": "À découvrir dans le canton de Genève"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

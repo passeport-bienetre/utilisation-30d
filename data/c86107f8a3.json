@@ -1,32 +1,21 @@
 {
-  "carte": "36171",
-  "name": "Diana",
+  "carte": "33754",
+  "name": "Lucile",
   "last_visit": {
-    "etab_name": "So Beauty Home",
-    "etab_slug": "so-beauty-home",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/",
+    "etab_name": "The Wax Bar Genève",
+    "etab_slug": "the-wax-bar-geneve",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/the-wax-bar-geneve.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/the-wax-bar-geneve/",
     "canton": "Genève",
-    "visites": 187,
-    "note": "5/5",
-    "blurb": "SoBeauty's Home, signé Soraya. Soins du visage, art du maquillage, Head Spa et masterclass : la beauté authentique et personnalisée.",
+    "visites": 159,
+    "note": "4.5/5",
+    "blurb": "The Wax Bar à Genève, Lausanne et Vevey, premier bar à épilation. Cire orientale, prix attractifs, avec ou sans rendez-vous : la précision orientale en accès libre.",
     "date_iso": "2026-07-23",
     "date_pretty": "le 23 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Massage",
   "top_canton": "Genève",
   "suggestions": [
-    {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
-      "canton": "Genève",
-      "visites": 148,
-      "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Blossom Institut",
       "etab_slug": "blossom-institut",
@@ -36,6 +25,17 @@
       "visites": 538,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Corps Sains",
+      "etab_slug": "corps-sains",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "canton": "Genève",
+      "visites": 145,
+      "note": "5/5",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

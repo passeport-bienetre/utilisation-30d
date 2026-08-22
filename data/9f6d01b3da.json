@@ -1,19 +1,19 @@
 {
-  "carte": "33151",
-  "name": "Valentine",
+  "carte": "36491",
+  "name": "Axelle",
   "last_visit": {
-    "etab_name": "SAKURA LAB",
-    "etab_slug": "sakura-lab",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+    "etab_name": "Skin Solution",
+    "etab_slug": "skin-solution",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
     "canton": "Genève",
-    "visites": 177,
-    "note": "4.5/5",
-    "blurb": "Sakura Lab, espace de douceur sur-mesure. Spécialistes diplômées et soins variés sous un même toit : chaque rendez-vous, une expérience unique.",
+    "visites": 694,
+    "note": "4/5",
+    "blurb": "Skin Solution, resurfacing cutané et anti-âge. Iyashi Dôme sauna japonais et massages divers pour le bien-être corps, âme et esprit.",
     "date_iso": "2026-07-23",
     "date_pretty": "le 23 juillet"
   },
-  "top_category": "Onglerie",
+  "top_category": "Coiffure",
   "top_canton": "Genève",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "canton": "Genève",
-      "visites": 110,
+      "visites": 227,
       "note": "5/5",
-      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

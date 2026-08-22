@@ -1,19 +1,19 @@
 {
-  "carte": "29251",
-  "name": "Anne",
+  "carte": "31449",
+  "name": "Michael",
   "last_visit": {
-    "etab_name": "Nail Café",
-    "etab_slug": "nail-cafe",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+    "etab_name": "Le Mirador Resort & Spa",
+    "etab_slug": "le-mirador-resort-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
     "canton": "Vaud",
-    "visites": 601,
+    "visites": 2094,
     "note": "4.5/5",
-    "blurb": "Nail Café à la gare de Renens. Soins mains et pieds, Nail Art, cils, sourcils, visage, épilations et pressothérapie, avec ou sans rendez-vous, café à siroter.",
+    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
     "date_iso": "2026-07-23",
     "date_pretty": "le 23 juillet"
   },
-  "top_category": "Massage",
+  "top_category": "Future Maman",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
-      "etab_slug": "la-maison-valmont-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "canton": "Vaud",
-      "visites": 58,
+      "visites": 84,
       "note": "5/5",
-      "blurb": "La Maison Valmont sur la Place St-François. Anti-âge Valmont, Elixir des Glaciers, Storie Veneziane et collection d'art Didier Guillon : le must beauté lausannois.",
+      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
