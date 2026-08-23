@@ -1,19 +1,19 @@
 {
-  "carte": "32324",
-  "name": "Ana",
+  "carte": "35196",
+  "name": "Yannis",
   "last_visit": {
-    "etab_name": "Institut Guinot",
-    "etab_slug": "institut-guinot-2",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+    "etab_name": "Royal Savoy Hôtel & Spa",
+    "etab_slug": "royal-savoy-hotel-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
     "canton": "Vaud",
-    "visites": 839,
-    "note": "4.5/5",
-    "blurb": "L'Institut Guinot à Lausanne, près de la place Pépinet. Éline et son équipe diplômées du certificat Guinot, deux cabines et un espace maquillage Masters Colors. La méthode brevetée appliquée à la lettre.",
+    "visites": 3027,
+    "note": "5/5",
+    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
     "date_iso": "2026-07-24",
     "date_pretty": "le 24 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {

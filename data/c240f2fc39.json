@@ -1,19 +1,19 @@
 {
-  "carte": "32324",
-  "name": "Ana",
+  "carte": "31927",
+  "name": "Jessica",
   "last_visit": {
-    "etab_name": "Institut Guinot",
-    "etab_slug": "institut-guinot-2",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+    "etab_name": "LAURA COIFFEUSE PRIVÉE",
+    "etab_slug": "laura-coiffeuse-privee",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
     "canton": "Vaud",
-    "visites": 839,
+    "visites": 100,
     "note": "4.5/5",
-    "blurb": "L'Institut Guinot à Lausanne, près de la place Pépinet. Éline et son équipe diplômées du certificat Guinot, deux cabines et un espace maquillage Masters Colors. La méthode brevetée appliquée à la lettre.",
+    "blurb": "Laura, coiffeuse privée face à l'Opéra de Lausanne, vingt ans de pratique. Spécialiste mèches, balayage et ombré, sur-mesure en salon ou à domicile.",
     "date_iso": "2026-07-24",
     "date_pretty": "le 24 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Coiffeur",
   "top_canton": "Vaud",
   "suggestions": [
     {
