@@ -1,15 +1,15 @@
 {
-  "carte": "38077",
-  "name": "EMILIE",
+  "carte": "34213",
+  "name": "Francine",
   "last_visit": {
-    "etab_name": "Institut Guinot",
-    "etab_slug": "institut-guinot-2",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+    "etab_name": "Namasté",
+    "etab_slug": "namaste",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaste.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/namaste/",
     "canton": "Vaud",
-    "visites": 842,
+    "visites": 487,
     "note": "4.5/5",
-    "blurb": "L'Institut Guinot à Lausanne, près de la place Pépinet. Éline et son équipe diplômées du certificat Guinot, deux cabines et un espace maquillage Masters Colors. La méthode brevetée appliquée à la lettre.",
+    "blurb": "Namasté, fusion de Vanessa Veseli et Mélanie Rossi. Espace de détente et large choix de soins, le bien-être de deux passions réunies.",
     "date_iso": "2026-07-28",
     "date_pretty": "le 28 juillet"
   },

@@ -1,19 +1,19 @@
 {
-  "carte": "32246",
-  "name": "Ariane",
+  "carte": "36949",
+  "name": "Manon",
   "last_visit": {
-    "etab_name": "MAISON DU TEMPS",
-    "etab_slug": "maison-du-temps",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+    "etab_name": "INTUITIVE JESS",
+    "etab_slug": "intuitive-jess",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/intuitive-jess/",
     "canton": "Genève",
-    "visites": 44,
-    "note": null,
-    "blurb": null,
+    "visites": 32,
+    "note": "4/5",
+    "blurb": "Jessica Rizzo, thérapeute corporelle d'origine suisse et italienne, de retour à Genève après dix ans à Berlin. Approche holistique et intuitive au service du corps.",
     "date_iso": "2026-07-28",
     "date_pretty": "le 28 juillet"
   },
-  "top_category": "Soins du Visage",
+  "top_category": "Soins Hommes",
   "top_canton": "Genève",
   "suggestions": [
     {
