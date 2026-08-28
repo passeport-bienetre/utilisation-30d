@@ -1,21 +1,32 @@
 {
-  "carte": "32409",
-  "name": "Jacques",
+  "carte": "26921",
+  "name": "Anne",
   "last_visit": {
-    "etab_name": "Arte Beauty Lutry",
-    "etab_slug": "arte-beauty-lutry",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
-    "canton": "Vaud",
-    "visites": 1149,
-    "note": "4/5",
-    "blurb": "L'antenne Arte Beauty à Lutry. Mêmes marques de référence (OPI, LPG, Kérastase, Fillmed) en version riveraine du Léman.",
+    "etab_name": "Les Sources du Chéry",
+    "etab_slug": "les-sources-du-chery",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-du-chery.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-du-chery/",
+    "canton": null,
+    "visites": 85,
+    "note": "5/5",
+    "blurb": "Aux Sources du Chéry, spa des Gets sur les flancs du Mont Chéry. 1000 m² Montagne chic, eau de sources et bois des giets pour un bien-être Alpin à la source.",
     "date_iso": "2026-07-29",
     "date_pretty": "le 29 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Massage",
   "top_canton": "Vaud",
   "suggestions": [
+    {
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 304,
+      "note": "5/5",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
       "etab_slug": "chalet-royalp-hotel-spa",
@@ -25,17 +36,6 @@
       "visites": 944,
       "note": "5/5",
       "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Guess What",
-      "etab_slug": "guess-what-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guess-what-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/guess-what-3/",
-      "canton": "Vaud",
-      "visites": 229,
-      "note": "5/5",
-      "blurb": "Le salon de Roxane, coiffeuse depuis dix ans. Lissage japonais, colorations, conseil visagisme et espace dédié aux enfants : la coiffure version famille.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
