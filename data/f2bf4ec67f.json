@@ -1,19 +1,19 @@
 {
-  "carte": "35042",
-  "name": "Joëlle",
+  "carte": "36936",
+  "name": "Christelle",
   "last_visit": {
-    "etab_name": "Le Mirador Resort & Spa",
-    "etab_slug": "le-mirador-resort-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+    "etab_name": "Naïda Massothérapie",
+    "etab_slug": "naida-massotherapie",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/naida-massotherapie/",
     "canton": "Vaud",
-    "visites": 2105,
-    "note": "4.5/5",
-    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
+    "visites": 44,
+    "note": "5/5",
+    "blurb": "Naïda Borgeat, massothérapeute. Massage classique, drainage lymphatique, Sculpt&Flow, ventouses : des techniques manuelles ajustées à chaque besoin.",
     "date_iso": "2026-07-30",
     "date_pretty": "le 30 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {

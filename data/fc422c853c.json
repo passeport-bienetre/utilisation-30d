@@ -1,19 +1,19 @@
 {
-  "carte": "35657",
-  "name": "Marie-Lise",
+  "carte": "30725",
+  "name": "Laurence",
   "last_visit": {
-    "etab_name": "LECRANS HOTEL & SPA",
-    "etab_slug": "le-st-gervais-hotel-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+    "etab_name": "Experimental Chalet",
+    "etab_slug": "experimental-chalet",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/experimental-chalet.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/experimental-chalet/",
     "canton": "Valais",
-    "visites": 187,
-    "note": "5/5",
-    "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
+    "visites": 102,
+    "note": "4.5/5",
+    "blurb": "Le premier spa de l'Experimental Group à Verbier, en collaboration avec Biologique Recherche. 3 cabines, hammam, sauna, jacuzzi et bain froid au premier étage : la pointe parisienne au cœur des Alpes.",
     "date_iso": "2026-07-30",
     "date_pretty": "le 30 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Massage",
   "top_canton": "Valais",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Le Lokal",
-      "etab_slug": "le-lokal",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-lokal.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-lokal/",
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "etab_slug": "flocoon-spa-cinq-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
-      "visites": 51,
+      "visites": 358,
       "note": "5/5",
-      "blurb": "Le LoKal à Martigny-Bourg, fondé en 2015. Coiffure cadre zen et partenaire Keune depuis 1922 : la beauté capillaire au tempo lent.",
+      "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {

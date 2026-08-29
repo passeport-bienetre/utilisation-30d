@@ -1,15 +1,15 @@
 {
-  "carte": "35042",
-  "name": "Joëlle",
+  "carte": "36366",
+  "name": "Christel",
   "last_visit": {
-    "etab_name": "Le Mirador Resort & Spa",
-    "etab_slug": "le-mirador-resort-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+    "etab_name": "Salon Privé Chailly",
+    "etab_slug": "salon-prive-chailly",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
     "canton": "Vaud",
-    "visites": 2105,
+    "visites": 345,
     "note": "4.5/5",
-    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
+    "blurb": "Salon Privé Chailly à Lausanne. Équipe multilingue avec L'Oréal Professionnel, Kérastase, Davines et Marcapar pour la couleur végétale : la coiffure du quartier.",
     "date_iso": "2026-07-30",
     "date_pretty": "le 30 juillet"
   },

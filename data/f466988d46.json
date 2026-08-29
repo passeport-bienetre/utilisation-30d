@@ -1,19 +1,19 @@
 {
-  "carte": "35042",
-  "name": "Joëlle",
+  "carte": "31009",
+  "name": "Tara",
   "last_visit": {
-    "etab_name": "Le Mirador Resort & Spa",
-    "etab_slug": "le-mirador-resort-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+    "etab_name": "LAURA COIFFEUSE PRIVÉE",
+    "etab_slug": "laura-coiffeuse-privee",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
     "canton": "Vaud",
-    "visites": 2105,
+    "visites": 103,
     "note": "4.5/5",
-    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
+    "blurb": "Laura, coiffeuse privée face à l'Opéra de Lausanne, vingt ans de pratique. Spécialiste mèches, balayage et ombré, sur-mesure en salon ou à domicile.",
     "date_iso": "2026-07-30",
     "date_pretty": "le 30 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {
