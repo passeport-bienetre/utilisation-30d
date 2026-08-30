@@ -1,20 +1,20 @@
 {
-  "carte": "31189",
-  "name": "Doris",
+  "carte": "37080",
+  "name": "Fabienne",
   "last_visit": {
-    "etab_name": "Le Mirador Resort & Spa",
-    "etab_slug": "le-mirador-resort-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
-    "canton": "Vaud",
-    "visites": 2105,
+    "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
+    "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
+    "canton": null,
+    "visites": 323,
     "note": "4.5/5",
-    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
+    "blurb": "À Évian-les-Bains, le Spa Quatre Terres de l'Hôtel Ermitage. Soins inspirés du processus naturel de l'eau d'evian, sérénité minérale en cabine.",
     "date_iso": "2026-07-31",
     "date_pretty": "le 31 juillet"
   },
   "top_category": "Future Maman",
-  "top_canton": "Vaud",
+  "top_canton": null,
   "suggestions": [
     {
       "etab_name": "Bhumi",
@@ -28,15 +28,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
-      "canton": "Vaud",
-      "visites": 85,
+      "etab_name": "COMME SUR UN NUAGE",
+      "etab_slug": "comme-sur-un-nuage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
+      "canton": "Neuchâtel",
+      "visites": 56,
       "note": "5/5",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
-      "reason": "À découvrir dans le canton de Vaud"
+      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

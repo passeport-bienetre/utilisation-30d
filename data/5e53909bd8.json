@@ -1,19 +1,19 @@
 {
-  "carte": "34980",
-  "name": "Olivier",
+  "carte": "35234",
+  "name": "Marc-Antoine",
   "last_visit": {
-    "etab_name": "LECRANS HOTEL & SPA",
-    "etab_slug": "le-st-gervais-hotel-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
-    "canton": "Valais",
-    "visites": 187,
-    "note": "5/5",
-    "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
+    "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
+    "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
+    "canton": null,
+    "visites": 323,
+    "note": "4.5/5",
+    "blurb": "À Évian-les-Bains, le Spa Quatre Terres de l'Hôtel Ermitage. Soins inspirés du processus naturel de l'eau d'evian, sérénité minérale en cabine.",
     "date_iso": "2026-07-31",
     "date_pretty": "le 31 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Future Maman",
   "top_canton": "Valais",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Le Lokal",
-      "etab_slug": "le-lokal",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-lokal.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-lokal/",
+      "etab_name": "LECRANS HOTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": "Valais",
-      "visites": 51,
+      "visites": 187,
       "note": "5/5",
-      "blurb": "Le LoKal à Martigny-Bourg, fondé en 2015. Coiffure cadre zen et partenaire Keune depuis 1922 : la beauté capillaire au tempo lent.",
+      "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {

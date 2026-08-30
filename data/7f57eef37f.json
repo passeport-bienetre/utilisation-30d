@@ -1,19 +1,19 @@
 {
-  "carte": "31070",
-  "name": "Claude",
+  "carte": "32235",
+  "name": "Cynthia",
   "last_visit": {
-    "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
-    "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
-    "canton": null,
-    "visites": 323,
+    "etab_name": "Experimental Chalet",
+    "etab_slug": "experimental-chalet",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/experimental-chalet.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/experimental-chalet/",
+    "canton": "Valais",
+    "visites": 102,
     "note": "4.5/5",
-    "blurb": "À Évian-les-Bains, le Spa Quatre Terres de l'Hôtel Ermitage. Soins inspirés du processus naturel de l'eau d'evian, sérénité minérale en cabine.",
+    "blurb": "Le premier spa de l'Experimental Group à Verbier, en collaboration avec Biologique Recherche. 3 cabines, hammam, sauna, jacuzzi et bain froid au premier étage : la pointe parisienne au cœur des Alpes.",
     "date_iso": "2026-07-31",
     "date_pretty": "le 31 juillet"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins du Visage",
   "top_canton": "Genève",
   "suggestions": [
     {
