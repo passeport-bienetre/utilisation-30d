@@ -2,18 +2,18 @@
   "carte": "36098",
   "name": "Veronica",
   "last_visit": {
-    "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
-    "etab_slug": "hotel-intercontinental-spa-5-mondes",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
-    "canton": "Genève",
-    "visites": 425,
+    "etab_name": "Les Sources du Chéry",
+    "etab_slug": "les-sources-du-chery",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-du-chery.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-du-chery/",
+    "canton": null,
+    "visites": 85,
     "note": "5/5",
-    "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
-    "date_iso": "2026-07-01",
-    "date_pretty": "le 1 juillet"
+    "blurb": "Aux Sources du Chéry, spa des Gets sur les flancs du Mont Chéry. 1000 m² Montagne chic, eau de sources et bois des giets pour un bien-être Alpin à la source.",
+    "date_iso": "2026-08-01",
+    "date_pretty": "le 1 août"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins du Visage",
   "top_canton": "Genève",
   "suggestions": [
     {
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 531,
+      "visites": 541,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 0,
+      "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
     }
   ]
