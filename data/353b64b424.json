@@ -1,19 +1,19 @@
 {
-  "carte": "37010",
-  "name": "Patricia",
+  "carte": "35580",
+  "name": "Nicola",
   "last_visit": {
-    "etab_name": "Le Mirador Resort & Spa",
-    "etab_slug": "le-mirador-resort-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
-    "canton": "Vaud",
-    "visites": 2106,
+    "etab_name": "Thai Corner",
+    "etab_slug": "thai-corner-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+    "canton": "Genève",
+    "visites": 853,
     "note": "4.5/5",
-    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
+    "blurb": "Thai Corner à Plainpalais. Décor thaï traditionnel et contemporain, masseuses formées aux meilleures écoles dont le Wat Pho : le massage comme art de vivre.",
     "date_iso": "2026-08-03",
     "date_pretty": "le 3 août"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins du Corps",
   "top_canton": "Genève",
   "suggestions": [
     {

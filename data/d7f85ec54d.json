@@ -1,19 +1,19 @@
 {
-  "carte": "35064",
-  "name": "Joanne",
+  "carte": "38626",
+  "name": "Aurore",
   "last_visit": {
-    "etab_name": "KASA AMO",
-    "etab_slug": "kasa-amo",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
+    "etab_name": "Lausanne Palace & Spa",
+    "etab_slug": "lausanne-palace-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
     "canton": "Vaud",
-    "visites": 209,
+    "visites": 758,
     "note": "4.5/5",
-    "blurb": "Kasa Amo, le duo mère-fille Claudine et Priscilla. Anti-âge, minceur, beauté du regard et maquillage permanent, plus de 40 ans d'expérience cumulée.",
+    "blurb": "L'institution lausannoise. Le CBE Concept Spa s'étend sur 1 800 m², avec les soins Cinq Mondes et une piscine art déco.",
     "date_iso": "2026-08-03",
     "date_pretty": "le 3 août"
   },
-  "top_category": "Soins du Visage",
+  "top_category": "Future Maman",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "canton": "Vaud",
-      "visites": 944,
+      "visites": 86,
       "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

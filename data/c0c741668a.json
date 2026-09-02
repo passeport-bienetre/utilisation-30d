@@ -1,19 +1,19 @@
 {
-  "carte": "35064",
-  "name": "Joanne",
+  "carte": "31418",
+  "name": "Sébastien",
   "last_visit": {
-    "etab_name": "KASA AMO",
-    "etab_slug": "kasa-amo",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
+    "etab_name": "Chalet Royalp Hôtel & Spa",
+    "etab_slug": "chalet-royalp-hotel-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
     "canton": "Vaud",
-    "visites": 209,
-    "note": "4.5/5",
-    "blurb": "Kasa Amo, le duo mère-fille Claudine et Priscilla. Anti-âge, minceur, beauté du regard et maquillage permanent, plus de 40 ans d'expérience cumulée.",
+    "visites": 944,
+    "note": "5/5",
+    "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
     "date_iso": "2026-08-03",
     "date_pretty": "le 3 août"
   },
-  "top_category": "Soins du Visage",
+  "top_category": "Massage",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "canton": "Vaud",
-      "visites": 944,
+      "visites": 584,
       "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
