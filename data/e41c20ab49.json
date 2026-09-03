@@ -1,6 +1,6 @@
 {
-  "carte": "35351",
-  "name": "Déborah",
+  "carte": "31466",
+  "name": "Jacques",
   "last_visit": {
     "etab_name": "LECRANS HOTEL & SPA",
     "etab_slug": "le-st-gervais-hotel-spa",
@@ -13,7 +13,7 @@
     "date_iso": "2026-08-04",
     "date_pretty": "le 4 août"
   },
-  "top_category": "Massage",
+  "top_category": "Future Maman",
   "top_canton": "Valais",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Flocoon Spa Cinq Mondes",
-      "etab_slug": "flocoon-spa-cinq-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
+      "etab_name": "Hostellerie du Pas de l'Ours",
+      "etab_slug": "hostellerie-du-pas-de-lours",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hostellerie-du-pas-de-lours.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hostellerie-du-pas-de-lours/",
       "canton": "Valais",
-      "visites": 358,
-      "note": "5/5",
-      "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
+      "visites": 112,
+      "note": "4/5",
+      "blurb": "Le spa de l'Hostellerie du Pas-de-l'Ours à Crans-Montana. Soins visage Hormeta, soins corps Phytomer et atmosphère relaxante avec la personnalisation au cœur du geste.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {

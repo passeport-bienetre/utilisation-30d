@@ -1,20 +1,20 @@
 {
-  "carte": "35568",
-  "name": "Nathalie",
+  "carte": "37136",
+  "name": "Elisabeth",
   "last_visit": {
-    "etab_name": "Anzère SPA & Wellness",
-    "etab_slug": "anzere-spa-wellness",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anzere-spa-wellness.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
-    "canton": "Valais",
-    "visites": 296,
-    "note": "4/5",
-    "blurb": "Face aux 4000m valaisans, trois espaces se déploient autour des bassins à 33°C, du jacuzzi panoramique et des soins Karin Herzog. La haute altitude à hauteur d'épaule.",
+    "etab_name": "Institut Guinot",
+    "etab_slug": "institut-guinot-2",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+    "canton": "Vaud",
+    "visites": 846,
+    "note": "4.5/5",
+    "blurb": "L'Institut Guinot à Lausanne, près de la place Pépinet. Éline et son équipe diplômées du certificat Guinot, deux cabines et un espace maquillage Masters Colors. La méthode brevetée appliquée à la lettre.",
     "date_iso": "2026-08-04",
     "date_pretty": "le 4 août"
   },
-  "top_category": "Future Maman",
-  "top_canton": "Berne",
+  "top_category": "Epilation",
+  "top_canton": "Vaud",
   "suggestions": [
     {
       "etab_name": "Bhumi",
@@ -28,15 +28,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "COMME SUR UN NUAGE",
-      "etab_slug": "comme-sur-un-nuage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
-      "canton": "Neuchâtel",
-      "visites": 56,
+      "etab_name": "Espace Beauté Harmonie",
+      "etab_slug": "espace-beaute-harmonie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
+      "canton": "Vaud",
+      "visites": 85,
       "note": "5/5",
-      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
-      "reason": "À découvrir dans le canton de Neuchâtel"
+      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
