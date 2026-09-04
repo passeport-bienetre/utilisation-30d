@@ -1,19 +1,19 @@
 {
-  "carte": "36173",
-  "name": "Jess",
+  "carte": "30758",
+  "name": "Louis",
   "last_visit": {
-    "etab_name": "FLEUR D’EPIDERME",
-    "etab_slug": "fleur-depiderme",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+    "etab_name": "Saai Nam Massage - Manor",
+    "etab_slug": "saai-nam-massage-manor",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
     "canton": "Genève",
-    "visites": 114,
-    "note": "5/5",
-    "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+    "visites": 1035,
+    "note": "4/5",
+    "blurb": "Saai Nam Massage. Matelas spéciaux confortables, pièce éclairée à la bougie et tasse de thé ou café en clôture, la tradition thaïe avec ses gestes.",
     "date_iso": "2026-08-05",
     "date_pretty": "le 5 août"
   },
-  "top_category": "Soins du Corps",
+  "top_category": "Massage",
   "top_canton": "Genève",
   "suggestions": [
     {

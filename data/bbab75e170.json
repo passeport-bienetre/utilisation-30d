@@ -1,6 +1,6 @@
 {
-  "carte": "35060",
-  "name": "Elisa",
+  "carte": "35123",
+  "name": "Christiane",
   "last_visit": {
     "etab_name": "Salon Privé Ecublens",
     "etab_slug": "salon-prive-ecublens",
@@ -13,7 +13,7 @@
     "date_iso": "2026-08-05",
     "date_pretty": "le 5 août"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
