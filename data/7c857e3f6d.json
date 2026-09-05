@@ -1,19 +1,19 @@
 {
-  "carte": "39048",
-  "name": "Dominique",
+  "carte": "35143",
+  "name": "Clarisa",
   "last_visit": {
-    "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
-    "etab_slug": "hotel-intercontinental-spa-5-mondes",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
-    "canton": "Genève",
-    "visites": 440,
-    "note": "5/5",
-    "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
+    "etab_name": "Nail Café",
+    "etab_slug": "nail-cafe",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+    "canton": "Vaud",
+    "visites": 603,
+    "note": "4.5/5",
+    "blurb": "Nail Café à la gare de Renens. Soins mains et pieds, Nail Art, cils, sourcils, visage, épilations et pressothérapie, avec ou sans rendez-vous, café à siroter.",
     "date_iso": "2026-08-06",
     "date_pretty": "le 6 août"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {

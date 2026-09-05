@@ -1,19 +1,19 @@
 {
-  "carte": "36190",
-  "name": "Isabelle",
+  "carte": "33858",
+  "name": "Karen",
   "last_visit": {
-    "etab_name": "Flocoon Spa Cinq Mondes",
-    "etab_slug": "flocoon-spa-cinq-mondes",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
-    "canton": "Valais",
-    "visites": 358,
-    "note": "5/5",
-    "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
+    "etab_name": "AVEDA VIEILLE-VILLE",
+    "etab_slug": "aveda-vieille-ville",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
+    "canton": "Genève",
+    "visites": 74,
+    "note": "4.5/5",
+    "blurb": "Le premier salon Aveda officiel de Genève, en plein cœur de la vieille ville. Coiffure, couleur et esthétique avec vue sur la cathédrale.",
     "date_iso": "2026-08-06",
     "date_pretty": "le 6 août"
   },
-  "top_category": "Massage",
+  "top_category": "Soins Hommes",
   "top_canton": "Genève",
   "suggestions": [
     {

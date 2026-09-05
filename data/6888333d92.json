@@ -1,19 +1,19 @@
 {
-  "carte": "36190",
-  "name": "Isabelle",
+  "carte": "35809",
+  "name": "Sylvie",
   "last_visit": {
-    "etab_name": "Flocoon Spa Cinq Mondes",
-    "etab_slug": "flocoon-spa-cinq-mondes",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
-    "canton": "Valais",
-    "visites": 358,
+    "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+    "etab_slug": "institut-valmont-chez-globus-geneve",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
+    "canton": "Genève",
+    "visites": 33,
     "note": "5/5",
-    "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
+    "blurb": "L'Institut Valmont chez Globus Genève, rue du Rhône. Cosmétique cellulaire signature et gestuelle Valmont pour une régénération profonde côté shopping de luxe.",
     "date_iso": "2026-08-06",
     "date_pretty": "le 6 août"
   },
-  "top_category": "Massage",
+  "top_category": "Soins Hommes",
   "top_canton": "Genève",
   "suggestions": [
     {

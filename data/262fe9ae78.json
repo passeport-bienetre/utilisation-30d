@@ -1,19 +1,19 @@
 {
-  "carte": "36190",
-  "name": "Isabelle",
+  "carte": "36776",
+  "name": "Louise",
   "last_visit": {
-    "etab_name": "Flocoon Spa Cinq Mondes",
-    "etab_slug": "flocoon-spa-cinq-mondes",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
-    "canton": "Valais",
-    "visites": 358,
-    "note": "5/5",
-    "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
+    "etab_name": "MAISON DU TEMPS",
+    "etab_slug": "maison-du-temps",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+    "canton": "Genève",
+    "visites": 46,
+    "note": null,
+    "blurb": null,
     "date_iso": "2026-08-06",
     "date_pretty": "le 6 août"
   },
-  "top_category": "Massage",
+  "top_category": "Soins du Visage",
   "top_canton": "Genève",
   "suggestions": [
     {

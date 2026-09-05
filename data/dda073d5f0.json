@@ -2,16 +2,16 @@
   "carte": "35912",
   "name": "Julie",
   "last_visit": {
-    "etab_name": "Arte Beauty Lutry",
-    "etab_slug": "arte-beauty-lutry",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+    "etab_name": "Nail Café",
+    "etab_slug": "nail-cafe",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
     "canton": "Vaud",
-    "visites": 1124,
-    "note": "4/5",
-    "blurb": "L'antenne Arte Beauty à Lutry. Mêmes marques de référence (OPI, LPG, Kérastase, Fillmed) en version riveraine du Léman.",
-    "date_iso": "2026-06-11",
-    "date_pretty": "le 11 juin"
+    "visites": 603,
+    "note": "4.5/5",
+    "blurb": "Nail Café à la gare de Renens. Soins mains et pieds, Nail Art, cils, sourcils, visage, épilations et pressothérapie, avec ou sans rendez-vous, café à siroter.",
+    "date_iso": "2026-08-06",
+    "date_pretty": "le 6 août"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Vaud",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 722,
+      "visites": 734,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 178,
+      "visites": 182,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

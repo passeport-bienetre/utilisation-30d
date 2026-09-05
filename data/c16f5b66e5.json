@@ -1,0 +1,53 @@
+{
+  "carte": "37076",
+  "name": "Clara",
+  "last_visit": {
+    "etab_name": "Skin Solution",
+    "etab_slug": "skin-solution",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+    "canton": "Genève",
+    "visites": 702,
+    "note": "4/5",
+    "blurb": "Skin Solution, resurfacing cutané et anti-âge. Iyashi Dôme sauna japonais et massages divers pour le bien-être corps, âme et esprit.",
+    "date_iso": "2026-08-06",
+    "date_pretty": "le 6 août"
+  },
+  "top_category": "Coiffure",
+  "top_canton": "Genève",
+  "suggestions": [
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visites": 216,
+      "note": "5/5",
+      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
+      "canton": "Genève",
+      "visites": 390,
+      "note": "5/5",
+      "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
