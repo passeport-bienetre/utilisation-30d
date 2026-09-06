@@ -1,19 +1,19 @@
 {
-  "carte": "30509",
-  "name": "Isil",
+  "carte": "38657",
+  "name": "Manon",
   "last_visit": {
-    "etab_name": "Arte Beauty Lutry",
-    "etab_slug": "arte-beauty-lutry",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+    "etab_name": "Maison Perle",
+    "etab_slug": "maison-perle",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
     "canton": "Vaud",
-    "visites": 1152,
-    "note": "4/5",
-    "blurb": "L'antenne Arte Beauty à Lutry. Mêmes marques de référence (OPI, LPG, Kérastase, Fillmed) en version riveraine du Léman.",
+    "visites": 198,
+    "note": "5/5",
+    "blurb": "Maison Perle à Crissier, entièrement rénovée. Fatma propose des soins exigeants : Microblading, plasma, laser, avec la maîtrise technique au service du résultat.",
     "date_iso": "2026-08-07",
     "date_pretty": "le 7 août"
   },
-  "top_category": "Massage",
+  "top_category": "Future Maman",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "canton": "Vaud",
-      "visites": 945,
+      "visites": 86,
       "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

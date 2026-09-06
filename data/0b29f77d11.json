@@ -1,19 +1,19 @@
 {
-  "carte": "35932",
-  "name": "Amel",
+  "carte": "25431",
+  "name": "Marlène",
   "last_visit": {
-    "etab_name": "Parallèles Coiffure",
-    "etab_slug": "paralleles-coiffure",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+    "etab_name": "EUPHORIA & BEAUTY STUDIO",
+    "etab_slug": "euphoria-beauty-studio",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
     "canton": "Genève",
-    "visites": 229,
+    "visites": 218,
     "note": "5/5",
-    "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+    "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
     "date_iso": "2026-08-07",
     "date_pretty": "le 7 août"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins du Corps",
   "top_canton": "Genève",
   "suggestions": [
     {
