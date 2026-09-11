@@ -1,32 +1,21 @@
 {
-  "carte": "39257",
-  "name": "Luce",
+  "carte": "32264",
+  "name": "Diana",
   "last_visit": {
-    "etab_name": "Nail Café",
-    "etab_slug": "nail-cafe",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+    "etab_name": "Spa La Santé, Bulles de Champagne",
+    "etab_slug": "la-sante-a-champagne",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/la-sante-a-champagne/",
     "canton": "Vaud",
-    "visites": 603,
-    "note": "4.5/5",
-    "blurb": "Nail Café à la gare de Renens. Soins mains et pieds, Nail Art, cils, sourcils, visage, épilations et pressothérapie, avec ou sans rendez-vous, café à siroter.",
+    "visites": 20,
+    "note": null,
+    "blurb": null,
     "date_iso": "2026-08-12",
     "date_pretty": "le 12 août"
   },
-  "top_category": "Soins du Corps",
+  "top_category": "Soins Duo",
   "top_canton": "Vaud",
   "suggestions": [
-    {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-      "canton": "Vaud",
-      "visites": 305,
-      "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
       "etab_slug": "chalet-royalp-hotel-spa",
@@ -36,6 +25,17 @@
       "visites": 947,
       "note": "5/5",
       "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "MK PILATES",
+      "etab_slug": "mk-pilates",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mk-pilates.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/mk-pilates/",
+      "canton": "Vaud",
+      "visites": 5,
+      "note": "5/5",
+      "blurb": "MK Pilates, studio privé équipé Gratz : Reformer, Cadillac, wunda chair, ladder barrel et pedipole. Méthode authentique et pédagogie précise pour un Pilates classique sans concession.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
