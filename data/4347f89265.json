@@ -1,15 +1,15 @@
 {
-  "carte": "35126",
-  "name": "Mme.",
+  "carte": "39866",
+  "name": "Brian",
   "last_visit": {
-    "etab_name": "Les Vagabondes",
-    "etab_slug": "les-vagabondes",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/",
+    "etab_name": "KASA AMO",
+    "etab_slug": "kasa-amo",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
     "canton": "Vaud",
-    "visites": 385,
+    "visites": 212,
     "note": "4.5/5",
-    "blurb": "Les Vagabondes, le style coiffé-décoiffé maîtrisé. Volume, brushing, chignons sophistiqués et extensions naturelles : une élégance ni sage ni audacieuse.",
+    "blurb": "Kasa Amo, le duo mère-fille Claudine et Priscilla. Anti-âge, minceur, beauté du regard et maquillage permanent, plus de 40 ans d'expérience cumulée.",
     "date_iso": "2026-08-13",
     "date_pretty": "le 13 août"
   },

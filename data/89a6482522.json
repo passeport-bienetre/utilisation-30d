@@ -1,19 +1,19 @@
 {
-  "carte": "35265",
-  "name": "Annouk",
+  "carte": "38641",
+  "name": "Julie",
   "last_visit": {
-    "etab_name": "Les Sources des Alpes",
-    "etab_slug": "les-sources-des-alpes-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-des-alpes-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
-    "canton": "Valais",
-    "visites": 177,
+    "etab_name": "Nail Café",
+    "etab_slug": "nail-cafe",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+    "canton": "Vaud",
+    "visites": 603,
     "note": "4.5/5",
-    "blurb": "Joyau des Sources des Alpes : piscine thermale à ciel ouvert à 36° toute l'année, alimentée par sa propre source. Spa 900 m², six salles de traitement, chalet Hammam & Sauna.",
+    "blurb": "Nail Café à la gare de Renens. Soins mains et pieds, Nail Art, cils, sourcils, visage, épilations et pressothérapie, avec ou sans rendez-vous, café à siroter.",
     "date_iso": "2026-08-13",
     "date_pretty": "le 13 août"
   },
-  "top_category": "Massage",
+  "top_category": "Epilation",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Grand Hôtel du Lac",
-      "etab_slug": "grand-hotel-du-lac",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "etab_name": "Espace Beauté Harmonie",
+      "etab_slug": "espace-beaute-harmonie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "canton": "Vaud",
-      "visites": 587,
+      "visites": 85,
       "note": "5/5",
-      "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
+      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

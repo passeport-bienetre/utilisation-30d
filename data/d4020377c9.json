@@ -1,21 +1,32 @@
 {
-  "carte": "35265",
-  "name": "Annouk",
+  "carte": "39892",
+  "name": "Marina",
   "last_visit": {
-    "etab_name": "Les Sources des Alpes",
-    "etab_slug": "les-sources-des-alpes-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-des-alpes-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
-    "canton": "Valais",
-    "visites": 177,
-    "note": "4.5/5",
-    "blurb": "Joyau des Sources des Alpes : piscine thermale à ciel ouvert à 36° toute l'année, alimentée par sa propre source. Spa 900 m², six salles de traitement, chalet Hammam & Sauna.",
+    "etab_name": "MAISON DU TEMPS",
+    "etab_slug": "maison-du-temps",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+    "canton": "Genève",
+    "visites": 48,
+    "note": null,
+    "blurb": null,
     "date_iso": "2026-08-13",
     "date_pretty": "le 13 août"
   },
-  "top_category": "Massage",
-  "top_canton": "Vaud",
+  "top_category": "Future Maman",
+  "top_canton": "Genève",
   "suggestions": [
+    {
+      "etab_name": "Corps Sains",
+      "etab_slug": "corps-sains",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "canton": "Genève",
+      "visites": 145,
+      "note": "5/5",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Bhumi",
       "etab_slug": "biotonique-institut",
@@ -25,17 +36,6 @@
       "visites": 305,
       "note": "5/5",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Grand Hôtel du Lac",
-      "etab_slug": "grand-hotel-du-lac",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
-      "canton": "Vaud",
-      "visites": 587,
-      "note": "5/5",
-      "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
