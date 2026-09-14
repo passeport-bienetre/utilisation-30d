@@ -1,32 +1,21 @@
 {
-  "carte": "35035",
-  "name": "Ben",
+  "carte": "38225",
+  "name": "Emanuel",
   "last_visit": {
-    "etab_name": "Thaiotop",
-    "etab_slug": "thaiotop-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
-    "canton": "Genève",
-    "visites": 739,
+    "etab_name": "EVERNESS <br>Hôtel & Resort",
+    "etab_slug": "everness-resort",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
+    "canton": "Vaud",
+    "visites": 507,
     "note": "4.5/5",
-    "blurb": "Thaiotop, massage relaxant ou revigorant. Une pause onctueuse pour oublier le stress du quotidien.",
+    "blurb": "Niché entre Genève et Lausanne, au cœur des vignes. Hôtel 4 étoiles, wellness nordique, sauna extérieur vue lac, piscine extérieure chauffée : un voyage des 5 sens en bord de Léman.",
     "date_iso": "2026-08-15",
     "date_pretty": "le 15 août"
   },
   "top_category": "Soins Duo",
   "top_canton": "Genève",
   "suggestions": [
-    {
-      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
-      "etab_slug": "hotel-intercontinental-spa-5-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
-      "canton": "Genève",
-      "visites": 446,
-      "note": "5/5",
-      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Namaka - Centre de Longévité et Bienêtre",
       "etab_slug": "namaka",
@@ -36,6 +25,17 @@
       "visites": 203,
       "note": "4.5/5",
       "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Origin Float Spa",
+      "etab_slug": "origin-float-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
+      "canton": "Genève",
+      "visites": 206,
+      "note": "4.5/5",
+      "blurb": "ORIGIN, espace de flottaison et de boutique éthique. Tisane, lecture en repos et produits locaux engagés pour la sérénité avant et après la séance.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
