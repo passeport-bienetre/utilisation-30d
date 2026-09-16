@@ -1,6 +1,6 @@
 {
-  "carte": "36977",
-  "name": "Zlatan",
+  "carte": "38305",
+  "name": "Tania",
   "last_visit": {
     "etab_name": "Sawatdee Temple",
     "etab_slug": "sawatdee-temple",
@@ -13,30 +13,30 @@
     "date_iso": "2026-08-17",
     "date_pretty": "le 17 août"
   },
-  "top_category": "Soins Duo",
-  "top_canton": "Genève",
+  "top_category": "Massage",
+  "top_canton": "Valais",
   "suggestions": [
     {
-      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
-      "etab_slug": "namaka",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
-      "canton": "Genève",
-      "visites": 203,
-      "note": "4.5/5",
-      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "etab_name": "Chandolin Boutique Hôtel",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": "Valais",
+      "visites": 174,
+      "note": "5/5",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Origin Float Spa",
-      "etab_slug": "origin-float-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
-      "canton": "Genève",
-      "visites": 206,
-      "note": "4.5/5",
-      "blurb": "ORIGIN, espace de flottaison et de boutique éthique. Tisane, lecture en repos et produits locaux engagés pour la sérénité avant et après la séance.",
-      "reason": "À découvrir dans le canton de Genève"
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "etab_slug": "flocoon-spa-cinq-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
+      "canton": "Valais",
+      "visites": 360,
+      "note": "5/5",
+      "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
+      "reason": "À découvrir dans le canton de Valais"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

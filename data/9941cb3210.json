@@ -1,6 +1,6 @@
 {
-  "carte": "36977",
-  "name": "Zlatan",
+  "carte": "30605",
+  "name": "Marina",
   "last_visit": {
     "etab_name": "Sawatdee Temple",
     "etab_slug": "sawatdee-temple",
@@ -13,30 +13,30 @@
     "date_iso": "2026-08-17",
     "date_pretty": "le 17 août"
   },
-  "top_category": "Soins Duo",
-  "top_canton": "Genève",
+  "top_category": "Future Maman",
+  "top_canton": "Vaud",
   "suggestions": [
     {
-      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
-      "etab_slug": "namaka",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
-      "canton": "Genève",
-      "visites": 203,
-      "note": "4.5/5",
-      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
+      "canton": "Vaud",
+      "visites": 86,
+      "note": "5/5",
+      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Origin Float Spa",
-      "etab_slug": "origin-float-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
-      "canton": "Genève",
-      "visites": 206,
-      "note": "4.5/5",
-      "blurb": "ORIGIN, espace de flottaison et de boutique éthique. Tisane, lecture en repos et produits locaux engagés pour la sérénité avant et après la séance.",
-      "reason": "À découvrir dans le canton de Genève"
+      "etab_name": "La VILLA Kobido et Massage",
+      "etab_slug": "la-villa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "canton": "Vaud",
+      "visites": 228,
+      "note": "5/5",
+      "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
