@@ -2,16 +2,16 @@
   "carte": "36971",
   "name": "Samanta",
   "last_visit": {
-    "etab_name": "Skin Solution",
-    "etab_slug": "skin-solution",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+    "etab_name": "Le Bal des Créateurs",
+    "etab_slug": "le-bal-des-createurs-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
     "canton": "Genève",
-    "visites": 687,
-    "note": "4/5",
-    "blurb": "Skin Solution, resurfacing cutané et anti-âge. Iyashi Dôme sauna japonais et massages divers pour le bien-être corps, âme et esprit.",
-    "date_iso": "2026-07-02",
-    "date_pretty": "le 2 juillet"
+    "visites": 876,
+    "note": "4.5/5",
+    "blurb": "Le Bal des Créateurs à Genève, signé Christophe Durand. Salon, librairie, galerie, espace massage et bar de jour : la coiffure comme acte créatif.",
+    "date_iso": "2026-08-18",
+    "date_pretty": "le 18 août"
   },
   "top_category": "Soins du Visage",
   "top_canton": "Genève",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 148,
+      "visites": 149,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 531,
+      "visites": 543,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
-      "canton": "Valais",
-      "visites": 0,
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]
