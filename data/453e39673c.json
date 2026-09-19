@@ -1,19 +1,19 @@
 {
-  "carte": "34944",
-  "name": "Virginie",
+  "carte": "37105",
+  "name": "Lena",
   "last_visit": {
-    "etab_name": "NUANCES NATURE",
-    "etab_slug": "nuances-nature",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
+    "etab_name": "Thai Corner",
+    "etab_slug": "thai-corner-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
     "canton": "Genève",
-    "visites": 111,
-    "note": "5/5",
-    "blurb": "Ki Nuances Nature à Carouge. Esthéticienne depuis vingt ans et formatrice en cosmétiques bio pendant douze ans, elle propose soins visage, corps et Signature dans un cocon de sérénité.",
+    "visites": 854,
+    "note": "4.5/5",
+    "blurb": "Thai Corner à Plainpalais. Décor thaï traditionnel et contemporain, masseuses formées aux meilleures écoles dont le Wat Pho : le massage comme art de vivre.",
     "date_iso": "2026-08-20",
     "date_pretty": "le 20 août"
   },
-  "top_category": "Soins du Corps",
+  "top_category": "Massage",
   "top_canton": "Genève",
   "suggestions": [
     {

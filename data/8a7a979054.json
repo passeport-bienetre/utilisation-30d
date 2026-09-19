@@ -1,19 +1,19 @@
 {
-  "carte": "38578",
-  "name": "Minh",
+  "carte": "38131",
+  "name": "Sandrine",
   "last_visit": {
-    "etab_name": "Ipanema Beauté",
-    "etab_slug": "ipanema-beaute",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
-    "canton": "Genève",
-    "visites": 374,
-    "note": "4/5",
-    "blurb": "Le duo brésilien d'Ipanema Beauté à Genève, présent depuis 16 ans. Spécialistes mains, pieds et épilation : l'accueil chaleureux version Rio.",
+    "etab_name": "Flaventino coiffure Aubonne",
+    "etab_slug": "flaventino-coiffure-aubonne",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
+    "canton": "Vaud",
+    "visites": 172,
+    "note": "4.5/5",
+    "blurb": "Le salon Flaventino à Aubonne, signature de la Haute Coiffure Française Paris. Relooking, créations et collections : chez Flaventino, la star c'est vous.",
     "date_iso": "2026-08-20",
     "date_pretty": "le 20 août"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Coiffeur",
   "top_canton": "Vaud",
   "suggestions": [
     {

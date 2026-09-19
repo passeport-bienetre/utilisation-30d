@@ -1,20 +1,21 @@
 {
-  "carte": "38578",
-  "name": "Minh",
+  "carte": "30534",
+  "name": "Enza",
   "last_visit": {
-    "etab_name": "Ipanema Beauté",
-    "etab_slug": "ipanema-beaute",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
-    "canton": "Genève",
-    "visites": 374,
-    "note": "4/5",
-    "blurb": "Le duo brésilien d'Ipanema Beauté à Genève, présent depuis 16 ans. Spécialistes mains, pieds et épilation : l'accueil chaleureux version Rio.",
+    "etab_name": "Les Cliniques Matignon",
+    "etab_slug": null,
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+    "etab_url_public": null,
+    "category": null,
+    "canton": null,
+    "visites": null,
+    "note": null,
+    "blurb": null,
     "date_iso": "2026-08-20",
     "date_pretty": "le 20 août"
   },
   "top_category": "Soins Hommes",
-  "top_canton": "Vaud",
+  "top_canton": " ",
   "suggestions": [
     {
       "etab_name": "1er Acte Coiffure",
