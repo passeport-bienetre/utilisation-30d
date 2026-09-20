@@ -1,15 +1,15 @@
 {
-  "carte": "36907",
-  "name": "Nathalie",
+  "carte": "38981",
+  "name": "Stephanie",
   "last_visit": {
-    "etab_name": "Le Beausquet Genève",
-    "etab_slug": "le-beausquet-geneve",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
+    "etab_name": "Blossom Institut",
+    "etab_slug": "blossom-institut",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
     "canton": "Genève",
-    "visites": 94,
-    "note": "4/5",
-    "blurb": "Le Beausquet au cœur de Genève, quartier du Rhône. Proche des boutiques de luxe, soins haute qualité des pieds à la tête.",
+    "visites": 543,
+    "note": "5/5",
+    "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
     "date_iso": "2026-08-21",
     "date_pretty": "le 21 août"
   },
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "canton": "Genève",
-      "visites": 543,
+      "visites": 11,
       "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
