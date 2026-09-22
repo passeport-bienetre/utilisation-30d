@@ -1,6 +1,6 @@
 {
-  "carte": "29185",
-  "name": "Rosanne",
+  "carte": "29072",
+  "name": "Corinne",
   "last_visit": {
     "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
     "etab_slug": "spa-by-clarins",
@@ -13,29 +13,29 @@
     "date_iso": "2026-08-23",
     "date_pretty": "le 23 août"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Soins Duo",
   "top_canton": "Valais",
   "suggestions": [
     {
-      "etab_name": "Chandolin Boutique Hôtel",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "etab_slug": "flocoon-spa-cinq-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
-      "visites": 177,
+      "visites": 360,
       "note": "5/5",
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LECRANS HOTEL & SPA",
-      "etab_slug": "le-st-gervais-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "etab_name": "ERINGER INSTITUT",
+      "etab_slug": "eringer-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eringer-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "canton": "Valais",
-      "visites": 187,
-      "note": "5/5",
-      "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
+      "visites": 70,
+      "note": "4.5/5",
+      "blurb": "L'Institut Eringer Beauty & SPA, au 2ème étage des Bains d'Hérémence. Soins visage, massages relaxants et technologies amincissantes prolongent le bain valaisan.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {
