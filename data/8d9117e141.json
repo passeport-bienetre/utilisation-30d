@@ -1,19 +1,19 @@
 {
-  "carte": "37046",
-  "name": "Léona",
+  "carte": "38128",
+  "name": "Celia",
   "last_visit": {
-    "etab_name": "Le Mirador Resort & Spa",
-    "etab_slug": "le-mirador-resort-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+    "etab_name": "Odyssée Santé & Beauté",
+    "etab_slug": "odyssee-sante-beaute",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/odyssee-sante-beaute.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
     "canton": "Vaud",
-    "visites": 2127,
+    "visites": 192,
     "note": "4.5/5",
-    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
+    "blurb": "Odyssée Santé, spa moderne tout confort. Soins corps et visage haut de gamme, équipement dernière génération et solutions minceur éprouvées : la palette complète sous un toit.",
     "date_iso": "2026-08-25",
     "date_pretty": "le 25 août"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {
