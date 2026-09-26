@@ -1,15 +1,15 @@
 {
-  "carte": "32707",
-  "name": "Jeanne",
+  "carte": "38731",
+  "name": "Marylou",
   "last_visit": {
-    "etab_name": "Lausanne Palace & Spa",
-    "etab_slug": "lausanne-palace-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+    "etab_name": "LAURA COIFFEUSE PRIVÉE",
+    "etab_slug": "laura-coiffeuse-privee",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
     "canton": "Vaud",
-    "visites": 773,
+    "visites": 112,
     "note": "4.5/5",
-    "blurb": "L'institution lausannoise. Le CBE Concept Spa s'étend sur 1 800 m², avec les soins Cinq Mondes et une piscine art déco.",
+    "blurb": "Laura, coiffeuse privée face à l'Opéra de Lausanne, vingt ans de pratique. Spécialiste mèches, balayage et ombré, sur-mesure en salon ou à domicile.",
     "date_iso": "2026-08-27",
     "date_pretty": "le 27 août"
   },

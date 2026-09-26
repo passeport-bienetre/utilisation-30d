@@ -1,19 +1,19 @@
 {
-  "carte": "32707",
-  "name": "Jeanne",
+  "carte": "37073",
+  "name": "Valentine",
   "last_visit": {
-    "etab_name": "Lausanne Palace & Spa",
-    "etab_slug": "lausanne-palace-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+    "etab_name": "JOIA LAUSANNE",
+    "etab_slug": "joia-lausanne",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/joia-lausanne/",
     "canton": "Vaud",
-    "visites": 773,
-    "note": "4.5/5",
-    "blurb": "L'institution lausannoise. Le CBE Concept Spa s'étend sur 1 800 m², avec les soins Cinq Mondes et une piscine art déco.",
+    "visites": 50,
+    "note": "5/5",
+    "blurb": "JOIA Studio au centre de Lausanne. Huit Merrithew Reformers, instructeurs experts et environnement urbain sophistiqué pour un Pilates de précision.",
     "date_iso": "2026-08-27",
     "date_pretty": "le 27 août"
   },
-  "top_category": "Soins Hommes",
+  "top_category": "Lausanne région",
   "top_canton": "Vaud",
   "suggestions": [
     {
