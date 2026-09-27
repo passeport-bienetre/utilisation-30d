@@ -1,19 +1,19 @@
 {
-  "carte": "29391",
-  "name": "Sandra",
+  "carte": "36928",
+  "name": "Nana",
   "last_visit": {
-    "etab_name": "Parallèles Coiffure",
-    "etab_slug": "paralleles-coiffure",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+    "etab_name": "SUBLIMEYES",
+    "etab_slug": "institut-sublimeyes",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
     "canton": "Genève",
-    "visites": 238,
+    "visites": 135,
     "note": "5/5",
-    "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+    "blurb": "SublimEyes au cœur de Genève, spécialiste du regard. Épilation au fil, teinture, rehaussement de cils et Microblading : la beauté pensée à hauteur d'œil.",
     "date_iso": "2026-08-28",
     "date_pretty": "le 28 août"
   },
-  "top_category": "Soins du Visage",
+  "top_category": "Soins Hommes",
   "top_canton": "Genève",
   "suggestions": [
     {

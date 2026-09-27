@@ -1,19 +1,19 @@
 {
-  "carte": "29391",
-  "name": "Sandra",
+  "carte": "32393",
+  "name": "Ophélie",
   "last_visit": {
-    "etab_name": "Parallèles Coiffure",
-    "etab_slug": "paralleles-coiffure",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+    "etab_name": "BL Institut",
+    "etab_slug": "bl-institut-2",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/bl-institut-2/",
     "canton": "Genève",
-    "visites": 238,
-    "note": "5/5",
-    "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+    "visites": 225,
+    "note": "4.5/5",
+    "blurb": "L'institut éco-responsable trois-en-un : boutique cosmétique en vrac, soins cabine et ateliers. Le bien-être avec impact mesuré.",
     "date_iso": "2026-08-28",
     "date_pretty": "le 28 août"
   },
-  "top_category": "Soins du Visage",
+  "top_category": "Soins Hommes",
   "top_canton": "Genève",
   "suggestions": [
     {

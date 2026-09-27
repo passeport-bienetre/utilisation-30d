@@ -1,19 +1,19 @@
 {
-  "carte": "38722",
-  "name": "anne",
+  "carte": "36819",
+  "name": "Christine",
   "last_visit": {
-    "etab_name": "Espace Beauté Harmonie",
-    "etab_slug": "espace-beaute-harmonie",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
+    "etab_name": "Le Mirador Resort & Spa",
+    "etab_slug": "le-mirador-resort-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
     "canton": "Vaud",
-    "visites": 86,
-    "note": "5/5",
-    "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
+    "visites": 2129,
+    "note": "4.5/5",
+    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
     "date_iso": "2026-08-28",
     "date_pretty": "le 28 août"
   },
-  "top_category": "Epilation",
+  "top_category": "Future Maman",
   "top_canton": "Vaud",
   "suggestions": [
     {
