@@ -1,20 +1,20 @@
 {
-  "carte": "32275",
-  "name": "Céline",
+  "carte": "33319",
+  "name": "Romaine",
   "last_visit": {
-    "etab_name": "Karré Long",
-    "etab_slug": "karre-long-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/",
+    "etab_name": "Grand Hôtel du Lac",
+    "etab_slug": "grand-hotel-du-lac",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
     "canton": "Vaud",
-    "visites": 371,
-    "note": "4.5/5",
-    "blurb": "Karré Long, l'espace de Kelly et son équipe. Coupes, couleurs, mèches, extensions, chignons et maquillage, accessible en voiture, bus et LEB.",
+    "visites": 591,
+    "note": "5/5",
+    "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
     "date_iso": "2026-08-29",
     "date_pretty": "le 29 août"
   },
   "top_category": "Soins Hommes",
-  "top_canton": "Vaud",
+  "top_canton": " ",
   "suggestions": [
     {
       "etab_name": "1er Acte Coiffure",
