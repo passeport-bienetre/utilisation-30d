@@ -1,0 +1,53 @@
+{
+  "carte": "38056",
+  "name": "Raphael",
+  "last_visit": {
+    "etab_name": "Espace Beauté Sarah",
+    "etab_slug": "espace-beaute-sarah",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
+    "canton": "Vaud",
+    "visites": 297,
+    "note": "5/5",
+    "blurb": "Au cœur de Lausanne, le cocon sobre et élégant de Sarah. Vingt ans d'expérience en esthétique et soins sur-mesure dans la confidence d'une cabine.",
+    "date_iso": "2026-08-31",
+    "date_pretty": "le 31 août"
+  },
+  "top_category": "Soins du Corps",
+  "top_canton": "Valais",
+  "suggestions": [
+    {
+      "etab_name": "Chandolin Boutique Hôtel",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": "Valais",
+      "visites": 177,
+      "note": "5/5",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Chanelle and Co.",
+      "etab_slug": "chanelle-and-co",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/",
+      "canton": "Valais",
+      "visites": 15,
+      "note": "5/5",
+      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": null,
+      "note": null,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
