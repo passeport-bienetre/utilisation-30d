@@ -1,19 +1,19 @@
 {
-  "carte": "36801",
-  "name": "Sabrina",
+  "carte": "33190",
+  "name": "Fanny",
   "last_visit": {
-    "etab_name": "Saai Nam Massage - Manor",
-    "etab_slug": "saai-nam-massage-manor",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
-    "canton": "Genève",
-    "visites": 1041,
-    "note": "4/5",
-    "blurb": "Saai Nam Massage. Matelas spéciaux confortables, pièce éclairée à la bougie et tasse de thé ou café en clôture, la tradition thaïe avec ses gestes.",
+    "etab_name": "Intuition Massage",
+    "etab_slug": "intuition-massage",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuition-massage.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/intuition-massage/",
+    "canton": "Jura",
+    "visites": 8,
+    "note": "4.5/5",
+    "blurb": "Le cabinet Intuition Massage. Anamnèse en amont et choix du massage avec la praticienne, pour la précision du geste sur fond de confidentialité.",
     "date_iso": "2026-09-03",
     "date_pretty": "le 3 septembre"
   },
-  "top_category": "Massage",
+  "top_category": "Soins Hommes",
   "top_canton": "Genève",
   "suggestions": [
     {
