@@ -1,19 +1,19 @@
 {
-  "carte": "38985",
-  "name": "Jacqueline",
+  "carte": "38457",
+  "name": "Anaïs",
   "last_visit": {
-    "etab_name": "Thai Corner",
-    "etab_slug": "thai-corner-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+    "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+    "etab_slug": "le-centre-geneve-by-charline",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
     "canton": "Genève",
-    "visites": 858,
-    "note": "4.5/5",
-    "blurb": "Thai Corner à Plainpalais. Décor thaï traditionnel et contemporain, masseuses formées aux meilleures écoles dont le Wat Pho : le massage comme art de vivre.",
+    "visites": 145,
+    "note": "5/5",
+    "blurb": "Le Centre Genève by Charline. Soins corps, esthétique, thérapies douces et accompagnement émotionnel sous un même toit, pour une beauté pensée comme équilibre intérieur.",
     "date_iso": "2026-09-05",
     "date_pretty": "le 5 septembre"
   },
-  "top_category": "Massage",
+  "top_category": "Epilation",
   "top_canton": "Genève",
   "suggestions": [
     {
@@ -28,14 +28,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 548,
+      "visites": 121,
       "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

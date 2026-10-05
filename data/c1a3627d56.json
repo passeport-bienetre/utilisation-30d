@@ -1,19 +1,19 @@
 {
-  "carte": "38985",
-  "name": "Jacqueline",
+  "carte": "33698",
+  "name": "Marylaure",
   "last_visit": {
-    "etab_name": "Thai Corner",
-    "etab_slug": "thai-corner-3",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+    "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+    "etab_slug": "lavalleespa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
     "canton": "Genève",
-    "visites": 858,
-    "note": "4.5/5",
-    "blurb": "Thai Corner à Plainpalais. Décor thaï traditionnel et contemporain, masseuses formées aux meilleures écoles dont le Wat Pho : le massage comme art de vivre.",
+    "visites": 171,
+    "note": "5/5",
+    "blurb": "Les La Vallée SPA Suites du Ritz-Carlton Hotel de la Paix Genève. Soins du visage et du corps signés Beauty Experts aux ingrédients naturels suisses, entre Alpes et Léman.",
     "date_iso": "2026-09-05",
     "date_pretty": "le 5 septembre"
   },
-  "top_category": "Massage",
+  "top_category": "Soins Hommes",
   "top_canton": "Genève",
   "suggestions": [
     {
