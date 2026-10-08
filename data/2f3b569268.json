@@ -1,21 +1,32 @@
 {
-  "carte": "39342",
-  "name": "Elsa",
+  "carte": "36448",
+  "name": "Aurélie",
   "last_visit": {
-    "etab_name": "Le Passage",
-    "etab_slug": "le-passage",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-passage/",
-    "canton": "Vaud",
-    "visites": 209,
+    "etab_name": "ALEX COIFFURE SARL",
+    "etab_slug": "a-lex-coiffure-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
+    "canton": "Fribourg",
+    "visites": 78,
     "note": "5/5",
-    "blurb": "Le salon de Valérie et Chloé à la Rue du Midi 1, Lausanne, ouvert en 2021. Atmosphère épurée pensée par une amie architecte, pour une coiffure dépoussiérée.",
+    "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
     "date_iso": "2026-09-08",
     "date_pretty": "le 8 septembre"
   },
-  "top_category": "Soins Hommes",
-  "top_canton": "Vaud",
+  "top_category": "Coiffeur",
+  "top_canton": "Fribourg",
   "suggestions": [
+    {
+      "etab_name": "Fjacco Coiffure",
+      "etab_slug": "fjacco-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fjacco-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fjacco-coiffure/",
+      "canton": "Fribourg",
+      "visites": 34,
+      "note": "5/5",
+      "blurb": null,
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "1er Acte Coiffure",
       "etab_slug": "1er-acte-coiffure",
@@ -25,17 +36,6 @@
       "visites": 741,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "canton": "Vaud",
-      "visites": 185,
-      "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
