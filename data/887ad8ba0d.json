@@ -2,18 +2,18 @@
   "carte": "34717",
   "name": "Aiescha",
   "last_visit": {
-    "etab_name": "Arte Beauty Lutry",
-    "etab_slug": "arte-beauty-lutry",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+    "etab_name": "Salon Privé Gare",
+    "etab_slug": "salon-prive",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
     "canton": "Vaud",
-    "visites": 1146,
-    "note": "4/5",
-    "blurb": "L'antenne Arte Beauty à Lutry. Mêmes marques de référence (OPI, LPG, Kérastase, Fillmed) en version riveraine du Léman.",
-    "date_iso": "2026-07-11",
-    "date_pretty": "le 11 juillet"
+    "visites": 531,
+    "note": "4.5/5",
+    "blurb": "Salon Privé près de la gare de Lausanne. L'Oréal Professionnel, Kérastase, Davines et équipe formée à New York et Sydney : la couleur comme signature.",
+    "date_iso": "2026-09-11",
+    "date_pretty": "le 11 septembre"
   },
-  "top_category": "Lausanne région",
+  "top_category": "Soins Hommes",
   "top_canton": "Vaud",
   "suggestions": [
     {
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 728,
+      "visites": 742,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 179,
+      "visites": 185,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
-      "canton": "Valais",
-      "visites": 5,
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

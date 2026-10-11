@@ -1,15 +1,15 @@
 {
-  "carte": "38139",
-  "name": "Brigitte",
+  "carte": "35077",
+  "name": "Paola",
   "last_visit": {
-    "etab_name": "CJ Coiffure",
-    "etab_slug": "cj-coiffure",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+    "etab_name": "1er Acte Coiffure",
+    "etab_slug": "1er-acte-coiffure",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
     "canton": "Vaud",
-    "visites": 599,
+    "visites": 742,
     "note": "5/5",
-    "blurb": "Le salon de deux amies, Caroline et Jenny. Convivialité, tendance et formation continue auprès des partenaires : le salon comme deuxième salon.",
+    "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
     "date_iso": "2026-09-11",
     "date_pretty": "le 11 septembre"
   },

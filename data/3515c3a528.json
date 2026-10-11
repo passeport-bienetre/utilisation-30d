@@ -1,6 +1,6 @@
 {
-  "carte": "38941",
-  "name": "Sarah",
+  "carte": "39202",
+  "name": "Michel",
   "last_visit": {
     "etab_name": "Chalet Royalp Hôtel & Spa",
     "etab_slug": "chalet-royalp-hotel-spa",
@@ -13,30 +13,30 @@
     "date_iso": "2026-09-11",
     "date_pretty": "le 11 septembre"
   },
-  "top_category": "Soins Hommes",
-  "top_canton": "Genève",
+  "top_category": "Hôtels",
+  "top_canton": "Vaud",
   "suggestions": [
     {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
-      "canton": "Genève",
-      "visites": 152,
-      "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "etab_name": "HÔTEL ROYAL SAVOY",
+      "etab_slug": "bpnight-hotel-royal-savoy",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-royal-savoy.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-royal-savoy/",
+      "canton": "Vaud",
+      "visites": 4,
+      "note": null,
+      "blurb": "Le Royal Savoy 5 étoiles sur les rives du Léman mêle architecture historique et touche contemporaine. Skylounge sur le toit et Brasserie reconnue, signature lausannoise.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
-      "canton": "Genève",
-      "visites": 550,
-      "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
-      "reason": "À découvrir dans le canton de Genève"
+      "etab_name": "LAUSANNE PALACE",
+      "etab_slug": "bpnight-hotel-lausanne-palace",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-lausanne-palace.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-lausanne-palace/",
+      "canton": "Vaud",
+      "visites": 11,
+      "note": null,
+      "blurb": "Inauguré en 1915, le Lausanne Palace fait face au lac et aux Alpes. Belle Époque vivante, table doublement étoilée et spa intérieur dans une institution lausannoise.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
