@@ -2,16 +2,16 @@
   "carte": "36893",
   "name": "Anne",
   "last_visit": {
-    "etab_name": "Studio Beauté",
-    "etab_slug": "studio-beaute",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/studio-beaute.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/studio-beaute/",
-    "canton": "Genève",
-    "visites": 193,
-    "note": "4.5/5",
-    "blurb": "Studio Beauté sur la rive droite. Soins Sothy's, produits Alessandro et OPI, spécialisé microdermabrasion et DermaPod anti-âge : l'attention personnalisée signée Rosemary.",
-    "date_iso": "2026-05-27",
-    "date_pretty": "le 27 mai"
+    "etab_name": "Hôtel Schweizerhof Bern & Spa",
+    "etab_slug": "schweizerhof-bern-hotel-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/schweizerhof-bern-hotel-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
+    "canton": "Berne",
+    "visites": 55,
+    "note": "4/5",
+    "blurb": "Le spa du Schweizerhof Bern. Sauna, bain de vapeur, piscine de vitalité chauffée, salle de relaxation aux lits aqueux et équipement Techno Gym, ouvert aux visiteurs de jour.",
+    "date_iso": "2026-09-14",
+    "date_pretty": "le 14 septembre"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Genève",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 145,
+      "visites": 152,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 524,
+      "visites": 550,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
       "visites": null,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]
