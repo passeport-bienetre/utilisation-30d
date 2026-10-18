@@ -2,16 +2,16 @@
   "carte": "39294",
   "name": "Yvonne",
   "last_visit": {
-    "etab_name": "Hôtel & Spa Le National",
-    "etab_slug": "hotel-spa-le-national",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
-    "canton": "Valais",
-    "visites": 276,
-    "note": "4.5/5",
-    "blurb": "L'Hôtel National Resort à Champéry. Un spa où pierre, bois et eau habitent le lieu, soins ComfortZone et la montagne comme cadre du voyage sensoriel.",
-    "date_iso": "2026-08-08",
-    "date_pretty": "le 8 août"
+    "etab_name": "La VILLA Kobido et Massage",
+    "etab_slug": "la-villa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+    "canton": "Vaud",
+    "visites": 237,
+    "note": "5/5",
+    "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
+    "date_iso": "2026-09-18",
+    "date_pretty": "le 18 septembre"
   },
   "top_category": "Massage",
   "top_canton": "Valais",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "canton": "Valais",
-      "visites": 174,
+      "visites": 177,
       "note": "5/5",
       "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
-      "visites": 358,
+      "visites": 361,
       "note": "5/5",
       "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {
-      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
-      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
-      "canton": "Valais",
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
       "visites": null,
       "note": null,
-      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]
