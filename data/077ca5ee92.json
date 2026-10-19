@@ -2,16 +2,16 @@
   "carte": "34483",
   "name": "Isabelle",
   "last_visit": {
-    "etab_name": "Salon Privé Gare",
-    "etab_slug": "salon-prive",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+    "etab_name": "Flaventino coiffure Aubonne",
+    "etab_slug": "flaventino-coiffure-aubonne",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
     "canton": "Vaud",
-    "visites": 524,
+    "visites": 175,
     "note": "4.5/5",
-    "blurb": "Salon Privé près de la gare de Lausanne. L'Oréal Professionnel, Kérastase, Davines et équipe formée à New York et Sydney : la couleur comme signature.",
-    "date_iso": "2026-08-18",
-    "date_pretty": "le 18 août"
+    "blurb": "Le salon Flaventino à Aubonne, signature de la Haute Coiffure Française Paris. Relooking, créations et collections : chez Flaventino, la star c'est vous.",
+    "date_iso": "2026-09-19",
+    "date_pretty": "le 19 septembre"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Vaud",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 738,
+      "visites": 745,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,7 +33,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 183,
+      "visites": 185,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
