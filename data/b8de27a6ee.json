@@ -2,40 +2,40 @@
   "carte": "39462",
   "name": "Fanny",
   "last_visit": {
-    "etab_name": "KASA AMO",
-    "etab_slug": "kasa-amo",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
+    "etab_name": "HÔTEL ROYAL SAVOY",
+    "etab_slug": "bpnight-hotel-royal-savoy",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-royal-savoy.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-royal-savoy/",
     "canton": "Vaud",
-    "visites": 205,
-    "note": "4.5/5",
-    "blurb": "Kasa Amo, le duo mère-fille Claudine et Priscilla. Anti-âge, minceur, beauté du regard et maquillage permanent, plus de 40 ans d'expérience cumulée.",
-    "date_iso": "2026-07-24",
-    "date_pretty": "le 24 juillet"
+    "visites": 5,
+    "note": null,
+    "blurb": "Le Royal Savoy 5 étoiles sur les rives du Léman mêle architecture historique et touche contemporaine. Skylounge sur le toit et Brasserie reconnue, signature lausannoise.",
+    "date_iso": "2026-09-24",
+    "date_pretty": "le 24 septembre"
   },
-  "top_category": "Massage",
+  "top_category": "Hôtels",
   "top_canton": "Vaud",
   "suggestions": [
     {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-      "canton": "Vaud",
-      "visites": 304,
-      "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
       "etab_slug": "chalet-royalp-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visites": 942,
-      "note": "5/5",
+      "visites": null,
+      "note": null,
       "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "LAUSANNE PALACE",
+      "etab_slug": "bpnight-hotel-lausanne-palace",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-lausanne-palace.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-lausanne-palace/",
+      "canton": "Vaud",
+      "visites": 11,
+      "note": null,
+      "blurb": "Inauguré en 1915, le Lausanne Palace fait face au lac et aux Alpes. Belle Époque vivante, table doublement étoilée et spa intérieur dans une institution lausannoise.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
@@ -43,10 +43,10 @@
       "etab_slug": "bpnight-hotel-nendaz-4-vallees",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
-      "canton": null,
-      "visites": null,
+      "canton": "Valais",
+      "visites": 1,
       "note": null,
-      "blurb": null,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
     }
   ]
