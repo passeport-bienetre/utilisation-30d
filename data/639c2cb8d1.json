@@ -2,16 +2,16 @@
   "carte": "36676",
   "name": "Jamie",
   "last_visit": {
-    "etab_name": "Le Mirador Resort & Spa",
-    "etab_slug": "le-mirador-resort-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+    "etab_name": "Organik Beauty",
+    "etab_slug": "organik-beauty",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
     "canton": "Vaud",
-    "visites": 2113,
+    "visites": 607,
     "note": "4.5/5",
-    "blurb": "Perché sur les hauteurs du Mont-Pèlerin, vue panoramique sur le lac et les Alpes. Le Givenchy Spa et un parcours sensoriel.",
-    "date_iso": "2026-08-06",
-    "date_pretty": "le 6 août"
+    "blurb": "Organik Beauty, réconciliation entre composants et efficacité. Prendre soin de soi et de la planète, la beauté en mode développement durable.",
+    "date_iso": "2026-09-26",
+    "date_pretty": "le 26 septembre"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Vaud",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 734,
+      "visites": 747,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,7 +33,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 182,
+      "visites": 186,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
@@ -44,7 +44,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": null,
+      "visites": 1,
       "note": null,
       "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
