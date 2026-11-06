@@ -1,0 +1,53 @@
+{
+  "carte": "37008",
+  "name": "Véronique",
+  "last_visit": {
+    "etab_name": "Thai Corner",
+    "etab_slug": "thai-corner-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+    "canton": "Genève",
+    "visites": 876,
+    "note": "4.5/5",
+    "blurb": "Thai Corner à Plainpalais. Décor thaï traditionnel et contemporain, masseuses formées aux meilleures écoles dont le Wat Pho : le massage comme art de vivre.",
+    "date_iso": "2026-10-07",
+    "date_pretty": "le 7 octobre"
+  },
+  "top_category": "Massage",
+  "top_canton": "Genève",
+  "suggestions": [
+    {
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "canton": "Genève",
+      "visites": 152,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Corps Sains",
+      "etab_slug": "corps-sains",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "canton": "Genève",
+      "visites": 145,
+      "note": "5/5",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "CLARELYS",
+      "etab_slug": "clarelys",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
