@@ -2,16 +2,16 @@
   "carte": "35899",
   "name": "Alienor",
   "last_visit": {
-    "etab_name": "Wulan Studio",
-    "etab_slug": "wulan-studio",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
+    "etab_name": "MAISON DU TEMPS",
+    "etab_slug": "maison-du-temps",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
     "canton": "Genève",
-    "visites": 72,
+    "visites": 65,
     "note": "5/5",
-    "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
-    "date_iso": "2026-06-09",
-    "date_pretty": "le 9 juin"
+    "blurb": null,
+    "date_iso": "2026-10-08",
+    "date_pretty": "le 8 octobre"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Genève",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 147,
+      "visites": 152,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "canton": "Genève",
-      "visites": 8,
+      "visites": 14,
       "note": "5/5",
       "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
+      "etab_name": "CLARELYS",
+      "etab_slug": "clarelys",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]
