@@ -1,0 +1,53 @@
+{
+  "carte": "36021",
+  "name": "Aude",
+  "last_visit": {
+    "etab_name": "Royal Savoy Hôtel & Spa",
+    "etab_slug": "royal-savoy-hotel-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+    "canton": "Vaud",
+    "visites": 3116,
+    "note": "5/5",
+    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
+    "date_iso": "2026-10-09",
+    "date_pretty": "le 9 octobre"
+  },
+  "top_category": "Future Maman",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 317,
+      "note": "5/5",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "La VILLA Kobido et Massage",
+      "etab_slug": "la-villa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "canton": "Vaud",
+      "visites": 242,
+      "note": "5/5",
+      "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "CLARELYS",
+      "etab_slug": "clarelys",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
