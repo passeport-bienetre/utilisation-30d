@@ -2,16 +2,16 @@
   "carte": "35153",
   "name": "Melissa",
   "last_visit": {
-    "etab_name": "Royal Savoy Hôtel & Spa",
-    "etab_slug": "royal-savoy-hotel-spa",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+    "etab_name": "RUBIS SPA",
+    "etab_slug": "rubis-spa",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
     "canton": "Vaud",
-    "visites": 2988,
+    "visites": 170,
     "note": "5/5",
-    "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
-    "date_iso": "2026-06-24",
-    "date_pretty": "le 24 juin"
+    "blurb": "Rubis Spa sur les hauteurs de Corseaux (Vaud), à quelques minutes de Vevey. Pierre et bois naturels, lumière tamisée, loin du tumulte.",
+    "date_iso": "2026-10-21",
+    "date_pretty": "le 21 octobre"
   },
   "top_category": "Soins Hommes",
   "top_canton": "Vaud",
@@ -22,7 +22,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 723,
+      "visites": 756,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -33,20 +33,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 179,
+      "visites": 186,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
       "canton": null,
-      "visites": null,
-      "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "visites": 4,
+      "note": "5/5",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]
