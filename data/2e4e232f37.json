@@ -1,0 +1,53 @@
+{
+  "carte": "37911",
+  "name": "Mena",
+  "last_visit": {
+    "etab_name": "Thai Corner",
+    "etab_slug": "thai-corner-3",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+    "canton": "Genève",
+    "visites": 879,
+    "note": "4.5/5",
+    "blurb": "Thai Corner à Plainpalais. Décor thaï traditionnel et contemporain, masseuses formées aux meilleures écoles dont le Wat Pho : le massage comme art de vivre.",
+    "date_iso": "2026-10-23",
+    "date_pretty": "le 23 octobre"
+  },
+  "top_category": "Massage",
+  "top_canton": "Genève",
+  "suggestions": [
+    {
+      "etab_name": "Corps Sains",
+      "etab_slug": "corps-sains",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "canton": "Genève",
+      "visites": 145,
+      "note": "5/5",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "canton": "Genève",
+      "visites": 467,
+      "note": "5/5",
+      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
+      "canton": null,
+      "visites": 4,
+      "note": "5/5",
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
