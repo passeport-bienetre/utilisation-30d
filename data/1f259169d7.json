@@ -1,0 +1,53 @@
+{
+  "carte": "32292",
+  "name": "Patricia",
+  "last_visit": {
+    "etab_name": "Odyssée Santé & Beauté",
+    "etab_slug": "odyssee-sante-beaute",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/odyssee-sante-beaute.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
+    "canton": "Vaud",
+    "visites": 202,
+    "note": "4.5/5",
+    "blurb": "Odyssée Santé, spa moderne tout confort. Soins corps et visage haut de gamme, équipement dernière génération et solutions minceur éprouvées : la palette complète sous un toit.",
+    "date_iso": "2026-10-27",
+    "date_pretty": "le 27 octobre"
+  },
+  "top_category": "Massage",
+  "top_canton": "Valais",
+  "suggestions": [
+    {
+      "etab_name": "Chandolin Boutique Hôtel",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": "Valais",
+      "visites": 177,
+      "note": "5/5",
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "etab_slug": "flocoon-spa-cinq-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
+      "canton": "Valais",
+      "visites": 372,
+      "note": "5/5",
+      "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
+      "canton": null,
+      "visites": 8,
+      "note": "5/5",
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
