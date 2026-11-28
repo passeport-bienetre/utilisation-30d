@@ -1,0 +1,53 @@
+{
+  "carte": "35288",
+  "name": "Sebastien",
+  "last_visit": {
+    "etab_name": "Nail Café",
+    "etab_slug": "nail-cafe",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+    "canton": "Vaud",
+    "visites": 626,
+    "note": "4.5/5",
+    "blurb": "Nail Café à la gare de Renens. Soins mains et pieds, Nail Art, cils, sourcils, visage, épilations et pressothérapie, avec ou sans rendez-vous, café à siroter.",
+    "date_iso": "2026-10-29",
+    "date_pretty": "le 29 octobre"
+  },
+  "top_category": "Epilation",
+  "top_canton": "Vaud",
+  "suggestions": [
+    {
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 322,
+      "note": "5/5",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Espace Beauté Harmonie",
+      "etab_slug": "espace-beaute-harmonie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
+      "canton": "Vaud",
+      "visites": 90,
+      "note": "5/5",
+      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
+      "canton": null,
+      "visites": 8,
+      "note": "5/5",
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
